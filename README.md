@@ -132,3 +132,8 @@ Lanyon has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+
+## Links
+
+<https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58>
