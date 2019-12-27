@@ -25,14 +25,15 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
+    <img src="/assets/gifs/ns2.gif" width="300">
+    <p>
+      Site under construction...
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {% comment %} Currently v{{ site.version }} {% endcomment %}
     </p>
   </div>
 </div>
