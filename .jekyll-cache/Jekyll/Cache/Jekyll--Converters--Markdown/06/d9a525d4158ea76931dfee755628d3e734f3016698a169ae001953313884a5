@@ -1,19 +1,14 @@
----
-layout: page
-title: Antarctica
----
-
-<img src="/Antarctica/banner.jpg" align="center">
+I"S<p><img src="/Antarctica/banner.jpg" align="center" /></p>
 <h2>
 	<b>Homeward Bound Initative</b>
 </h2>
 <p align="justify">
-	<a href="https://homewardboundprojects.com.au/about/">Homeward Bound</a> is a global 12-month leadership initiative for women with a background in <b>STEMM (Science, Technology, Engineering, Mathematics and Medicine)</b>, which aims to equip a 1000-strong collaboration of women with the skills to demonstrate a new model of leadership, to create better outcomes for our planet. The programme has been featured multiple times in the <a href="https://homewardboundprojects.com.au/media/">media</a>, including <a href="https://www.forbes.com/sites/emanuelabarbiroglio/2019/11/22/the-largest-ever-womens-expedition-to-antarctica-will-upscale-science-diplomacy/#2f7226237686">Forbes</a>, <a href="https://time.com/longform/women-antarctica-iwd-scientists-explorers/?utm_source=emailshare&utm_medium=email&utm_campaign=email-share-article&utm_content=20190721">Time</a> and <a href="https://www.vogue.com.au/gamechangers/technology-and-business/homeward-bound/news-story/095f8341c7ade07228dfd1da00b12bbf">Vogue</a>.
+	<a href="https://homewardboundprojects.com.au/about/">Homeward Bound</a> is a global 12-month leadership initiative for women with a background in <b>STEMM (Science, Technology, Engineering, Mathematics and Medicine)</b>, which aims to equip a 1000-strong collaboration of women with the skills to demonstrate a new model of leadership, to create better outcomes for our planet. The programme has been featured multiple times in the <a href="https://homewardboundprojects.com.au/media/">media</a>, including <a href="https://www.forbes.com/sites/emanuelabarbiroglio/2019/11/22/the-largest-ever-womens-expedition-to-antarctica-will-upscale-science-diplomacy/#2f7226237686">Forbes</a>, <a href="https://time.com/longform/women-antarctica-iwd-scientists-explorers/?utm_source=emailshare&amp;utm_medium=email&amp;utm_campaign=email-share-article&amp;utm_content=20190721">Time</a> and <a href="https://www.vogue.com.au/gamechangers/technology-and-business/homeward-bound/news-story/095f8341c7ade07228dfd1da00b12bbf">Vogue</a>.
 </p>
 <p align="justify">
 	For the 2019-20 edition, Homeward Bound is welcoming 80 participants into its fifth program, encompassing more than 25 nationalities and a hugely diverse representation of STEMM fields. Homeward Bound is now nearly halfway towards achieving its vision of creating a global collaboration of 1000 women leaders with STEMM backgrounds.
 </p>
-<img src="/Antarctica/ant-fiord.jpg">
+<p><img src="/Antarctica/ant-fiord.jpg" /></p>
 <p align="center"><cite>Laubeuf Fjord with Webb Island</cite> by Vincent van Zeijst.</p>
 <h3>
 	<b>Why women in STEMM?</b>
@@ -38,10 +33,10 @@ title: Antarctica
 <p align="justify">
 	I am extremely honoured to have been selected for the fifth edition of the initiative. Since being an engineer doesn’t necessarily make one a good leader, I truly look forward to this programme.
 
-	<br><br>
+	<br /><br />
 	I feel very strongly for encouraging young girls to pursue Science and dare to dream about Space. Now, more than just good intent, such initiatives require momentum and being part of Homeward Bound will definitely help me with my cause.
 
-	<br><br>
+	<br /><br />
 	It is indeed an entire package: a leadership training for women in STEM, networking with future global leaders (some already famous!) and finally, a chance to challenge my physical limits by going to Antarctica.
 </p>
 
@@ -51,8 +46,8 @@ title: Antarctica
 <!-- Display the countdown timer in an element -->
 <p id="demo" align="center" style="font-size:40px"></p>
 
-<img src="/Antarctica/hb16.jpg">
-<p align="center"><cite>Seventy-six women from around the world, participants on the inaugural Homeward Bound Women In Science Leadership Expedition to Antarctica.</cite> <br><b>PHOTO CREDIT</b> Dr. Shelley Ball.</p>
+<img src="/Antarctica/hb16.jpg" />
+<p align="center"><cite>Seventy-six women from around the world, participants on the inaugural Homeward Bound Women In Science Leadership Expedition to Antarctica.</cite> <br /><b>PHOTO CREDIT</b> Dr. Shelley Ball.</p>
 
 
 <script>
@@ -84,3 +79,5 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+</p>
+:ET
