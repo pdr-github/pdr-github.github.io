@@ -1,9 +1,4 @@
----
-layout: page
-title: About
----
-
-<p align="justify">
+I"<p align="justify">
 	Since I was child, I always had three passions: Space, Science and Art. I always had this dream where, I would one day be able to mix the three. After experimenting with my interests, a few unconventional choices later – I went from being a Physicist to an Aerospace Engineer and now finally, an Artist.
 </p>
 <p align="justify">
@@ -16,33 +11,4 @@ title: About
 	This is the grey zone that excites me and where I have currently set up my worktable. Inspired by the work of a lot of physicists, artists and even philosophers, who have been exploring this grey zone, I have been very fortunate to find a lot of collaborations especially with the European Space Agency (ESA), from world renowned space scientists to artists who have sent their work to the international space station (ISS) showcased even by astronaut Thomas Pesquet.
 </p>
 
-
-{% comment %}
-
-<p class="message">
-  About the artist
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
-
-{% endcomment %}
+:ET
