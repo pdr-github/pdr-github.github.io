@@ -19,3 +19,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Portfolio
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/

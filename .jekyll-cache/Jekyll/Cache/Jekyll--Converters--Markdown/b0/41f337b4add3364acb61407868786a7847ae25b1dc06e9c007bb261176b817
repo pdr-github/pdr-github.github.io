@@ -1,0 +1,44 @@
+I"<ul class="posts">
+
+
+  <li><span>02 Jan 2014</span> » <a href="/2014/01/02/introducing-lanyon/" title="Introducing Lanyon">Introducing Lanyon</a></li>
+
+  <li><span>01 Jan 2014</span> » <a href="/2014/01/01/example-content/" title="Example content">Example content</a></li>
+
+  <li><span>31 Dec 2013</span> » <a href="/2013/12/31/whats-jekyll/" title="What's Jekyll?">What's Jekyll?</a></li>
+
+</ul>
+
+<div class="row">
+	
+		<a href="/portfolio/2019-12-27-art1/">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						Art item 1
+					</div>
+					<div class="panel-body">
+						<p><img src="/assets/gifs/ns2.gif" /></p>
+
+					</div>
+				</div>
+			</div>
+		</a>
+	
+		<a href="/portfolio/2019-12-27-art2/">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						Art item 2
+					</div>
+					<div class="panel-body">
+						<p><img src="/assets/gifs/ns2.gif" /></p>
+
+					</div>
+				</div>
+			</div>
+		</a>
+		
+</div>
+
+:ET
