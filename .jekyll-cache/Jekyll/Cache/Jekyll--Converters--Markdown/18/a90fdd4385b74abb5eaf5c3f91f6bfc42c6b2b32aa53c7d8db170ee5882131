@@ -1,9 +1,4 @@
----
-layout: page
-title: Artwork
----
-
-<style>
+I"³<style>
 * {  box-sizing: border-box;}
 
 /* Center website */
@@ -60,6 +55,7 @@ title: Artwork
   color: white;
 }
 </style>
+
 <body>
 
 <!-- MAIN (Center website) -->
@@ -77,122 +73,122 @@ title: Artwork
 <div class="row">
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/glit.gif" alt="NightSky2" style="width:100%">
+      <img src="/Artwork/MoonGal/glit.gif" alt="NightSky2" style="width:100%" />
     </div>
   </div>
 
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/hand.png" alt="Light and Darkness" style="width:100%">
+      <img src="/Artwork/MoonGal/hand.png" alt="Light and Darkness" style="width:100%" />
     </div>
   </div>
 
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/nsky.gif" alt="NightSky" style="width:100%">
+      <img src="/Artwork/MoonGal/nsky.gif" alt="NightSky" style="width:100%" />
     </div>
   </div>
 
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/moon.png" alt="Moon" style="width:100%">
+      <img src="/Artwork/MoonGal/moon.png" alt="Moon" style="width:100%" />
     </div>
   </div>
 
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/cube.png" alt="Cube" style="width:100%">
+      <img src="/Artwork/MoonGal/cube.png" alt="Cube" style="width:100%" />
     </div>
   </div>
 
   <div class="column Moon Gallery">
     <div class="content">
-      <img src="/Artwork/MoonGal/sup.gif" alt="Supernova" style="width:100%">
+      <img src="/Artwork/MoonGal/sup.gif" alt="Supernova" style="width:100%" />
     </div>
   </div>
 
 
   <div class="column Paintings">
     <div class="content">
-      <img src="/Artwork/Paintings/taj.jpg" alt="Taj Mahal" style="width:100%">
+      <img src="/Artwork/Paintings/taj.jpg" alt="Taj Mahal" style="width:100%" />
     </div>
   </div>
 
   <div class="column Paintings">
     <div class="content">
-      <img src="/Artwork/Paintings/anu.jpg" alt="Girl with puppy" style="width:100%">
+      <img src="/Artwork/Paintings/anu.jpg" alt="Girl with puppy" style="width:100%" />
     </div>
   </div>
 
   <div class="column Paintings">
     <div class="content">
-      <img src="/Artwork/Paintings/yosm.jpg" alt="Yosemite" style="width:100%">
+      <img src="/Artwork/Paintings/yosm.jpg" alt="Yosemite" style="width:100%" />
     </div>
   </div>
 
   <div class="column Sketches">
     <div class="content">
-      <img src="/Artwork/Sketches/face.jpg" alt="Charcoal and face" style="width:100%">
+      <img src="/Artwork/Sketches/face.jpg" alt="Charcoal and face" style="width:100%" />
     </div>
   </div>
 
   <div class="column Sketches">
     <div class="content">
-      <img src="/Artwork/Sketches/mum.jpg" alt="Mother and Daughter" style="width:100%">
+      <img src="/Artwork/Sketches/mum.jpg" alt="Mother and Daughter" style="width:100%" />
     </div>
   </div>
 
   <div class="column Sketches">
     <div class="content">
-      <img src="/Artwork/Sketches/pont.jpg" alt="Pont neuf Toulouse" style="width:100%">
+      <img src="/Artwork/Sketches/pont.jpg" alt="Pont neuf Toulouse" style="width:100%" />
     </div>
   </div>
 
   <div class="column Sketches">
     <div class="content">
-      <img src="/Artwork/Sketches/toul.jpg" alt="Toulouse" style="width:100%">
+      <img src="/Artwork/Sketches/toul.jpg" alt="Toulouse" style="width:100%" />
     </div>
   </div>
 
   <div class="column Sketches">
     <div class="content">
-      <img src="/Artwork/Sketches/vers.jpg" alt="Versailles gardens" style="width:100%">
+      <img src="/Artwork/Sketches/vers.jpg" alt="Versailles gardens" style="width:100%" />
     </div>
   </div>
 
   <div class="column Crafts">
     <div class="content">
-      <img src="/Artwork/Crafts/dragon.jpg" alt="Dragon" style="width:100%">
+      <img src="/Artwork/Crafts/dragon.jpg" alt="Dragon" style="width:100%" />
     </div>
   </div>
   
   <div class="column Crafts">
     <div class="content">
-      <img src="/Artwork/Crafts/lamp.jpg" alt="Lamp" style="width:100%">
+      <img src="/Artwork/Crafts/lamp.jpg" alt="Lamp" style="width:100%" />
     </div>
   </div>
   
   <div class="column Crafts">
     <div class="content">
-      <img src="/Artwork/Crafts/orchid.jpg" alt="Orchid" style="width:100%">
+      <img src="/Artwork/Crafts/orchid.jpg" alt="Orchid" style="width:100%" />
     </div>
   </div>
   
   <div class="column Commissions">
     <div class="content">
-      <img src="/Artwork/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:100%">
+      <img src="/Artwork/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:100%" />
     </div>
   </div>
   
   <div class="column Commissions">
     <div class="content">
-      <img src="/Artwork/Commissions/ogl.png" alt="Our Giant Leap poster" style="width:100%">
+      <img src="/Artwork/Commissions/ogl.png" alt="Our Giant Leap poster" style="width:100%" />
     </div>
   </div>
   
   <div class="column Commissions">
     <div class="content">
-      <img src="/Artwork/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:100%">
+      <img src="/Artwork/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:100%" />
     </div>
   </div>
   
@@ -203,15 +199,6 @@ title: Artwork
 </div>
 
 <script>
-filterSelection()
-function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("column");
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
 
 function w3AddClass(element, name) {
   var i, arr1, arr2;
@@ -239,7 +226,7 @@ function w3RemoveClass(element, name) {
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {
-	btns[i].addEventListener("click", function(){
+  btns[i].addEventListener("click", function(){
     var current = document.getElementsByClassName("active");
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
@@ -249,31 +236,4 @@ for (var i = 0; i < btns.length; i++) {
 
 </body>
 
-
-{% comment %}
-<ul class="posts">
-
-{% for post in site.posts %}
-  <li><span>{{ post.date | date_to_string }}</span> Â» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
-<div class="row">
-	{% for portfolio in site.portfolio %}
-		<a href="{{ portfolio.url | prepend: site.baseurl }}">
-			<div class="col-xs-12 col-sm-6 col-md-4">
-				<div class="panel panel-primary">
-					<div class="panel-heading">
-						{{ portfolio.title}}
-					</div>
-					<div class="panel-body">
-						{{portfolio.excerpt}}
-					</div>
-				</div>
-			</div>
-		</a>
-	{% endfor %}	
-</div>
-
-  
-{% endcomment %}
+:ET
