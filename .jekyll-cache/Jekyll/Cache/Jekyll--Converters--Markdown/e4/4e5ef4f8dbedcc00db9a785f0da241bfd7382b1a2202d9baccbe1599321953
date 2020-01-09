@@ -1,4 +1,4 @@
-I"(<style>
+I"l(<style>
 * {  box-sizing: border-box;}
 
 /* Center website */
@@ -86,13 +86,14 @@
       <p align="justify">
       	Through the European Space Agency, I have the amazing opportunity of being one of the six analogue-astronauts for the third mission, EMMIHS-III. It will be a two-week mission in January, and I am currently preparing in full-swing. I will also have the opportunity to be trained under the director of HI-SEAS, Michaela Musilova, as crew-commander, which will be an incredible addition to my experiences! I would be doing experiments on robotics, space nutrition, crew-psychology and space-geology. And then, I designed the team logo.
       	<br /><br />
-      	<img src="/Artwork/Commissions/emm3.jpg" alt="EMMIHS-III logo" />
+      	<img src="/Artwork/Commissions/emm3.jpg" alt="EMMIHS-III logo" class="center" />
       </p>
     </div>
   </div>
 
   <div class="column OGL">
     <div class="content">
+      <h2><b>SGAC Our Giant Leap Initiative</b></h2>
     	<p align="justify">
     		Who doesn’t dream about Space? It is the next frontier of human exploration. However, the Space sector still has a long way to go in becoming inclusive for everyone, especially women. The question becomes not simply, how to inspire, but how to sustain these dreams?
 	    	<br /><br />
@@ -110,6 +111,7 @@
 
   <div class="column MoonGal">
     <div class="content">
+      <h2><b>ESA Moon Gallery</b></h2>
     	<p align="justify">
     		Scientists are not just people in lab coats having no life outside the laboratory – most of them are incredibly artistic and understand the importance of cultural activities (like music, dance and painting) for human beings. Therefore, the International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS). In 2019 I was elected an expert to the committee.
     		<br /><br />

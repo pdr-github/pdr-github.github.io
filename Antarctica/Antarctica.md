@@ -3,7 +3,7 @@ layout: page
 title: Antarctica
 ---
 
-<img src="/Antarctica/banner.jpg" align="center">
+<img src="/Antarctica/banner.jpg" class="center">
 <h2>
 	<b>Homeward Bound Initative</b>
 </h2>
@@ -51,7 +51,7 @@ title: Antarctica
 <!-- Display the countdown timer in an element -->
 <p id="demo" align="center" style="font-size:40px"></p>
 
-<img src="/Antarctica/hb16.jpg">
+<img src="/Antarctica/hb16.jpg" class="center">
 <p align="center"><cite>Seventy-six women from around the world, participants on the inaugural Homeward Bound Women In Science Leadership Expedition to Antarctica.</cite> <br><b>PHOTO CREDIT</b> Dr. Shelley Ball.</p>
 
 
