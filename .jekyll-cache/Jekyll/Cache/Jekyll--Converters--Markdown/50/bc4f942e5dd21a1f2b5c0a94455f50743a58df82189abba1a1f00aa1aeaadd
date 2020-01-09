@@ -1,9 +1,4 @@
----
-layout: page
-title: About me
----
-
-<h3>Art in Science in Space</h3>
+I"Ø<h3>Art in Science in Space</h3>
 <p align="justify">
 	Ever since I can remember I have been interested in three specific things: Space, Science and Art.
 </p>
@@ -16,20 +11,20 @@ title: About me
 
 <p align="justify">
 	In Biology, I was enthralled by bioluminescent bacteria and their patterns. This picture is a bacterial culture that I have infused with Green-Fluorescent protein. I was in fact so enthralled that I managed to "borrow" these samples to show to my friends, but the security guards behaved as though I were stealing national treasure.
-	<br><br>
-	<img src="/assets/images/bacteria.jpg">
+	<br /><br />
+	<img src="/assets/images/bacteria.jpg" />
 </p>
 
 <p align="justify">
 	In Computer Science, I saw an infinite potential for algorithmic art. Here is a fun fact: I made these simulations when I was first learning to code. I took a different approach than the rest of my classmates - motivated by art-lust - and started programming with a passion. A Physics professor thought I was a Computer WhizKid because my graphical interface was so convincingly elaborate.
-	<br><br>
-	<img src="/assets/images/hyperart.png">
+	<br /><br />
+	<img src="/assets/images/hyperart.png" />
 </p>
 
 <p align="justify">
 	In Signal Processing, I was fascinated by the geometric patterns made by signals and noise, Fourier Transforms and Gaussian curves. I am actually pursuing a PhD at the moment in this domain, on satellite navigation. When the engineer I work with at University, showed me this GPS signal code he had written, I could not stop thinking of the art one could create out of it (and science too, obviously).
-	<br><br>
-	<img src="/assets/images/gnss_art.png">
+	<br /><br />
+	<img src="/assets/images/gnss_art.png" />
 </p>
 
 <p>
@@ -38,11 +33,11 @@ title: About me
 
 <p class="message" align="justify">
 	This is the grey zone that excites me, and where I have currently set up my workshop, drawing inspiration from the work of scientists, philosophers, and on collaborating with other artists.
-	<br><br>
+	<br /><br />
 	I invite you to come along on my journey through my website :).
+	<br /><br />
+	(Note: Life is not perfect, neither is the first version of this website.)
 </p>
 
-<br><br>
-Click on the Menu bar and you will get access to the <i>PriyanKaleidoscope.</i>
-<br>
-(Note: Life is not perfect, neither is the first version of this website.)
+<p>Click on the Menu bar and you will get access to the PriyanKaleidoscope.</p>
+:ET
