@@ -1,0 +1,220 @@
+---
+layout: old page
+title: Space Projects
+---
+
+<style>
+* {  box-sizing: border-box;}
+
+/* Center website */
+.main {
+  margin: auto;
+}
+
+.row {  margin: 10px -16px;}
+
+/* Add padding BETWEEN each column */
+.row, .row > .column {  padding: 2px;}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 100%;
+  display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+<body>
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
+<div id="myBtnContainer">
+  <button class="btn" onclick="filterSelection('EMMIHS3')">EMMIHS-III Analogue Mission</button>
+  <button class="btn" onclick="filterSelection('OGL')"> SGAC "Our Giant Leap" Initiative</button>
+  <button class="btn" onclick="filterSelection('MoonGal')"> Moon Gallery Initiative</button>
+</div>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column EMMIHS3">
+    <div class="content">
+      <h2><b>EMMIHS-III Analogue Mission</b></h2>
+      <p align="justify">
+      	It is no longer just science-fiction. Humans are really working on concrete projects today in 2020, not only on the exploration but also colonization of space! We are thinking already of building a functional Moon Village by 2050. The Moon Village is an open concept proposed with the goal of a sustainable human and robotic presence on the lunar surface as an ensemble where multiple users can carry out multiple activities.
+      	<br><br>
+      	Since it is very difficult for humans to live in space for long periods (unfortunately they cannot seem to be able to live together even on Earth), a lot of research needs to be on surviving out there and hence space agencies are coming together.
+      </p>
+      <h3><b>ILEWG and EMMIHS</b></h3>
+      <p align="justify">
+      	The <a href="https://en.wikipedia.org/wiki/International_Lunar_Exploration_Working_Group">International Lunar Exploration Working Group</a> (ILEWG) is a public forum sponsored by the world's space agencies (like NASA and ESA) to support international cooperation towards the exploration and utilization of the Moon. As part of research efforts towards the colonization of Moon and creation of a Moon Village (and eventually Mars), ILEWG founded the EuroMoonMars initiative. It comprises of field campaigns in Moon-Mars analogue environments – basically regions on Earth that resemble other planets/space bodies.
+      	<br><br>
+      	One such analogue environment is the <a href="https://hi-seas.org/">Hawaii-Space Exploration Analog and Simulation</a> (HI-SEAS). It is located at 2,500 meters in elevation on the slopes of Mauna Loa Volcano in Hawaii, and resembles the surface of the Moon with its lava caves and lava tubes. It is a great training ground for astronaut-simulation missions. Additional fact: HI-SEAS is owned by the founder of the <a href="https://moonbasealliance.com/">International Moonbase Alliance</a> (IMA), Henk Rogers, who is also world-famous for his work in video games (another person who has mixed Space and Art!) EuroMoonMars, IMA and HI-SEAS (<a href="https://emmihs-esa.webnode.nl/">EMMIHS</a>) are collaborating on the EMMIHS campaigns that consist of scientific research, field tests, training and outreach activities.
+      </p>
+      <h3><b>My mission</b></h3>
+      <p align="justify">
+      	Through the European Space Agency, I have the amazing opportunity of being one of the six analogue-astronauts for the third mission, EMMIHS-III. It will be a two-week mission in January, and I am currently preparing in full-swing. I will also have the opportunity to be trained under the director of HI-SEAS, Michaela Musilova, as crew-commander, which will be an incredible addition to my experiences! I would be doing experiments on robotics, space nutrition, crew-psychology and space-geology. And then, I designed the team logo.
+      	<br><br>
+      	<img src="/Artwork/Commissions/emm3.jpg" alt="EMMIHS-III logo" class="center">
+      </p>
+    </div>
+  </div>
+
+  <div class="column OGL">
+    <div class="content">
+      <h2><b>SGAC Our Giant Leap Initiative</b></h2>
+    	<p align="justify">
+    		Who doesn’t dream about Space? It is the next frontier of human exploration. However, the Space sector still has a long way to go in becoming inclusive for everyone, especially women. The question becomes not simply, how to inspire, but how to sustain these dreams?
+	    	<br><br>
+    		The “Our Giant Leap” initiative was born with the aim to build a Space network that would collaborate to push boundaries and achieve this objective of making the aerospace environment diversity-friendly.
+    		<br><br>
+    		With the help of a very dedicated team, we kickstarted this initiative with the <a href="https://spacegeneration.org/">Space Generation Advisory Council</a> (SGAC). We will be launching our event as <a href="https://spacegeneration.org/event/sgfrance-2020">SG[France] 2020</a> in June (venue: ISAE-Supaéro, Toulouse).
+    		<br><br>
+    		I am part of the Programs (lead for the Mentorship Working Group) and Communication teams. Through the latter, I designed the logo and poster for the initiative and presented it during the IAC 2019 in Washington DC. I also worked on the <a href="https://www.youtube.com/watch?v=pErzslMIl68&feature=emb_logo">video</a> for our event:
+    		<br><br>
+    	</p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/pErzslMIl68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      	<img src="/Artwork/Commissions/ogl.png" alt="Our Giant Leap poster" style="width:100%">
+    </div>
+  </div>
+
+  <div class="column MoonGal">
+    <div class="content">
+      <h2><b>ESA ILEWG Moon Gallery</b></h2>
+    	<p align="justify">
+    		Scientists are not just people in lab coats having no life outside the laboratory – most of them are incredibly artistic and understand the importance of cultural activities (like music, dance and painting) for human beings. Therefore, the International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS). In 2019 I was elected an expert to the committee.
+    		<br><br>
+    		ArtMoonMars is an initiative by ITACCUS to highlight the importance of artists with respect to space exploration: Artists can convey multiple messages of the community including planetary science, life sciences, astronomy, fundamental research, resources utilisation, human spaceflight, peaceful cooperation, economic development, inspiration, training & capacity building.
+        <br><br>
+    		The <a href="http://www.moongallery.eu/">Moon Gallery</a>, by ArtMoonMars, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these smart artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
+        <br><br>
+        The main team involves Anna Sitnikova (curator, exhibition designer), Elizaveta Glukhova (curator, graphic designer), Bernard Foing (space sector expert and visionary), and Alexander Zaklynsky (gallery founder). I met some of them at space conferences and one meeting led to another and hence I am, as one of the main artists to the gallery!
+    	</p>
+    	<h2><b>My contribution</b></h2>
+    	<p align="justify">
+    		I <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/">developed a concept</a> based on a subject close to my heart: Duality, as an artist and scientist. The concept of duality has intrigued mankind since the beginning of civilization, and we find a lot of literature in ancient Vedic texts about it.
+    		<br><br>
+    		The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper where I drew the phases of the Moon in glow-in-the-dark ink, and a nano-sim card that contains artistic simulations that I coded using the Python programming language. Inspired by my Indian roots and the Vedic influence, I named my work “Bhedadipika – an illustration of Duality”.
+    		<br><br>
+    		<p>Check <a href="/Artwork/Artwork">here</a> for more samples of my Moon Gallery submission.</p>
+    		<img src="/assets/gifs/ns2.gif">
+    	</p>
+    </div>
+  </div>
+    
+<!-- END GRID -->
+</div>
+
+<!-- END MAIN -->
+</div>
+
+<script>
+filterSelection()
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+	btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+
+
+{% comment %}
+<ul class="posts">
+
+{% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<div class="row">
+	{% for portfolio in site.portfolio %}
+		<a href="{{ portfolio.url | prepend: site.baseurl }}">
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						{{ portfolio.title}}
+					</div>
+					<div class="panel-body">
+						{{portfolio.excerpt}}
+					</div>
+				</div>
+			</div>
+		</a>
+	{% endfor %}	
+</div>
+
+  
+{% endcomment %}
