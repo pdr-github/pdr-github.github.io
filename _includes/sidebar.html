@@ -14,7 +14,6 @@
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -24,6 +23,13 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {% endcomment %}
+
+    <a class="sidebar-nav-item" href="/About">About me</a>
+    <a class="sidebar-nav-item" href="/Space">Space Projects</a>
+    <a class="sidebar-nav-item" href="/Artwork">Art Portfolio</a>
+    <a class="sidebar-nav-item" href="/Antarctica">Antarctica</a>
+    <a class="sidebar-nav-item" href="/Media">In the Media...</a>
 
   </nav>
 

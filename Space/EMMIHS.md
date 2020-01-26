@@ -16,7 +16,7 @@ title: EMMIHS Analog-Mission
 </p>
 <h3><b>My mission</b></h3>
 <p align="justify" style="font-size:18px">
-	Through the European Space Agency, I have the amazing opportunity of being one of the six analogue-astronauts for the third mission, EMMIHS-III. It will be a two-week mission in January, and I am currently preparing in full-swing. I will also have the opportunity to be trained under the director of HI-SEAS, Michaela Musilova, as crew-commander, which will be an incredible addition to my experiences! I would be doing experiments on robotics, space nutrition, crew-psychology and space-geology. And then, I designed the team logo.
+	Through the European Space Agency, I have the amazing opportunity of being one of the six analogue-astronauts for the third mission, EMMIHS-III. Currently half-way through, it's a two-week mission in January. I am training under the director of HI-SEAS, Michaela Musilova, as crew-commander, which will be an incredible addition to my experiences! My main science objectives are experiments in robotics, crew-psychology, space-geology, and navigation. And then, art (I designed the team logo).
 	<br><br>
 </p>
 <p align="center">
