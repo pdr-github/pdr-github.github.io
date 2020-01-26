@@ -1,5 +1,5 @@
 ---
-layout: old-page
+layout: page-old
 title: Thoughts
 ---
 

@@ -19,7 +19,7 @@ title: A few words
 	<br><b></b>
 	For me, art and science are not distinct. When you pursue both fields, you reach inevitably reach a “grey zone”, where the art you do requires a bit of science, and the science you do is fantastically artistic. It was not very surprising that, after years spent pursuing scientific fields, I realised that I was always gravitating to the artistic aspect of the subject at hand. Would you like some examples?
 	<br><br>
-	In Biology, I was enthralled by bioluminescent bacteria and their patterns. This picture is a bacterial culture that I have infused with Green-Fluorescent protein. I was in fact so enthralled that I managed to "borrow" these samples to show to my friends, but the security guards behaved as though I were stealing national treasure.
+	In Biology, I was fascinated by bioluminescent bacteria and their patterns. This picture below is a bacterial culture that I had infused with Green-Fluorescent Protein (GFP) extracted from jellyfish. I was in fact so enthralled by the outcome, that I managed to "borrow" these samples to show to my friends; but the security guards who caught me on CCTV behaved as though I were stealing national treasure.
 	<br><br>
 	<img src="/assets/images/bacteria.jpg">
 	In Computer Science, I saw an infinite potential for algorithmic art. Here is a fun fact: I made these simulations when I was first learning to code. I took a different approach than the rest of my classmates - motivated by art-lust - and started programming with a passion. A Physics professor thought I was a Computer WhizKid because my graphical interface was so convincingly elaborate.
