@@ -36,7 +36,7 @@ title: A few words
 </p>
 
 <p  style="font-size:18px">
-	I welcome you to discover my journey through my website.
+	I welcome you to discover my journey through these pages.
 	<br><br>
 	(Note: Life is not perfect, neither is this first version of my website.)	
 </p>
