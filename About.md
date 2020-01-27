@@ -1,15 +1,8 @@
 ---
-layout: page
-title: About me
+layout: aboutpost
+title: Welcome
 ---
 
-<p align="center">
-	<a href="/About/Intro"> <button><big>A few words</big></button> </a>
-	<a href="/About/CV"> <button><big>CV</big></button> </a>
-	<a href="/About/Contact"> <button><big>Contact</big></button> </a>		
-</p>
-
-<br>
 <img src="/assets/gifs/ns2.gif" style="width: 100%">
 
 <p align="center" style="font-size:14px">(Click on one of the tabs above.)</p>

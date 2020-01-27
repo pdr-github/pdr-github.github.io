@@ -1,16 +1,7 @@
 ---
-layout: page
-title: Art Portfolio
+layout: artpost
+title: Welcome
 ---
-
-<p align="center">
-	<a href="/Portfolio/MoonGallery"> <button><big>Moon Gallery Project</big></button> </a>
-	<a href="/Portfolio/Paintings"> <button><big>Paintings</big></button> </a>
-	<a href="/Portfolio/Sketches"> <button><big>Sketches</big></button> </a>
-	<a href="/Portfolio/Crafts"> <button><big>Crafts</big></button> </a>
-	<a href="/Portfolio/Commissions"> <button><big>Commissions</big></button> </a>
-</p>
-<br>
 
 <img src="/assets/gifs/ns2.gif" style="width: 100%">
 
