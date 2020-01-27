@@ -4,7 +4,7 @@ title: Space Projects
 ---
 
   <p align="center">
-    <a href="/Space/EMMIHS"> <button><big>EMMIHS Analogue-Mission</big></button> </a>
+    <a href="/Space/EMMIHS"> <button><big>Analogue-Astronaut</big></button> </a>
     <a href="/Space/MoonGallery"> <button><big>Moon Gallery Project</big></button> </a>
     <a href="/Space/OurGiantLeap"> <button><big>Our Giant Leap Initiative</big></button> </a>
   </p>
