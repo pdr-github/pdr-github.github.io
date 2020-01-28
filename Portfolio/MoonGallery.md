@@ -8,11 +8,11 @@ title: Moon Gallery Project
 <p>
 	The concept of Duality has intrigued mankind since the beginning of civilization. This work in collaboration with ESA ILEWG Moon Gallery Project, plays upon several notions of Duality such as:
 	<ul>
-		<li style="font-size:16px">Constraint/Freedom</li>
-		<li style="font-size:16px">Light/Darkness</li>
-		<li style="font-size:16px">Minute/Infinite</li>
-		<li style="font-size:16px">Reality/Illusion</li>
-		<li style="font-size:16px">Randomness/Intent</li>
+		<li>Constraint/Freedom</li>
+		<li>Light/Darkness</li>
+		<li>Minute/Infinite</li>
+		<li>Reality/Illusion</li>
+		<li>Randomness/Intent</li>
 	</ul>			
 </p>
 <p>
