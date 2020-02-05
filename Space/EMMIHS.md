@@ -3,6 +3,10 @@ layout: spacepost
 title: EMMIHS Analog-Mission
 ---
 
+<p align="center">
+	<img src="/assets/images/astrofinalEVA.jpg" alt="Priyanka Analogue astronaut" class="center">
+</p>
+
 <p>
 	It is no longer just science-fiction. Humans are really working on concrete projects today in 2020, not only on the exploration but also colonization of space! We are thinking already of building a functional Moon Village by 2050. The Moon Village is an open concept proposed with the goal of a sustainable human and robotic presence on the lunar surface as an ensemble where multiple users can carry out multiple activities.
 	<br><br>
