@@ -10,6 +10,8 @@ title: In the Media...
 </p>
 
 <p>
+  Space.com <a href="https://www.space.com/euromoonmars-esa-hi-seas-mock-moon-mission-ending.html">European crew wraps up mock moon mission on volcano in Hawaii</a>
+  <br>
   Space.com <a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html">European scientists are taking a mock Moon mission in Hawaii right now</a>
   <br>
   EastMojo: <a href="https://www.eastmojo.com/assam/2020/01/14/this-assam-girl-is-all-set-to-send-her-artwork-to-moon-in-2022">This Assam girl is all set to send her artwork to Moon in 2022</a>
