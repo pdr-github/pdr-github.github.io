@@ -11,9 +11,15 @@ title: A few words
 	<img src="/assets/images/Priyanka-pic.png" style="width: 50%">
 </p>
 
+<h3>PriyanKaleidoscope</h3>
+<p>
+	My life resembles a three-sided Kaleidoscope. Each side represents the three things I have been passionate since I was a child: Science, Art ... and Space. Individually, each is just a regular façade depicting my interests, but combined they reflect a shining myriad of possibilities, and complete me.
+	<br><br>
+	A hitchhiker through the journey of life, I have always been in search of a route that would ultimately lead me into Space. Born in the Himalayan mountains, I grew up in Delhi, moved to France, and this year – a lunar analogue-astronaut mission in Hawai’i and a voyage to Antarctica! Furthermore, ever since I was a child, I had this dream where, apart from being an astronaut, I would one be able to mix these three facades: Science, Art and Space.
+</p>
+
 <h3>Art in Science in Space</h3>
 <p>
-	Ever since I can remember I have been interested in three specific things: Space, Science and Art.
 	<br><br>
 	Growing up, I often thought about how grand it would be to live a life that mixed these three into a single passion, and thus I set off on a quest on the ultimate pursuit of happiness. After extensive experimentation and several unconventional choices, I have started to see the end of the tunnel. I have nearly come "full-helix", having started an art and design degree, to leaving it to become a Physicist, to becoming an Aerospace Engineer and now finally, somehow, a Space Artist (and also analogue-astronaut).
 	<br><b></b>
