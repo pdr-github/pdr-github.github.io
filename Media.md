@@ -16,6 +16,8 @@ title: In the Media...
   <br>
   European Geosciences Union: <a href="https://www.egu.eu/news/603/digital-artist-and-lego-photographer-named-artists-in-residence-at-the-egu-general-assembly-2020/">Digital artist and Lego photographer named artists in residence at the EGU General Assembly 2020</a>
   <br>
+  Assam Tribune: <a href="http://www.assamtribune.com/scripts/detailsnew.asp?id=feb1220/city054">Interaction with two prominent young scientists based abroad</a>
+  <br>
   EastMojo: <a href="https://www.eastmojo.com/assam/2020/01/14/this-assam-girl-is-all-set-to-send-her-artwork-to-moon-in-2022">This Assam girl is all set to send her artwork to Moon in 2022</a>
   <br>
   European Space Agency: <a href="http://www.esa.int/Education/ESA_Academy/ESA-Sponsored_Students_attended_the_IAC_2019">ESA-Sponsored Students attended the IAC 2019</a>
