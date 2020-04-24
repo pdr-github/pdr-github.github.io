@@ -4,7 +4,7 @@ title: A few words
 ---
 
 <p>
-	<b>In a nutshell: </b> Aerospace Engineer | Artist | Polyglot | SGAC | ESA analogue-astronaut | Ambassador L’Oréal-UNESCO | Team HB5 Antarctica Mission
+	<b>In a nutshell: </b> Aerospace Engineer | Artist | Polyglot | SGAC | Analogue-astronaut | Ambassador L’Oréal-UNESCO | Team HB5 Antarctica Mission
 </p>
 
 <p align="center">
@@ -13,27 +13,41 @@ title: A few words
 
 <h2>PriyanKaleidoscope</h2>
 <p>
-	My life resembles a three-sided Kaleidoscope. Each side represents the three things I have been passionate about since I was a child: Science, Art ... and Space. Individually, each is just a regular façade depicting my interests, but combined they reflect a shining myriad of possibilities, and complete me.
-	<br><br>
-	A hitchhiker through the journey of life, I have always been in search of a route that would ultimately lead me into Space. Born in the Himalayan mountains, I grew up in Delhi, moved to France, and this year – a lunar analogue-astronaut mission in Hawai’i and a voyage to Antarctica! Furthermore, ever since I was a child, I had this dream where, apart from being an astronaut, I would one day be able to mix these three facades: Science, Art and Space.
+	My life resembles a three-sided Kaleidoscope. Each side represents the things I have been passionate about since I was a child: Science, Art ... and Space. Individually, each is just a regular façade depicting my interests, but combined they reflect a shining myriad of possibilities which complete me.
 </p>
-
+<h3>Space-girl</h3>
+<p>
+	A hitchhiker through the journey of life, I have always been in search of a route that would ultimately lead me into Space. Born in the Himalayan mountains, I grew up in Delhi, moved to France, and this year – a lunar analogue-astronaut mission in Hawai’i and a voyage to <a href="\Antarctica">Antarctica</a>!
+	<br><br>
+	To find out more, check out the <a href="\Space">Space Projects</a> section. 
+</p>
 <h3>Art in Science in Space</h3>
 <p>
-	Growing up, I often thought about how grand it would be to live a life that mixed these three into a single passion, and thus I set off on a quest on the ultimate pursuit of happiness. After a few unconventional choices, I have started to see the end of the tunnel. I have nearly come "full-helix", having started an art and design degree, to leaving it to become a Physicist, to becoming an Aerospace Engineer and now finally, somehow, a Space Artist (and also analogue-astronaut).
+	Growing up, I often wondered how to chart out a path that would successfully mix these three domains into a single passion. It took me a few unconventional choices, but finally I've started to see the end of the tunnel. It's as though I have come "full-helix" - having started an art and design degree, to leaving it to become a Physicist, to becoming an Aerospace Engineer, to NASA, ESA, and now finally, somehow, a Space Artist (and also analogue-astronaut).
 	<br><br>
-	For me, art and science are not distinct. When you pursue both fields, you inevitably reach a “grey zone”, where the art you do requires a bit of science, and the science you do is fantastically artistic. It was not very surprising that, after years spent pursuing scientific fields, I realised that I was always gravitating towards the artistic aspect of the subject at hand. Would you like some examples?
-	<br><br>
-	In Biology, I was fascinated by bioluminescent bacteria and their patterns. This picture below is a bacterial culture that I had infused with Green-Fluorescent Protein (GFP) extracted from jellyfish. I was in fact so enthralled by the outcome, that I managed to "borrow" these samples to show to my friends; but the security guards who caught me on CCTV behaved as though I were stealing national treasure.
-	<br><br>
-	<img src="/assets/images/bacteria.jpg">
-	In Computer Science, I saw an infinite potential for algorithmic art. Here is a fun fact: I made these simulations when I was first learning to code. I took a different approach than the rest of my classmates - motivated by art-lust - and started programming with a passion. A physics professor thought I was a Computer WhizKid because my graphical interface was so convincingly elaborate.
-	<br><br>
-	<img src="/assets/images/hyperart.png">
-	In Signal Processing, I was fascinated by the geometric patterns made by signals and noise, Fourier Transforms and Gaussian curves. I am actually pursuing a PhD at the moment in this domain, on satellite navigation. When the engineer I work with at University, showed me this GPS signal code he had written, I could not stop thinking of the art one could create out of it (and science too, obviously).
-	<br><br>
-	<img src="/assets/images/gnss_art.png">
-	And the list goes on...
+	Over the years, I've become more and more convinced that Art and Science are not disjoint fields. When you pursue both these fields, you inevitably reach a “grey zone”, where the Art you do requires a bit of Science, and the Science you explore is fantastically artistic. It was not very surprising that, after years spent pursuing scientific fields, I realised that I was always gravitating towards the artistic aspect of the subject at hand.
+</p>
+<h4>Some examples</h4>
+<p>
+	<b>[Biology]</b> I was fascinated by bioluminescent bacteria and their patterns. This picture below is a bacterial culture that I had infused with Green-Fluorescent Protein (GFP) extracted from jellyfish. I was in fact so enthralled by the outcome, that I managed to "borrow" these samples to show to my friends; but the security guards who caught me on CCTV behaved as though I were stealing national treasure.
+</p>
+<p align="center">
+	<img src="/assets/images/bacteria.jpg" style="width:50%">	
+</p>
+<p>
+	<b>[Computer Science]</b> There is an infinite potential for algorithmic art. Here is a fun fact: I made these simulations when I was first learning to code. I took a different approach than the rest of my classmates - motivated by art-lust - and started programming with a passion. A physics professor thought I was a Computer WhizKid because my graphical interface was so convincingly elaborate.	
+</p>
+<p align="center">
+	<img src="/assets/images/hyperart.png" style="width:50%">
+</p>
+<p>
+	<b>[Signal Processing]</b> I was fascinated by the geometric patterns made by signals and noise, Fourier Transforms and Gaussian curves. I am actually pursuing a PhD at the moment in this domain, on satellite navigation. When the engineer I work with at University, showed me this GPS signal code he had written, I could not stop thinking of the art one could create out of it (and science too, obviously).
+</p>
+<p align="center">
+	<img src="/assets/images/gnss_art.png" style="width:50%">	
+</p>
+<p>
+	Et voilà !
 </p>
 
 <p class="message" align="center">
@@ -42,6 +56,9 @@ title: A few words
 
 <p>
 	I welcome you to discover my journey through these pages.
+	To learn more about my artwork, check out my <a href="\Artwork">Portfolio</a>.
 	<br><br>
-	(Note: Life is not perfect, neither is this first version of my website.)	
+	I write <a href="\Poetry">poetry</a> too.
+	<br><br>
+	<i>	(Note: Life is not perfect, neither is this first version of my website.)</i>
 </p>
