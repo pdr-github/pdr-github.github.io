@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: In the Media...
 ---
 
 <p class="message" align="center">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Antarctica
+title: Upcoming voyage to Antarctica!
 ---
 
 <h2 align="center">
