@@ -1,0 +1,22 @@
+---
+layout: poetrypost
+title: Dreams
+---
+
+<pre>
+	I feel not tired, nothing aches to sleep.
+	Yet, my mind says, "I'm not yours alone to keep,
+	For it's time my darling, that you come with me,
+	And enter the world I create for you to see.
+
+	It's the world of dreams where I leave you at night,
+	So while you enjoy ur wonderment, I can take flight,
+	And go where I must, maybe someday I'll take,
+	You to my realm, one of such a different make.
+
+	But until that day, my dove, you must
+	Sleep the nights, and let reality rust..."
+
+	So I feel I must now go off to bed,
+	And watch my mind's show for tonight instead.
+</pre>
