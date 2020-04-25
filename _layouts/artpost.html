@@ -2,18 +2,21 @@
 layout: default
 ---
 
-<div class="artpost">
-	<h1 class="artpost-title">[Art Portfolio] {{ page.title }}</h1>
+<div class="artpost" align="center">
+	<h1 class="artpost-title">[Art Portfolio]</h1>
 
-	<p align="center">
+	<p>
 		<a href="/Portfolio/MoonGallery"> Moon Gallery Project </a> |
 		<a href="/Portfolio/Paintings"> Paintings </a> |
 		<a href="/Portfolio/Sketches"> Sketches </a> |
 		<a href="/Portfolio/Crafts"> Crafts </a> |
 		<a href="/Portfolio/Commissions"> Commissions </a>
 	</p>
+	<h1>{{ page.title }}</h1>
 	<br>
-	{{ content }}
+</div>
+<div>
+	{{ content }}	
 </div>
 
 <!-- 		<a href="/Portfolio/MoonGallery"> <button><big>Moon Gallery Project</big></button> </a> -->
