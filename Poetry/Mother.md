@@ -8,51 +8,51 @@ title: Mother
 </p>
 
 <pre>
-	Mother,
+Mother,
  
-	I first wanted,
-	To spin you a poem,
-	In your honour, a work of art,
-	Verses worthy of praise from Keats himself,
-	Something phenomenal, quite like yourself,
-	An uncontrived song from my heart,
-	Bursting with momentum,
-	But then instead...
-	 
-	Mother,
-	 
-	I have but words,
-	Incoherent phrases,
-	A long string of apologies,
-	A longer list of unfulfilled desires,
-	Yet, still lauded by sycophantic liars.
-	Tell me, why am I ill at ease?
-	Less distressed are gazes,
-	Of wing-clipped birds.
-	 
-	Mother,
+I first wanted,
+To spin you a poem,
+In your honour, a work of art,
+Verses worthy of praise from Keats himself,
+Something phenomenal, quite like yourself,
+An uncontrived song from my heart,
+Bursting with momentum,
+But then instead...
+ 
+Mother,
+ 
+I have but words,
+Incoherent phrases,
+A long string of apologies,
+A longer list of unfulfilled desires,
+Yet, still lauded by sycophantic liars.
+Tell me, why am I ill at ease?
+Less distressed are gazes,
+Of wing-clipped birds.
+ 
+Mother,
 
-	I am tongue-tied.
-	I wish I could express,
-	How graceful, kindly, tremendous,
-	Tender you are, how much you mean to me,
-	And've helped me conquer mountains, silently.
-	You’ve sacrificed for me, so much,
-	That I’ve not known sadness,
-	I’ve never cried.
-	 
-	Mother,
-	 
-	An honour too,
-	Is to have been guided,
-	By your learned, experienced hands, 
-	And even a lifetime isn't enough time,
-	To compose in any measure, a rhyme,
-	Not even of fragmented strands,
-	That could've serenaded,
-	My love for you,
+I am tongue-tied.
+I wish I could express,
+How graceful, kindly, tremendous,
+Tender you are, how much you mean to me,
+And've helped me conquer mountains, silently.
+You’ve sacrificed for me, so much,
+That I’ve not known sadness,
+I’ve never cried.
+ 
+Mother,
+ 
+An honour too,
+Is to have been guided,
+By your learned, experienced hands, 
+And even a lifetime isn't enough time,
+To compose in any measure, a rhyme,
+Not even of fragmented strands,
+That could've serenaded,
+My love for you,
 
-	Mother.
+Mother.
 
 </pre>
 

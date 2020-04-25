@@ -161,12 +161,12 @@ code {
 }
 pre {
   display: block;
+  min-width: 450px;
   margin-top: 0;
   margin-bottom: 1rem;
-  padding: 1rem;
+  padding: 1rem 1rem 1rem 2rem;
   font-size: .8rem;
   line-height: 1.4;
-  white-space: pre;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
