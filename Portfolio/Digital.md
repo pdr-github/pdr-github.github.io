@@ -1,0 +1,11 @@
+---
+layout: artpost
+title: Digital
+---
+
+<p align="center">
+	<img src="/Portfolio/Digital/astro.png" alt="Astro" style="width:50%">
+	<img src="/Portfolio/Digital/drown-arise.png" alt="Drown Arise" style="width:50%">
+	<img src="/Portfolio/Digital/lady.png" alt="Drowning lady" style="width:50%">	
+	<img src="/Portfolio/Digital/cyborg.png" alt="Rising cyborg" style="width:50%">	
+</p>

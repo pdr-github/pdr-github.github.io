@@ -3,6 +3,10 @@ layout: poetrypost
 title: An Elusive Smile
 ---
 
+<p align="center">
+	<img src="/Portfolio/Sketches/face.jpg" alt="Smile" style="width:50%">	
+</p>
+
 <pre>
 She has eyes,
 

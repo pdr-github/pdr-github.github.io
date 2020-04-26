@@ -3,6 +3,10 @@ layout: poetrypost
 title: Adieu
 ---
 
+<p align="center">
+	<img src="/Portfolio/Paintings/adieu.jpg" alt="Yosemite" style="width:50%">	
+</p>
+
 <pre>
 We've had rough times, you and I
 Yet beneath this endless sky

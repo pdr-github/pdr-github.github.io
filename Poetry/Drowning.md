@@ -4,7 +4,7 @@ title: Drowning
 ---
 
 <p align="center">
-	<img src="/Portfolio/Digital/lady.png" alt="Mother and Daughter" style="width:50%">
+	<img src="/Portfolio/Digital/lady.png" alt="Drowning lady" style="width:50%">
 </p>
 <pre>
 Your words
