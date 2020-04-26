@@ -3,4 +3,4 @@ layout: poetrypost
 title: 
 ---
 
-<img src="/assets/gifs/ns2.gif" style="width: 100%">
+<img src="/Portfolio/Spirographs/hypo_33-50-50.gif" style="width: 100%">

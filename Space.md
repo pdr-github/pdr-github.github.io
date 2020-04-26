@@ -3,7 +3,7 @@ layout: spacepost
 title: 
 ---
 
-<img src="/assets/gifs/ns2.gif" style="width: 100%">
+<img src="/Portfolio/Spirographs/epi-hypo.gif" style="width: 100%">
 
 
 <!--
