@@ -16,7 +16,7 @@ title: X-CubeSat
 	<h2>Launch</h2>
 	The cubesat was <a href="https://cnes.fr/en/x-cubesat-and-spacecube-successfully-launched-iss">launched</a> from the International Space Station (ISS), carried there first by a Cygnus cargo spacecraft and deployed using the Japanese Kibo module and the station’s robotic arm equipped with the Small Satellite Orbital Deployer tool (SSOD). This system was specifically designed to extract satellites from the Kibo module’s airlock and launch them into space. It was placed in orbit on 17th May 2017.
 	<br><br>
-	Although initially planned for only a six-month mission, X-cubesat served for more than a year and half in space, sending back important data to help advance upper atmosphere science. It was finally <a href="https://www.lpp.polytechnique.fr/Fin-de-mission-pour-X-CubeSat?lang=fr">destroyed during reentry</a>on 4th February 2019.
+	Although initially planned for only a six-month mission, X-cubesat served for more than a year and half in space, sending back important data to help advance upper atmosphere science. It was finally <a href="https://www.lpp.polytechnique.fr/Fin-de-mission-pour-X-CubeSat?lang=fr">destroyed during reentry</a> on 4th February 2019.
 </p>
 
 <!--<a href="/Space">Back...</a>--->
