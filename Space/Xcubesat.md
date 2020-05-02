@@ -3,7 +3,8 @@ layout: spacepost
 title: X-CubeSat
 ---
 
-<p>
+<p>	
+	<img src="/Space/Cubesat/x-cubesat.jpg" alt="X-CubeSat">
 	Imagine having a piece of your code in space!
 	<br><br>
 	As a second-year Engineering student at Ecole Polytechnique, I had a very cool opportunity to be part of the <a href="https://xcubesat.wordpress.com/">X-CubeSat</a> team. X-CubeSat was a microsatellite project developed by students at Ecole Polytechnique and was part of the larger <a href="https://www.qb50.eu/">QB50 project</a>, an international network of CubeSats for multi-point, in-situ measurements in the lower thermosphere and re-entry research, managed by the von Karman Institute in Belgium.
