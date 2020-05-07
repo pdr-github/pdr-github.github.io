@@ -3,9 +3,8 @@ layout: spacepost
 title: Moon Gallery Project
 ---
 
+<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
 <p>
-	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
-	<br><br>
 	The stereotypical image of a scientist involves a lab coat and the requirement of having no life outside the laboratory. However, most of the scientists I have met have each had an incredibly artistic side to them.
 	<br><br>
 	The International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS), with the aim of exploring the importance of cultural activities for human civilizations. In 2019, I was elected an expert to the committee.
