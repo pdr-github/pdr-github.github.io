@@ -4,6 +4,8 @@ title: Moon Gallery Project
 ---
 
 <p>
+	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
+	<br><br>
 	Scientists are not just people in lab coats having no life outside the laboratory – most of them are incredibly artistic and understand the importance of cultural activities (like music, dance and painting) for human beings. Therefore, the International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS). In 2019 I was elected an expert to the committee.
 	<br><br>
 	ArtMoonMars is an initiative by ITACCUS to highlight the importance of artists with respect to space exploration: Artists can convey multiple messages of the community including planetary science, life sciences, astronomy, fundamental research, resources utilisation, human spaceflight, peaceful cooperation, economic development, inspiration, training & capacity building.
