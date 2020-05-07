@@ -15,7 +15,7 @@ title: Moon Gallery Project
 </p>
 <h2><b>Bhedadīpikā - An Illustration of Duality</b></h2>
 <p>
-	Bhedadīpikā is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/">a concept</a> based on a subject close to my heart: Duality - as an artist and scientist. The concept of duality has intrigued mankind since the beginning of civilization, and we find a lot of literature in ancient Vedic texts about it.
+	Bhedadīpikā is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/">a concept</a> based on a subject close to my heart: Duality - as an artist and scientist. The concept of duality has intrigued mankind since the beginning of civilization, and ancient Vedic texts propose several philosophies on the duality of nature in intriguing detail.
 	<br><br>
 	The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper where I drew the phases of the Moon in glow-in-the-dark ink, and a nano-sim card that contains artistic simulations that I coded using the Python programming language. Inspired by my Indian roots and the Vedic influence, I named my work “Bhedadipika – an illustration of Duality”.
 	<br><br>
