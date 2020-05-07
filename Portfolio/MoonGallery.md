@@ -18,7 +18,7 @@ title: Moon Gallery Project
 <p>
 	The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper, and a nano-sim card. 
 	<br><br>
-	For more information on the Moon Gallery Project, check out my <a href="/Space/moongallery"> page here</a>, or go to the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
+	For more information on the Moon Gallery Project, check out my <a href="/Space/MoonGallery"> page here</a>, or go to the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
 </p>
 
 <p align="center">
