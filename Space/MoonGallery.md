@@ -13,9 +13,9 @@ title: Moon Gallery Project
 	<br><br>
 	The main team involves Anna Sitnikova (curator, exhibition designer), Elizaveta Glukhova (curator, graphic designer), Bernard Foing (space sector expert and visionary), and Alexander Zaklynsky (gallery founder). I met some of them at space conferences and one meeting led to another and hence I am, as one of the main artists to the gallery!
 </p>
-<h2><b>My contribution</b></h2>
+<h2><b>Bhedadīpikā - An Illustration of Duality</b></h2>
 <p>
-	I <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/">developed a concept</a> based on a subject close to my heart: Duality, as an artist and scientist. The concept of duality has intrigued mankind since the beginning of civilization, and we find a lot of literature in ancient Vedic texts about it.
+	Bhedadīpikā is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/">a concept</a> based on a subject close to my heart: Duality - as an artist and scientist. The concept of duality has intrigued mankind since the beginning of civilization, and we find a lot of literature in ancient Vedic texts about it.
 	<br><br>
 	The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper where I drew the phases of the Moon in glow-in-the-dark ink, and a nano-sim card that contains artistic simulations that I coded using the Python programming language. Inspired by my Indian roots and the Vedic influence, I named my work “Bhedadipika – an illustration of Duality”.
 	<br><br>
