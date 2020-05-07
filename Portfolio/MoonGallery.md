@@ -22,11 +22,11 @@ title: Moon Gallery Project
 </p>
 
 <p align="center">
-	<img src="/Portfolio/MoonGal/cube.PNG" alt="Cube" style="width:100%">
-	<img src="/Portfolio/MoonGal/hand.PNG" alt="Light and Darkness" style="width:100%">
-	<img src="/Portfolio/MoonGal/moon.PNG" alt="Moon" style="width:100%">
-	<img src="/Portfolio/MoonGal/phases.PNG" alt="Phases" style="width:100%">
-	<img src="/Portfolio/MoonGal/hypo.PNG" alt="Hypo" style="width:100%">
+	<img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%">
+	<img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%">
+	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
+	<img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%">
+	<img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%">
 	<img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%">
 	<img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%">
 	<img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%">
