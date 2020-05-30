@@ -1,10 +1,4 @@
----
-layout: artpost
-title: Moon Gallery Project
----
-
-
-<h2>Bhedadīpikā - An Illustration of Duality</h2>
+I"�<h2>Bhedadīpikā - An Illustration of Duality</h2>
 <p>
 	The concept of Duality has intrigued mankind since the beginning of civilization. This work in collaboration with ESA ILEWG Moon Gallery Project, plays upon several notions of Duality such as:
 	<ul>
@@ -17,27 +11,25 @@ title: Moon Gallery Project
 </p>
 <p>
 	The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper, and a nano-sim card. 
-	<br><br>
+	<br /><br />
 	For more information on the Moon Gallery Project, check out my <a href="/Space/MoonGallery"> page here</a>, or go to the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
 </p>
 
 <p align="center">
-	<img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%">
-	<img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%">
-	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
-	<img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%">
-	<img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%">
-	<img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%">
-	<img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%">
-	<img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%">
+	<img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" />
+	<img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" />
+	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" />
+	<img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" />
+	<img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" />
+	<img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" />
+	<img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%" />
+	<img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%" />
 </p>
 
-<!--
-	---
-layout: artpost
-title: Moon Gallery Project
----
+<p>&lt;!–</p>
 
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--- layout: artpost title: Moon Gallery Project ---
+</code></pre></div></div>
 
 <h2>Bhedadīpikā - An Illustration of Duality</h2>
 <p>
@@ -52,12 +44,12 @@ title: Moon Gallery Project
 </p>
 <p>
 	The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper, and a nano-sim card. 
-	<br><br>
+	<br /><br />
 	For more information on the Moon Gallery Project, check out my <a href="/Space/MoonGallery"> page here</a>, or go to the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
 </p>
 
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
   font-family: Arial;
@@ -159,28 +151,28 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%">
+    <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%">
+	<img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
+	<img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%">
+	<img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%">
+	<img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%">
+	<img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%">
+	<img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%" />
   </div>
   <div class="mySlides">
-	<img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%">
+	<img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%" />
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -192,28 +184,28 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" onclick="currentSlide(1)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" onclick="currentSlide(1)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" onclick="currentSlide(2)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" onclick="currentSlide(2)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" onclick="currentSlide(3)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" onclick="currentSlide(3)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" onclick="currentSlide(4)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" onclick="currentSlide(4)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" onclick="currentSlide(5)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" onclick="currentSlide(5)" />
     </div>    
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" onclick="currentSlide(6)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" onclick="currentSlide(6)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" alt="Supernova" style="width:100%" onclick="currentSlide(6)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/nsky.gif" alt="Supernova" style="width:100%" onclick="currentSlide(6)" />
     </div>
     <div class="column">
-      <img class="demo cursor" src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" alt="Supernova" style="width:100%" onclick="currentSlide(6)">
+      <img class="demo cursor" src="/Portfolio/MoonGal/glit.gif" alt="Supernova" style="width:100%" onclick="currentSlide(6)" />
     </div>
   </div>
 </div>
@@ -250,5 +242,5 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
-
---->
+</body></html>
+:ET
