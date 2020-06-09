@@ -1,12 +1,12 @@
-I"><h3 id="lanyon-features">Lanyon features</h3>
+I"d<h3 id="lanyon-features">Lanyon features</h3>
 
 <p>In addition to the features of Poole, Lanyon adds the following:</p>
 
 <ul>
   <li>Toggleable sliding sidebar (built with only CSS) via <strong>☰</strong> link in top corner</li>
   <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
-  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="highlighter-rouge">&lt;body&gt;</code> classes</li>
-  <li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code class="highlighter-rouge">&lt;body&gt;</code> classes</li>
+  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/lanyon#reverse-layout">reverse</a> (right sidebar), available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+  <li><a href="https://github.com/poole/lanyon#themes">Eight optional color schemes</a>, available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
 </ul>
 
 <p><a href="https://github.com/poole/lanyon#readme">Head to the readme</a> to learn more.</p>
