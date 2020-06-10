@@ -1,10 +1,5 @@
----
-layout: aboutpost
-title: A few words
----
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+I"<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 .accordion {
   background-color: #eee;
@@ -48,8 +43,8 @@ title: A few words
 
 <button class="accordion">PriyanKaleidoscope</button>
 <div class="panel">
-  <img src="/About/nutshell.jpg" style="width: 100%">
-  <p>I like to compare my life to a three-sided kaleidoscope, where each side represents one of the three things that I have been passionate about since I was a child: Science, Art and Space. Individually, each is just a regular façade depicting my interests, but combined they reflect a shining myriad of possibilities.</p>
+  <img src="/About/nutshell.jpg" style="width: 100%" />
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
 <button class="accordion">Section 2</button>
@@ -80,3 +75,4 @@ for (i = 0; i < acc.length; i++) {
 </script>
 
 </body>
+:ET
