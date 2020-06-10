@@ -3,9 +3,8 @@ layout: aboutpost
 title: A few words
 ---
 
-<img src="/About/nutshell.jpg" style="width: 100%">
 
-<h2><i>PriyanKaleidoscope</i></h2>
+<h2><i></i></h2>
 <p>
 	I like to compare my life to a three-sided kaleidoscope, where each side represents one of the three things that I have been passionate about since I was a child: Science, Art and Space. Individually, each is just a regular façade depicting my interests, but combined they reflect a shining myriad of possibilities.
 </p>
