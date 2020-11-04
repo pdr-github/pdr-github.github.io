@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+  padding-bottom: 200px;
 }
 
 html {
