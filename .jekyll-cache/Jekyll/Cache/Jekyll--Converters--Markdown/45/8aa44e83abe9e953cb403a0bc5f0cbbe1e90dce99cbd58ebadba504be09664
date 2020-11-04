@@ -1,13 +1,8 @@
----
-layout: page
-title: In the Media...
----
-
-<div class="cards">
+I"�<div class="cards">
   
   <a href="https://www.space.com/euromoonmars-esa-hi-seas-mock-moon-mission-ending.html">
     <div class="card">
-      <img src="/Media/spacedotcom1.jpg" object-fit="cover">
+      <img src="/Media/spacedotcom1.jpg" object-fit="cover" />
       <div class="cardtext">
         European crew wraps up mock moon mission on volcano in Hawaii
       </div>
@@ -16,7 +11,7 @@ title: In the Media...
 
   <a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html">
     <div class="card">
-      <img src="/Media/spacedotcom2.jpg" object-fit="cover">
+      <img src="/Media/spacedotcom2.jpg" object-fit="cover" />
       <div class="cardtext">
         European scientists are taking a mock Moon mission in Hawaii right now
       </div>
@@ -25,7 +20,7 @@ title: In the Media...
 
   <a href="https://www.egu.eu/news/603/digital-artist-and-lego-photographer-named-artists-in-residence-at-the-egu-general-assembly-2020/">
     <div class="card">
-      <img src="/Media/egu1.jpg" object-fit="cover">
+      <img src="/Media/egu1.jpg" object-fit="cover" />
       <div class="cardtext">
         Digital artist and Lego photographer named artists in residence at the EGU General Assembly 2020
       </div>
@@ -34,7 +29,7 @@ title: In the Media...
 
   <a href="http://www.assamtribune.com/scripts/detailsnew.asp?id=feb1220/city054">
     <div class="card">
-      <img src="/Media/assamtribune-feb2020.jpg" object-fit="cover">
+      <img src="/Media/assamtribune-feb2020.jpg" object-fit="cover" />
       <div class="cardtext">
         Interaction with two prominent young scientists based abroad
       </div>
@@ -43,7 +38,7 @@ title: In the Media...
 
   <a href="https://www.eastmojo.com/assam/2020/01/14/this-assam-girl-is-all-set-to-send-her-artwork-to-moon-in-2022">
     <div class="card">
-      <img src="/Media/eastmojo-jan2020.jpg" object-fit="cover">
+      <img src="/Media/eastmojo-jan2020.jpg" object-fit="cover" />
       <div class="cardtext">
         This Assam girl is all set to send her artwork to Moon in 2022
       </div>
@@ -52,7 +47,7 @@ title: In the Media...
 
   <a href="http://www.esa.int/Education/ESA_Academy/ESA-Sponsored_Students_attended_the_IAC_2019">
     <div class="card">
-      <img src="/Media/esaiseb.jpg" object-fit="cover">
+      <img src="/Media/esaiseb.jpg" object-fit="cover" />
       <div class="cardtext">
         ESA-Sponsored Students attended the IAC 2019
       </div>
@@ -61,7 +56,7 @@ title: In the Media...
 
   <a href="https://indianexpress.com/article/technology/science/indian-origin-woman-scientist-heads-to-antarctica-eyes-space-6077006/">
     <div class="card">
-      <img src="/Media/indianexpress1.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
         Indian-origin woman scientist heads to Antarctica, eyes space
       </div>
@@ -70,16 +65,16 @@ title: In the Media...
 
   <a href="https://www.eastmojo.com/assam/2019/07/05/women-science-this-assam-native-is-breaking-stereotype-in-paris">
     <div class="card">
-      <img src="/Media/eastmojo-jan2020.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
-        Women & science? This Assam native is breaking stereotype in Paris
+        Women &amp; science? This Assam native is breaking stereotype in Paris
       </div>
     </div>
   </a>
 
   <a href="https://www.isae-supaero.fr/en/news/an-interview-with-priyanka-das-a-phd-student-at-isae-supaero-working-on/">
     <div class="card">
-      <img src="/Media/isae-mar18.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
         An interview with Priyanka Das, a PhD student at ISAE
       </div>
@@ -88,7 +83,7 @@ title: In the Media...
 
   <a href="https://www.jaminidesign.com/en/smartblog/103_Dreaming-of-the-stars-with-Priyanka-Das.html">
     <div class="card">
-      <img src="/Media/jamini-sep19.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
         Dreaming of the stars with Priyanka Das
       </div>
@@ -97,7 +92,7 @@ title: In the Media...
 
   <a href="https://www.pratidintime.com/assams-priyanka-das-selected-for-homeward-bound-2020/">
     <div class="card">
-      <img src="/Media/pratidin-jul19.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
         Assam's Priyanka Das Selected For Homeward Bound 2020
       </div>
@@ -107,7 +102,7 @@ title: In the Media...
 
   <a href="https://in.ambafrance.org/Testimony-of-an-Indian-Student-Priyanka-Das-in-France">
     <div class="card">
-      <img src="/Media/emba-apr18.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
         Testimony of an Indian Student Priyanka Das in France
       </div>
@@ -116,24 +111,21 @@ title: In the Media...
 
   <a href="https://www.indiatimes.com/news/india/to-motivate-young-women-france-names-assam-s-priyanka-das-ambassador-for-girls-and-science-346810.html">
     <div class="card">
-      <img src="/Media/indiatimes-jun18.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
-        To Motivate Young Women, France Names Assam's Priyanka Das Ambassador For 'Girls And Science'
       </div>
     </div>
   </a>
 
   <a href="https://www.pratidintime.com/assams-priyanka-das-appointed-ambassador-of-for-girls-and-science-initiative-in-france/">
     <div class="card">
-      <img src="/Media/pratidin-jun18.jpg" object-fit="cover">
+      <img src="/Media/" object-fit="cover" />
       <div class="cardtext">
-        Assam’s Priyanka Das appointed ambassador of ‘For Girls and Science’ initiative in France
       </div>
     </div>
   </a>
 
 </div>
-
 
 <!--
 
@@ -171,3 +163,4 @@ title: In the Media...
 </p>
 
 -->
+:ET
