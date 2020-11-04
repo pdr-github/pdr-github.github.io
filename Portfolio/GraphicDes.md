@@ -3,6 +3,13 @@ layout: artpost
 title: Graphic Design
 ---
 
+<div align="center">
+	<i>Click on the buttons to change the grid view.</i><br>
+	<button onclick="one()">1</button>
+	<button onclick="two()">2</button>
+	<button onclick="four()">4</button>	
+</div>
+
 <p align="center">
 	<img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:60%">
 	<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:60%">
