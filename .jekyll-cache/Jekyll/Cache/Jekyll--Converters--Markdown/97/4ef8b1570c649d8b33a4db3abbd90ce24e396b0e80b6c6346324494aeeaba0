@@ -1,15 +1,15 @@
-<p align="center">
-  <img src="/Portfolio/MoonGal/presenting.jpg" style="width: 100%">
+I"�<p align="center">
+  <img src="/Portfolio/MoonGal/presenting.jpg" style="width: 100%" />
 </p>
 
 <div>
   <button class="accordion">Moon Gallery: Context</button>
   <div class="panel">
     <p>
-      The International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS), with the aim of exploring the importance of cultural activities for human civilizations. In 2019, I was elected an expert to the committee. Under ITACCUS, ArtMoonMars is an initiative to highlight the importance of artists with respect to space exploration: as message bearers who convey multiple messages of the community including planetary science, life sciences, astronomy, fundamental research, resources utilisation, human spaceflight, peaceful cooperation, economic development, inspiration, training & capacity building.
-      <br><br>
+      The International Astronautical Federation (IAF) set up the Committee for the Cultural Utilisation of Space (ITACCUS), with the aim of exploring the importance of cultural activities for human civilizations. In 2019, I was elected an expert to the committee. Under ITACCUS, ArtMoonMars is an initiative to highlight the importance of artists with respect to space exploration: as message bearers who convey multiple messages of the community including planetary science, life sciences, astronomy, fundamental research, resources utilisation, human spaceflight, peaceful cooperation, economic development, inspiration, training &amp; capacity building.
+      <br /><br />
       The <a href="http://www.moongallery.eu/">Moon Gallery</a>, by ArtMoonMars, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these smart artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
-      <br><br>
+      <br /><br />
       The main team involves Anna Sitnikova (curator, exhibition designer), Elizaveta Glukhova (curator, graphic designer), Bernard Foing (space sector expert and visionary), and Alexander Zaklynsky (gallery founder). I met some of them at space conferences and one meeting led to another and hence I am, as one of the main artists to the gallery!
     </p>
   </div>
@@ -18,7 +18,7 @@
   <div class="panel">
     <p>
       The concept of Duality has intrigued mankind since the beginning of civilization, and ancient Vedic texts propose several philosophies on the duality of nature in intriguing detail.. <i>Bhedadīpikā</i> is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/"> a visual dialogue</a> based on my own duality - as an artist and scientist.
-      <br><br>
+      <br /><br />
       The artwork comprises of two objects constrained inside a 1cm³ box: a strip of paper where I drew the phases of the Moon in glow-in-the-dark ink, and a nano-sim card that contains artistic simulations that I coded using the Python programming language. Inspired by my Indian roots and the Vedic influence, I named my work “Bhedadipika – an illustration of Duality”. It plays upon several notions of Duality such as:
       <ul>
         <li>Constraint/Freedom</li>
@@ -27,7 +27,7 @@
         <li>Reality/Illusion</li>
         <li>Randomness/Intent</li>
       </ul>
-      <br>
+      <br />
       For more information on the Moon Gallery Project, check out my <a href="/Space/MoonGallery"> page here</a>, or go to the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
     </p>
   </div>
@@ -37,7 +37,7 @@
   <h2>
     Gallery | Discover Bhedadīpikā
   </h2>
-  <i>Click on the buttons to change the grid view.</i><br>
+  <i>Click on the buttons to change the grid view.</i><br />
   <button onclick="one()">1</button>
   <button onclick="two()">2</button>
   <button onclick="four()">4</button> 
@@ -45,27 +45,26 @@
 
 <div class="row">
   <div class="column">
-    <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%">
-    <img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%">      
-    <img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%">
-    <img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%">      
+    <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" />
+    <img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" />      
   </div>
   <div class="column">
-    <img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%">
-    <img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%">      
-    <img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%">
+    <img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" />
+    <img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" />      
   </div>
   <div class="column">
-    <img src="/Portfolio/Spirographs/epi_43-58-68.gif" alt="Supernova" style="width:100%">
-    <img src="/Portfolio/Spirographs/hypo_123-600-123.gif" alt="Supernova" style="width:100%">
-    <img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%">
+    <img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" />
+    <img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" />      
+    <img src="/Portfolio/Spirographs/epi_30-100-50-thick.gif" alt="Supernova" style="width:100%" />
+    <img src="/Portfolio/Spirographs/epi_30-100-50-thick.gif" alt="Supernova" style="width:100%" />
   </div>
   <div class="column">
-    <img src="/Portfolio/Spirographs/epi_30-100-50.gif" alt="Supernova" style="width:100%">
-    <img src="/Portfolio/Spirographs/hypo_33-50-50.gif" alt="Supernova" style="width:100%">
+    <img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%" />
+    <img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%" />
+    <img src="/Portfolio/Spirographs/epi_30-100-50-thick.gif" alt="Supernova" style="width:100%" />
+    <img src="/Portfolio/Spirographs/hypo_33-50-50.gif" alt="Supernova" style="width:100%" />
   </div>
-</div>  
-
+</div>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
@@ -84,3 +83,4 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
+:ET
