@@ -295,7 +295,7 @@ tbody tr:nth-child(odd) th {
 
 
 /*
- * Masthead
+ * Masthead & Footer
  *
  * Super small header above the content for site name and short description.
  */
@@ -320,6 +320,14 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10px;
+  background-color: gainsboro;
+}
 
 /*
  * Posts and pages
