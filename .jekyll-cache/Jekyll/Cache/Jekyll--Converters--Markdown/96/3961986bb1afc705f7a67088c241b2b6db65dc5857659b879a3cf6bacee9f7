@@ -1,68 +1,26 @@
----
-layout: page
-title: In the Media...
----
-
-<div class="cards">
-  
+I"ñ<div class="cards">
+  <div class="card">
+  </div>
   <a href="https://www.space.com/euromoonmars-esa-hi-seas-mock-moon-mission-ending.html">
     <div class="card">
-      <img src="/Media/spacedotcom1.jpg" object-fit="cover">
+      <img src="/Antarctica/banner.jpg" object-fit="fill" />
       <div class="cardtext">
+        <h3>Space.com</h3>
         European crew wraps up mock moon mission on volcano in Hawaii
       </div>
     </div>
   </a>
-
-  <a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html">
-    <div class="card">
-      <img src="/Media/spacedotcom2.jpg" object-fit="cover">
-      <div class="cardtext">
-        European scientists are taking a mock Moon mission in Hawaii right now
-      </div>
-    </div>
-  </a>
-
-  <a href="https://www.egu.eu/news/603/digital-artist-and-lego-photographer-named-artists-in-residence-at-the-egu-general-assembly-2020/">
-    <div class="card">
-      <img src="/Media/egu2020.jpg" object-fit="cover">
-      <div class="cardtext">
-        Digital artist and Lego photographer named artists in residence at the EGU General Assembly 2020
-      </div>
-    </div>
-  </a>
-
-  <a href="http://www.assamtribune.com/scripts/detailsnew.asp?id=feb1220/city054">
-    <div class="card">
-      <img src="/Media/assamtribune-feb2020.jpg" object-fit="cover">
-      <div class="cardtext">
-        Interaction with two prominent young scientists based abroad
-      </div>
-    </div>
-  </a>
-
-  <a href="https://www.eastmojo.com/assam/2020/01/14/this-assam-girl-is-all-set-to-send-her-artwork-to-moon-in-2022">
-    <div class="card">
-      <img src="/Media/eastmojo-jan2020.jpg" object-fit="cover">
-      <div class="cardtext">
-        This Assam girl is all set to send her artwork to Moon in 2022
-      </div>
-    </div>
-  </a>
-
+  <div class="card">THREE</div>
+  <div class="card">FOUR</div>
+  <div class="card">FIVE</div>
+  <div class="card">SIX</div>
+  <div class="card">SEVEN</div>
+  <div class="card">EIGHT</div>
+  <div class="card">NINE</div>
+  <div class="card">TEN</div>
 </div>
 
-
 <!--
-
-  <a href="">
-    <div class="card">
-      <img src="/Media/" object-fit="cover">
-      <div class="cardtext">
-      </div>
-    </div>
-  </a>
-
 
 <p class="message" align="center">
   <cite style="font-size:18px">
@@ -71,7 +29,15 @@ title: In the Media...
 </p>
 
 <p>
-  EastMojo: <a href=""></a>
+  Space.com: <a href="https://www.space.com/euromoonmars-esa-hi-seas-mock-moon-mission-ending.html">European crew wraps up mock moon mission on volcano in Hawaii</a>
+  <br>
+  Space.com: <a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html">European scientists are taking a mock Moon mission in Hawaii right now</a>
+  <br>
+  European Geosciences Union: <a href="https://www.egu.eu/news/603/digital-artist-and-lego-photographer-named-artists-in-residence-at-the-egu-general-assembly-2020/">Digital artist and Lego photographer named artists in residence at the EGU General Assembly 2020</a>
+  <br>
+  Assam Tribune: <a href="http://www.assamtribune.com/scripts/detailsnew.asp?id=feb1220/city054">Interaction with two prominent young scientists based abroad</a>
+  <br>
+  EastMojo: <a href="https://www.eastmojo.com/assam/2020/01/14/this-assam-girl-is-all-set-to-send-her-artwork-to-moon-in-2022">This Assam girl is all set to send her artwork to Moon in 2022</a>
   <br>
   European Space Agency: <a href="http://www.esa.int/Education/ESA_Academy/ESA-Sponsored_Students_attended_the_IAC_2019">ESA-Sponsored Students attended the IAC 2019</a>
   <br>
@@ -93,3 +59,4 @@ title: In the Media...
 </p>
 
 -->
+:ET
