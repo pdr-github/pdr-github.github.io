@@ -438,12 +438,12 @@ a.pagination-item:hover {
 }
 
 
-/* Cards */
+/* Media Cards */
 
 .card {
   position: relative;
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -454,16 +454,16 @@ a.pagination-item:hover {
   color: white;
   bottom: 30px;
   left: 0;
-  width: 220px;
+  width: 90%;
   text-align: center;
-  padding: 1em;
+  padding: 5px;
 }
 
 .cards {
   margin: 0 auto;
   display: grid;
   grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto));
 }
 
 /*
