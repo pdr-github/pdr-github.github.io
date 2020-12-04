@@ -23,6 +23,33 @@ title: In the Media...
     </div>
   </a>
 
+  <a href="https://indianexpress.com/article/technology/science/indian-origin-woman-scientist-heads-to-antarctica-eyes-space-6077006/">
+    <div class="card">
+      <img src="/Media/indianexpress1.jpg" object-fit="cover">
+      <div class="cardtext">
+        Indian-origin woman scientist heads to Antarctica, eyes space
+      </div>
+    </div>
+  </a>
+
+  <a href="https://www.oneindia.com/videos/living-in-space-aerospace-engineer-artist-talks-about-living-her-dreams-1067924.html">
+    <div class="card">
+      <img src="/Media/oneindia.jpg" object-fit="cover">
+      <div class="cardtext">
+        Living in space| Aerospace engineer & artist talks about living her dreams
+      </div>
+    </div>
+  </a>
+
+  <a href="https://www.smartrezo.com/n31-france/tv-femmes-d-exception-priyanka-das-ingenieure-spatiale-s.html?vod=17139">
+    <div class="card">
+      <img src="/Media/smartrezo.jpg" object-fit="cover">
+      <div class="cardtext">
+        Femmes d’exception : Priyanka DAS ingénieure spatiale
+      </div>
+    </div>
+  </a>
+
   <a href="https://www.1mwis.com/profiles/Priyanka-Das-Rajkakati">
     <div class="card">
       <img src="/Media/1mwis.jpg" object-fit="cover">
@@ -64,15 +91,6 @@ title: In the Media...
       <img src="/Media/esaiseb.jpg" object-fit="cover">
       <div class="cardtext">
         ESA-Sponsored Students attended the IAC 2019
-      </div>
-    </div>
-  </a>
-
-  <a href="https://indianexpress.com/article/technology/science/indian-origin-woman-scientist-heads-to-antarctica-eyes-space-6077006/">
-    <div class="card">
-      <img src="/Media/indianexpress1.jpg" object-fit="cover">
-      <div class="cardtext">
-        Indian-origin woman scientist heads to Antarctica, eyes space
       </div>
     </div>
   </a>
