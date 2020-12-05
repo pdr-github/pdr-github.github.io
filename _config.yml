@@ -9,7 +9,7 @@ description:         'PriyanKaleidoscope'
 url:                 http://lanyon.getpoole.com
 tagline:             Aerospace Engineer | Artist
 baseurl:             ''
-paginate:            5
+#paginate:            5
 
 # About/contact
 author:
