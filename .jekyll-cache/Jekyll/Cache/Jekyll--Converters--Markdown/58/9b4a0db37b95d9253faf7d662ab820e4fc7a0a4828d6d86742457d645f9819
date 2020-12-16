@@ -1,16 +1,11 @@
----
-layout: aboutpost
-title: CV
----
-
-<p align="center">
+I"Å<p align="center">
 	Page under construction.
-	<br>
+	<br />
 	Temporary solution: <a href="https://www.linkedin.com/in/das-pri/">LinkedIn</a>.
-	<br>
+	<br />
 	Or check here <a href="/Space">Space Projects</a>.
-	<br><br>
-	<img src="/assets/images/orion.jpg" style="width: 300px">
+	<br /><br />
+	<img src="/assets/images/orion.jpg" style="width: 300px" />
 </p>
 
 <!--
@@ -18,3 +13,4 @@ title: CV
 <img src="/About/cv-spaceproj.png">
 <img src="/About/cv-social.png">
 --->
+:ET
