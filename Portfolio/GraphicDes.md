@@ -24,6 +24,10 @@ title: Graphic Design
 		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC Our Giant Leap initiative</a>
 	</div>
 	<div class="column">
+		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%">
+		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
+	</div>
+	<div class="column">
 		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
 		Logo design for the Shaurya Foundation
 	</div>
