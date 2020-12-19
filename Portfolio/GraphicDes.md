@@ -21,7 +21,7 @@ title: Graphic Design
 	</div>
 	<div class="column">
 		<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:80%">
-		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC our Giant Leap initiative</a>
+		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC Our Giant Leap initiative</a>
 	</div>
 	<div class="column">
 		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
