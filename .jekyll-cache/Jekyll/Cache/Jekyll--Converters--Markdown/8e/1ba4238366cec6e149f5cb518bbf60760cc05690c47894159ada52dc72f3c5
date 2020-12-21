@@ -1,4 +1,4 @@
-I"|<div align="center">
+I"8<div align="center">
 	<i>Click on the buttons to change the grid view.</i><br />
 	<button onclick="one()">1</button>
 	<button onclick="two()">2</button>
@@ -16,9 +16,11 @@
 	</div>
 	<div class="column">
 		<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:80%" />
-		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC our Giant Leap initiative</a>
+		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC Our Giant Leap initiative</a>
 	</div>
 	<div class="column">
+		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" />
+		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
 		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
 		Logo design for the Shaurya Foundation
 	</div>
