@@ -32,6 +32,15 @@ title: In the Media...
     </div>
   </a>
 
+  <a href="https://tedxsaclay.com/editions/terre-notre-vaisseau/appels/resultat-du-jury-de-preselection-de-l-appel-a-idees-2020">
+    <div class="card">
+      <img src="/Media/tedxsaclay2020.jpg" object-fit="cover">
+      <div class="cardtext">
+        Finalists | TEDxSaclay 2020
+      </div>
+    </div>
+  </a>
+
   <a href="https://www.oneindia.com/videos/living-in-space-aerospace-engineer-artist-talks-about-living-her-dreams-1067924.html">
     <div class="card">
       <img src="/Media/oneindia.jpg" object-fit="cover">
