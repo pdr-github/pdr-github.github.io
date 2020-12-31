@@ -50,6 +50,22 @@ title: In the Media...
     </div>
   </a>
 
+  <a href="https://www.oneindia.com/videos/adventure-in-antarctica-to-break-the-ice-forge-ties-to-grow-1305038.html">
+    <div class="card">
+      <img src="/Media/oneindia-dec20.jpg" object-fit="cover">
+      <div class="cardtext">
+        Adventure in Antarctica to 'break the ice', forge ties & to grow
+      </div>
+    </div>
+  </a>
+
+  <div class="card">
+    <img src="/Media/hollywoodweekly-dec20.jpg" object-fit="cover">
+    <div class="cardtext">
+      Ambassador "For Girls in Science" to promote scientific pursuits among young people and especially, girls 
+    </div>
+  </div>
+
   <a href="https://www.smartrezo.com/n31-france/tv-femmes-d-exception-priyanka-das-ingenieure-spatiale-s.html?vod=17139">
     <div class="card">
       <img src="/Media/smartrezo.jpg" object-fit="cover">
