@@ -84,7 +84,7 @@ title: In the Media...
 
   <p>
     <b>Hollywood Weekly India | </b>
-    Ambassador "For Girls in Science" to promote scientific pursuits among young people and especially, girls     
+    <a href="">Ambassador "For Girls in Science" to promote scientific pursuits among young people and especially, girls</a>     
   </p>
 
   <p>
