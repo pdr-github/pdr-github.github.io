@@ -69,6 +69,13 @@ title: In the Media...
 <br>
 
   <p>
+    <b>V-Art |</b>
+    <a href="https://www.facebook.com/V.Art.digital/posts/240299600928963">
+      Artists and projects selected to participate in the #SpaceOpenCall, the first exhibition on a digital Art Spaceship 
+    </a>
+  </p>
+
+  <p>
     <b>TEDxSaclay |</b>
     <a href="https://tedxsaclay.com/editions/terre-notre-vaisseau/appels/resultat-du-jury-de-preselection-de-l-appel-a-idees-2020">
       Finalists of TEDxSaclay 2020
