@@ -156,7 +156,7 @@ title: In the Media...
       Assam’s Priyanka Das appointed ambassador of ‘For Girls and Science’ initiative in France
     </a>
   </p>
-
+<!--
   <p>
     <b>NE Now |</b>
     <a href="https://nenow.in/north-east-news/assam/assam-girl-priyanka-das-becomes-ambassador-of-promote-science-initiative-in-france.html">
@@ -170,7 +170,7 @@ title: In the Media...
       France Appoints Assam Girl As Ambassador to Inspire Scientists of Tomorrow!
     </a>
   </p>
-
+-->
 
 
 
