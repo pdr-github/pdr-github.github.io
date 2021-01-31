@@ -40,6 +40,13 @@ title: In the Media...
 <br>
 
   <p>
+    <b>NESRA </b> | January 25, 2021 |
+    <a href="https://www.linkedin.com/posts/nesra-nepalese-space-research-association_nesra-activity-6759476032455217152-g9V_/">
+      A webinar focused on Analog Astronaut Missions and their importance for future human space exploration programs.
+    </a>
+  </p>
+
+  <p>
     <b>V-Art </b> | January 11, 2021 |
     <a href="https://www.facebook.com/V.Art.digital/posts/240299600928963">
       Artists and projects selected to participate in the #SpaceOpenCall, the first exhibition on a digital Art Spaceship 
