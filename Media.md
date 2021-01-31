@@ -47,6 +47,13 @@ title: In the Media...
   </p>
 
   <p>
+    <b>European Geosciences Union </b> | January 06, 2021 |
+    <a href="https://www.egu.eu/news/723/four-artists-to-be-not-in-residence-at-vegu21/">
+      Four artists to be (not!) in residence at vEGU21
+    </a>
+  </p>
+
+  <p>
     <b>OneIndia </b> | December 30, 2020 |
     <a href="https://www.oneindia.com/videos/adventure-in-antarctica-to-break-the-ice-forge-ties-to-grow-1305038.html">
       Adventure in Antarctica to 'break the ice', forge ties & to grow
@@ -87,7 +94,7 @@ title: In the Media...
   </p>
 
   <p>
-    <b>EGU </b> | February 05, 2020 |
+    <b>European Geosciences Union </b> | February 05, 2020 |
     <a href="https://www.egu.eu/news/603/digital-artist-and-lego-photographer-named-artists-in-residence-at-the-egu-general-assembly-2020/">
       Digital artist and Lego photographer named artists in residence at the EGU General Assembly 2020
     </a>
