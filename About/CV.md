@@ -53,12 +53,12 @@ title: CV
 	<br> Gold medal, Badminton | <i>Tournoi Sportif des Grandes Écoles de la Défense</i> (TSGED)
 </div>
 <div> <br>
+	<br> Awardee | INSPIRE Merit Scholarship, Govt. of India
+	<br> <b> Awardee | Best All-Rounder Award, Sri Aurobindo Education Society </b>
 	<b> 2010-2013 </b>
 	<br> Sponsorship | Polytechnique Foundation sponsorship for Ecole polytechnique
 	<br> Selection | Summer Course in Experimental Physics, HBSCE, TIFR, India
 	<br> Selection | National Institute of Design, Ahmedabad, India
-	<br> Awardee | INSPIRE Merit Scholarship, Govt. of India
-	<br> <b> Awardee | Best All-Rounder Award, Sri Aurobindo Education Society </b>
 </div>
 
 <br><br>
