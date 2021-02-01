@@ -40,7 +40,7 @@ title: CV
 	<br> <b> Selection | Moon Gallery Project </b>
 	<br> <b> Selection | #TeamHB5 Homeward Bound Women in STEMM (2019 batch) </b>
 	<br> Selection | Expert to the IAF Committee for the Cultural Utilisation of Space (ITACCUS)
-	<br> Featured | One Million Women in STEM
+	<br> Selection | One Million Women in STEM
 	<br> Winner | Rapid-pitch, SpaceUpISU 2019 (International Space University)
 	<br> Runner-up | Startup hackathon, <i>Les Doctoriales 2018, Albi,</i> PhD students' meet
 </div>
