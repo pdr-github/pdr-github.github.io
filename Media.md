@@ -73,6 +73,13 @@ title: In the Media...
   </p>
 
   <p>
+    <b>SGAC </b> | October 30, 2020 |
+    <a href="https://spacegeneration.org/mom-october-2020">
+      Member of the month for October 2020: SG[France]2020 Organizing Team
+    </a>     
+  </p>
+
+  <p>
     <b>Smartrezo </b> | August 04, 2020 |
     <a href="https://www.smartrezo.com/n31-france/tv-femmes-d-exception-priyanka-das-ingenieure-spatiale-s.html?vod=17139">
       Femmes d’exception : Priyanka DAS ingénieure spatiale
@@ -83,6 +90,13 @@ title: In the Media...
     <b>1MWIS </b> | July 07, 2020 |
     <a href="https://www.1mwis.com/profiles/Priyanka-Das-Rajkakati">
       Featured in "1 Million Women in Science"
+    </a>
+  </p>
+
+  <p>
+    <b>SGAC </b> | June 29, 2020 |
+    <a href="https://spacegeneration.org/mom-june-2020">
+      Member of the Month for June 2020: SGAC PR & Communications Team
     </a>
   </p>
 
