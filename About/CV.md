@@ -170,7 +170,7 @@ title: CV
 	<br> Women Engineers Form of Assam (WEFA)
 </div>
 <div> <br>
-	<b> Live show: <i>"Et si les sciences c'était pour moi?"</i> </b> | January 2019
+	<b> Live show: <i>"Et si les sciences c'était pour moi ?"</i> </b> | January 2019
 	<br> L'Oréal-UNESCO "For Girls in Science", City of Science & Industry (Paris, France)
 </div>
 <div> <br>
