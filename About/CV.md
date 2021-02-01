@@ -38,7 +38,7 @@ title: CV
 	<br> Award | Runner-up (Startup hackathon), <i>Les Doctoriales 2018, Albi,</i> PhD students' meet
 	<br> Grant | <b> CIFRE PhD: <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
 	<br> Grant | Artist residency at European Geosciences Union 2020 (vEGU20)
-	<br> Selection | <b> Moon Gallery Project </b>
+	<br> Selection | <b> Artist for the Moon Gallery Project </b>
 	<br> Selection | <b> #TeamHB5 Homeward Bound Projects (Antarctica) </b>
 	<br> Selection | Expert to the IAF Committee for the Cultural Utilisation of Space (ITACCUS)
 	<br> Selection | One Million Women in STEM
