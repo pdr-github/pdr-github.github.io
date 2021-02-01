@@ -56,7 +56,7 @@ title: CV
 	<br> Award | INSPIRE Merit Scholarship, Govt. of India
 	<br> Award | <b> Best All-Rounder Award, Sri Aurobindo Education Society </b>
 	<br> Grant | Bourse de la Fondation de l'X (Polytechnique Foundation)
-	<br> Grant | Summer Project at Inter-University Accelartor Centre, Delhi, India
+	<br> Grant | Summer Project at Inter-University Accelerator Centre, Delhi, India
 	<br> Grant | Summer Course in Experimental Physics, HBSCE, TIFR, India
 	<br> Selection | National Institute of Design, Ahmedabad, India
 </div>
