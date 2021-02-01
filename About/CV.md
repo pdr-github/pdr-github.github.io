@@ -28,36 +28,36 @@ title: CV
 <h2>HONORS & AWARDS</h2>
 <div> <br>
 	<b> 2021 </b>
-	<br> <b>Awardee | Forbes India 30 under 30</b> 
-	<br> Awardee | V-Art Digital Art Spaceship Exhibition
-	<br> Artist residency | European Geosciences Union 2021 (vEGU21)
+	<br> Award | <b> Forbes India 30 under 30</b> 
+	<br> Award | V-Art Digital Art Spaceship Exhibition
+	<br> Grant | Artist residency at European Geosciences Union 2021 (vEGU21)
 </div>
 <div> <br>
 	<b> 2018-2020 </b>
-	<br> Awardee | European Space Agency (ESA) & International Space Education Board (ISEB) sponsorship for IAC2019
-	<br> <b> PhD sponsorship | <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
-	<br> Artist residency | European Geosciences Union 2020 (vEGU20)
-	<br> <b> Selection | Moon Gallery Project </b>
-	<br> <b> Selection | #TeamHB5 Homeward Bound Women in STEMM (2019 batch) </b>
+	<br> Award | European Space Agency (ESA) ISEB sponsorship for IAC2019
+	<br> Grant | <b> CIFRE PhD: <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
+	<br> Grant | Artist residency at European Geosciences Union 2020 (vEGU20)
+	<br> Selection | <b> Moon Gallery Project </b>
+	<br> Selection | <b> #TeamHB5 Homeward Bound Projects (Antarctica) </b>
 	<br> Selection | Expert to the IAF Committee for the Cultural Utilisation of Space (ITACCUS)
 	<br> Selection | One Million Women in STEM
-	<br> Winner | Rapid-pitch, SpaceUpISU 2019 (International Space University)
+	<br> Winner | Rapid-pitch, SpaceUpISU 2019
 	<br> Runner-up | Startup hackathon, <i>Les Doctoriales 2018, Albi,</i> PhD students' meet
 </div>
 <div> <br>
 	<b> 2014-2017 </b>
-	<br> Sponsorship | French Aerospace Industries Association (GIFAS) sponsorship for ISAE-Supaéro
-	<br> Sponsorship | "Brazil, France, Engineers, Technology" (BRAFITEC) sponsorship for Franco-Brazilian student exchange
+	<br> Grant | French Aerospace Industries Association (GIFAS) sponsorship for ISAE-Supaéro
+	<br> Grant | "Brazil, France, Engineers, Technology" (BRAFITEC) sponsorship
 	<br> Selection | NASA JPL & Caltech Space Challenge 2015
-	<br> Winner (Paris region) | #ActInSpace 2014
-	<br> Gold medal, Badminton | <i>Tournoi Sportif des Grandes Écoles de la Défense</i> (TSGED)
+	<br> Winner | (Paris region) #ActInSpace 2014
+	<br> Gold medal | Badminton, <i>Tournoi Sportif des Grandes Écoles de la Défense</i> (TSGED 2014)
 </div>
 <div> <br>
 	<b> 2010-2013 </b>
-	<br> Awardee | INSPIRE Merit Scholarship, Govt. of India
-	<br> <b> Awardee | Best All-Rounder Award, Sri Aurobindo Education Society </b>
-	<br> Sponsorship | Polytechnique Foundation sponsorship for Ecole polytechnique
-	<br> Selection | Summer Course in Experimental Physics, HBSCE, TIFR, India
+	<br> Award | INSPIRE Merit Scholarship, Govt. of India
+	<br> Award | <b> Best All-Rounder Award, Sri Aurobindo Education Society </b>
+	<br> Grant | Polytechnique Foundation sponsorship for Ecole polytechnique
+	<br> Grant | Summer Course in Experimental Physics, HBSCE, TIFR, India
 	<br> Selection | National Institute of Design, Ahmedabad, India
 </div>
 
@@ -83,7 +83,7 @@ title: CV
 	<b> Engineering Research Project (X-Cubesat) </b> | 2014 <i>(1 year)</i>
 	<br> Project QB50, Ecole Polytechnique (Paris region, France)
 </div>
-<h3>Short Projects</h3>
+<h3>~ Short Projects ~</h3>
 <div> <br>
 	<b> Software Intern (Lab-test Automation), Startup R&D </b> | 2015 <i>(2 months)</i>
 	<br> CorWave (Paris, France)
@@ -91,6 +91,10 @@ title: CV
 <div> <br>
 	<b> Summer Intern (Digital Holography) </b> | 2015 <i>(2 weeks)</i>
 	<br> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)
+</div>
+<div> <br>
+	<b> Summer Intern (Editing, Auditing and Reporting) </b> | 2013 <i>(1 month)</i>
+	<br> <i>The Times of India</i> (Delhi, India)
 </div>
 <div> <br>
 	<b> Summer Intern (Digital Holography) </b> | 2012 <i>(2 months)</i>
@@ -106,7 +110,7 @@ title: CV
 </div>
 
 <br><br>
-<h2>LEADERSHIP & OTHER PROFESSIONAL EXPERIENCE</h2>
+<h2>LEADERSHIP</h2>
 <div> <br>
 	<b> Participant #TeamHB5, Antarctica & Leadership Program </b> | Since 2019 <i>(2 years)</i>
 	<br> Homeward Bound Projects
@@ -116,7 +120,7 @@ title: CV
 	<br> Space Generation Advisory Council (SGAC)
 </div>
 <div> <br>
-	<b> Delegate & lead for Human Space Exploration sub-working group </b> | January 2021 <i>(1 week)</i>
+	<b> Delegate & lead for Human Space Exploration sub-working group </b> | January 2021 <i>(9 days)</i>
 	<br> SGAC Asia-Pacific Space Generation Online Workshop (APSGOW)
 </div>
 <div> <br>
@@ -128,20 +132,16 @@ title: CV
 	<br> Hawai'i Space Exploration Analog and Simulation (HI-SEAS) (Hawai'i, USA)
 </div>
 <div> <br>
-	<b> Member of PR&Comm team</b> | Since 2020 <i>(1 year)</i>
-	<br> Space Generation Advisory Council (SGAC)
-</div>
-<div> <br>
 	<b> Founder, X-Inde (Polytechnique India Group) </b> | Since 2019 <i>(2 years)</i>
 	<br> Polytechnique Alumni Association
 </div>
 <div> <br>
-	<b> Ambassador, L'Oréal "For Girls in Science" Program </b> | 2017-2019 <i>(2 years)</i>
-	<br> L'Oréal Foundation For Women in Science 
+	<b> SGAC PR&Comm team</b> | Since 2020 <i>(1 year)</i>
+	<br> Space Generation Advisory Council (SGAC)
 </div>
 <div> <br>
-	<b> Summer Intern (Editing, Auditing and Reporting) </b> | 2013 <i>(1 month)</i>
-	<br> <i>The Times of India</i> (Delhi, India)
+	<b> Ambassador, L'Oréal "For Girls in Science" Program </b> | 2017-2019 <i>(2 years)</i>
+	<br> L'Oréal Foundation For Women in Science 
 </div>
 
 <br><br>
