@@ -34,15 +34,15 @@ title: CV
 </div>
 <div> <br>
 	<b> 2018-2020 </b>
-	<br> Artist residency | European Geosciences Union 2020 (vEGU20)
 	<br> Awardee | European Space Agency (ESA) & International Space Education Board (ISEB) sponsorship for IAC2019
+	<br> <b> PhD sponsorship | <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
+	<br> Artist residency | European Geosciences Union 2020 (vEGU20)
 	<br> <b> Selection | Moon Gallery Project </b>
-	<br> Featured | One Million Women in STEM
 	<br> <b> Selection | #TeamHB5 Homeward Bound Women in STEMM (2019 batch) </b>
+	<br> Selection | Expert to the IAF Committee for the Cultural Utilisation of Space (ITACCUS)
+	<br> Featured | One Million Women in STEM
 	<br> Winner | Rapid-pitch, SpaceUpISU 2019 (International Space University)
 	<br> Runner-up | Startup hackathon, <i>Les Doctoriales 2018, Albi,</i> PhD students' meet
-	<br> Selection | Expert to the IAF Committee for the Cultural Utilisation of Space (ITACCUS)
-	<br> <b> PhD sponsorship | <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
 </div>
 <div> <br>
 	<b> 2014-2017 </b>
@@ -56,8 +56,8 @@ title: CV
 	<b> 2010-2013 </b>
 	<br> Sponsorship | Polytechnique Foundation sponsorship for Ecole polytechnique
 	<br> Selection | Summer Course in Experimental Physics, HBSCE, TIFR, India
-	<br> Awardee | INSPIRE Merit Scholarship, Govt. of India
 	<br> Selection | National Institute of Design, Ahmedabad, India
+	<br> Awardee | INSPIRE Merit Scholarship, Govt. of India
 	<br> <b> Awardee | Best All-Rounder Award, Sri Aurobindo Education Society </b>
 </div>
 
@@ -80,6 +80,11 @@ title: CV
 	<br> Robotics Lab, <i>Escola Politécnica</i>, University of Sao Paulo (Sao Paulo, Brazil)
 </div>
 <div> <br>
+	<b> Engineering Research Project (X-Cubesat) </b> | 2014 <i>(1 year)</i>
+	<br> Project QB50, Ecole Polytechnique (Paris region, France)
+</div>
+<h3>Short Projects</h3>
+<div> <br>
 	<b> Software Intern (Lab-test Automation), Startup R&D </b> | 2015 <i>(2 months)</i>
 	<br> CorWave (Paris, France)
 </div>
@@ -88,11 +93,7 @@ title: CV
 	<br> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)
 </div>
 <div> <br>
-	<b> Engineering Research Project (X-Cubesat) </b> | 2014 <i>(1 year)</i>
-	<br> Project QB50, Ecole Polytechnique (Paris region, France)
-</div>
-<div> <br>
-	<b> Summer Intern (Digital Holography) </b> | 2012 <i>(3 months)</i>
+	<b> Summer Intern (Digital Holography) </b> | 2012 <i>(2 months)</i>
 	<br> Photonics Lab, Indian Institute of Technology (Delhi, India)
 </div>
 <div> <br>
@@ -111,12 +112,16 @@ title: CV
 	<br> Homeward Bound Projects
 </div>
 <div> <br>
+	<b> Event Manager, SG[India]2021 </b> | Since 2021 <i>(2 months)</i>
+	<br> Space Generation Advisory Council (SGAC)
+</div>
+<div> <br>
 	<b> Delegate & lead for Human Space Exploration sub-working group </b> | January 2021 <i>(1 week)</i>
 	<br> SGAC Asia-Pacific Space Generation Online Workshop (APSGOW)
 </div>
 <div> <br>
-	<b> Event Manager, SG[India]2021 </b> | Since 2021 <i>(2 months)</i>
-	<br> Space Generation Advisory Council (SGAC)
+	<b> Event organizer, SG[France]2020</b> | 2019-20 <i>(1 year)</i>
+	<br> <i>Our Giant Leap initiative</i>, Space Generation Advisory Council (SGAC)
 </div>
 <div> <br>
 	<b> Commander-in-training, EMMIHS-III Lunar Analogue Astronaut Mission </b> | January 2020 <i>(3 weeks)</i>
@@ -131,10 +136,6 @@ title: CV
 	<br> Polytechnique Alumni Association
 </div>
 <div> <br>
-	<b> Event organizer, SG[France]2020</b> | 2019-20 <i>(1 year)</i>
-	<br> <i>Our Giant Leap initiative</i>, Space Generation Advisory Council (SGAC)
-</div>
-<div> <br>
 	<b> Ambassador, L'Oréal "For Girls in Science" Program </b> | 2017-2019 <i>(2 years)</i>
 	<br> L'Oréal Foundation For Women in Science 
 </div>
@@ -142,6 +143,10 @@ title: CV
 	<b> Summer Intern (Editing, Auditing and Reporting) </b> | 2013 <i>(1 month)</i>
 	<br> <i>The Times of India</i> (Delhi, India)
 </div>
+
+<br><br>
+<h2>PUBLICATIONS</h2>
+<a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar Profile</a>
 
 <br><br>
 <h2>TALKS</h2>
@@ -161,7 +166,7 @@ title: CV
 	<br> IEEE ICASSP 2019 (Brighton, UK)
 </div>
 <div> <br>
-	<b> Webinar: Girls and Space Science </b> | February 2020
+	<b> Webinar: Careers in Space Science </b> | February 2020
 	<br> Women Engineers Form of Assam (WEFA)
 </div>
 <div> <br>
@@ -169,7 +174,7 @@ title: CV
 	<br> L'Oréal-UNESCO "For Girls in Science", City of Science & Industry (Paris, France)
 </div>
 <div> <br>
-	<b> Talk: On Pursuing Scientific Career for Women </b> | July 2017
+	<b> Talk: On Pursuing Scientific Careers for Women </b> | July 2017
 	<br> Handique Girls College (Guwahati, Assam)
 </div>
 
