@@ -6,6 +6,15 @@ title: News
 <h1>Featured</h1><br>
 
 <div class="cards">
+  <a href="https://www.forbesindia.com/lists/30-under-30-2021/1901/all">
+    <div class="card">
+      <img src="/Media/f30u30.jpg" object-fit="cover">
+      <div class="cardtext">
+        | February 01, 2021 | <br>
+        Forbes India 30 under 30 class of 2021
+      </div>
+    </div>
+  </a>
   <a href="https://www.oneindia.com/videos/living-in-space-aerospace-engineer-artist-talks-about-living-her-dreams-1067924.html">
     <div class="card">
       <img src="/Media/oneindia.jpg" object-fit="cover">
@@ -38,6 +47,13 @@ title: News
 <br><br>
 <h1>More</h1>
 <br>
+
+  <p>
+    <b> Herstory </b> | February 04, 2021 |
+    <a href="https://yourstory.com/herstory/2021/02/indian-women-forbes-india-30-under-30">
+      Meet the 13 women who made it to Forbes India’s list of 30 Under 30
+    </a>
+  </p>
 
   <p>
     <b>NESRA </b> | January 25, 2021 |
