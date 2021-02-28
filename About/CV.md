@@ -165,11 +165,19 @@ title: CV
 	<b> TEDx Saclay, 3-min Pitch: <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
 </div>
 <div> <br>
+	<b> Conference presentation: EMMIHS-III Mission: General Overview </b> | March 2020
+	<br> 51st Lunar and Planetary Science Conference 2020
+</div>
+<div> <br>
 	<b> Conference presentation: A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration </b> | November 2019
 	<br> International Astronautical Congress 2019 (Washington DC, USA)
 </div>
 <div> <br>
-	<b> Poster presentation: On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal </b> | May 2019
+	<b> Conference presentation: Horizon 2061 - Engaging youth in planetary exploration towards H2061 </b> | September 2019
+	<br> European Planetary Science Congress 2019 (Geneva, Switzerland)
+</div>
+<div> <br>
+	<b> Conference presentation: On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal </b> | May 2019
 	<br> IEEE ICASSP 2019 (Brighton, UK)
 </div>
 <div> <br>
