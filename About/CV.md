@@ -166,7 +166,7 @@ title: CV
 </div>
 <div> <br>
 	<b> Conference presentation: EMMIHS-III Mission: General Overview </b> | March 2020
-	<br> 51st Lunar and Planetary Science Conference 2020
+	<br> 51st Lunar and Planetary Science Conference
 </div>
 <div> <br>
 	<b> Conference presentation: A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration </b> | November 2019
