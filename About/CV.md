@@ -162,7 +162,7 @@ title: CV
 	<br> NESRA Nepalese Space Research Association 
 </div>
 <div> <br>
-	<b> TEDx Saclay, 3-min Pitch: <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
+	<b> TEDxSaclay, 3-min Pitch: <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
 </div>
 <div> <br>
 	<b> Conference presentation: EMMIHS-III Mission: General Overview </b> | March 2020
