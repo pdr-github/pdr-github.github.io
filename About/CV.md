@@ -151,11 +151,18 @@ title: CV
 <br><br>
 <h2>TALKS</h2>
 <div> <br>
+	<b> TEDxSPSGhy: Art and Culture for Successful Space Societies </b> | February 2021
+</div>
+<div> <br>
+	<b> Webinar: Exploring the Moon (National Science Day Celebration talkshow) </b> | February 2021
+	<br> Assam down town University (AdtU)
+</div>
+<div> <br>
 	<b> Webinar: The Importance of Analog Astronaut Missions for Future Human Space Exploration Programs </b> | February 2021
 	<br> NESRA Nepalese Space Research Association 
 </div>
 <div> <br>
-	<b> 3-min Pitch: TEDx Saclay, <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
+	<b> TEDx Saclay, 3-min Pitch: <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
 </div>
 <div> <br>
 	<b> Conference presentation: A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration </b> | November 2019
