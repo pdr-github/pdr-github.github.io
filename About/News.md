@@ -130,12 +130,12 @@ title: News
     </a>
   </p>
 
-  <!--p>
+  <p>
     <b>1MWIS </b> | July 07, 2020 |
     <a href="https://www.1mwis.com/profiles/Priyanka-Das-Rajkakati">
       Featured in "1 Million Women in Science"
     </a>
-  </p-->
+  </p>
 
   <p>
     <b>SGAC </b> | June 29, 2020 |
