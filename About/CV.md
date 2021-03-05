@@ -151,6 +151,10 @@ title: CV
 <br><br>
 <h2>TALKS</h2>
 <div> <br>
+	<b> Webinar hosting: Why do we need more women astronauts? </b> | February 2021
+	<br> Space Generation Advisory Council: Our Giant Leap webinar series
+</div>
+<div> <br>
 	<b> TEDxSPSGhy: Art and Culture for Successful Space Societies </b> | February 2021
 </div>
 <div> <br>
@@ -163,6 +167,10 @@ title: CV
 </div>
 <div> <br>
 	<b> TEDxSaclay, 3-min Pitch: <i> Appel à Idées 2020 : Terre, notre vaisseau</i> </b> | July 2020
+</div>
+<div> <br>
+	<b> Webinar hosting: Shifted Lunar Perspectives by Barbara Imhof </b> | June 2020
+	<br> Space Generation Advisory Council: Our Giant Leap webinar series
 </div>
 <div> <br>
 	<b> Conference presentation: EMMIHS-III Mission: General Overview </b> | March 2020
