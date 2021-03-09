@@ -52,6 +52,13 @@ title: News
 <br>
 
   <p>
+    <b> TechRound UK </b> | March 08, 2021 |
+    <a href="https://techround.co.uk/international-womens-day/priyanka-das-rajkakati-2021-forbes-india-30-under-30-winner/">
+      International Women’s Day 2021: Inspiring Quotes and Advice - Priyanka Das Rajkakati
+    </a>
+  </p>
+
+  <p>
     <b> Assam Tribune </b> | February 17, 2021 |
     <a href="https://assamtribune.com/assam-scientist-artist-part-of-international-lunar-project/">
       Assam scientist-artist part of international lunar project
