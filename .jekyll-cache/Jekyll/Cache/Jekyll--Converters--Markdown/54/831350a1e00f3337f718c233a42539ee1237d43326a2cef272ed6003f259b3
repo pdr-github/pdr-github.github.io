@@ -1,4 +1,4 @@
-I"|<h1>Featured</h1>
+I"l <h1>Featured</h1>
 <p><br /></p>
 
 <div class="cards">
@@ -39,7 +39,9 @@
     </div>
   </a>
 </div>
-
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BgeJFqWvfPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 <p><br /><br /></p>
 <h1>More</h1>
 <p><br /></p>
@@ -126,12 +128,12 @@
     </a>
   </p>
 
-<p><!--p>
+<p>
     <b>1MWIS </b> | July 07, 2020 |
     <a href="https://www.1mwis.com/profiles/Priyanka-Das-Rajkakati">
       Featured in "1 Million Women in Science"
     </a>
-  </p--></p>
+  </p>
 
 <p>
     <b>SGAC </b> | June 29, 2020 |
