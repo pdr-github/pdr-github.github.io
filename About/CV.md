@@ -151,6 +151,10 @@ title: CV
 <br><br>
 <h2>TALKS</h2>
 <div> <br>
+	<b> Invited speaker: <i>AERONAUTIQUE & SPATIAL, une constellation de métiers? </i> </b> | March 2021
+	<br> Aeroscopia Museum, Toulouse, in collaboration with <i>Women in Leadership</i>  
+</div>
+<div> <br>
 	<b> Webinar host: Why do we need more women astronauts? </b> | February 2021
 	<br> Space Generation Advisory Council: Our Giant Leap webinar series
 </div>
