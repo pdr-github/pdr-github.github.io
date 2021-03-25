@@ -52,6 +52,13 @@ title: News
 <br>
 
   <p>
+    <b> Time 8 (Assam) </b> | March 20, 2021 |
+    <a href="https://www.time8.in/meet-priyanka-das-rajkakati-assam-girl-who-is-all-set-to-send-her-artwork-to-moon/">
+      Assam girl who is all set to send her artwork to Moon
+    </a>
+  </p>
+
+  <p>
     <b> TechRound UK </b> | March 08, 2021 |
     <a href="https://techround.co.uk/international-womens-day/priyanka-das-rajkakati-2021-forbes-india-30-under-30-winner/">
       International Women’s Day 2021: Inspiring Quotes and Advice - Priyanka Das Rajkakati
