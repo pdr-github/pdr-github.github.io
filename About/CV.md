@@ -190,113 +190,111 @@ title: CV
 <div class="panel"> <br>
 
   <p>
-    <b> Invited speaker </b> | March 2021 | (in French)
-    <a href="https://youtu.be/4GtnXfuuefg">
-      AERONAUTIQUE & SPATIAL, une constellation de métiers?
+    <b> Invited speaker </b> | March 2021
+    <br> (in French) <a href="https://youtu.be/4GtnXfuuefg">
+      "AERONAUTIQUE & SPATIAL, une constellation de métiers ?"
     </a>
-    <br> by <i>Women in Leadership</i>, at the Aeroscopia Museum, Toulouse
+    <br> <i>Women in Leadership, at the Aeroscopia Museum, Toulouse </i>
   </p>
 
   <p>
-    <b> Interview </b> | March 2021 |
-    <a href="https://youtu.be/BgeJFqWvfPY">
-      Journey from India to Space | Gems of India Series |
+    <b> Interview </b> | March 2021
+    <br> <a href="https://youtu.be/BgeJFqWvfPY">
+      "Journey from India to Space | Gems of India Series"
     </a>
-    <br>  by Indians in France - Toulouse
+    <br> <i> Indians in France - Toulouse </i>
   </p>
 
   <p>
-    <b> Webinar host </b> | February 2021 |
-    Why do we need more women astronauts?
-    <br> for the Space Generation Advisory Council: Our Giant Leap webinar series
+    <b> Webinar host </b> | February 2021
+    <br> "Why do we need more women astronauts?"
+    <br> <i> Space Generation Advisory Council (SGAC): Our Giant Leap webinar series </i>
   </p>
 
   <p>
-    <b> Invited speaker (TEDx) </b> | February 2021 |
-    Art and Culture for Successful Space Societies 
-    <br> by TEDxSPSGhy, South Point School, Guwahati (link available soon)
+    <b> Invited speaker (TEDx) </b> | February 2021
+    <br> "Art and Culture for Successful Space Societies"
+    <br> <i> TEDxSPSGhy, South Point School, Guwahati (link available soon) </i>
   </p>
 
   <p>
-    <b> Invited speaker (webinar) </b> | February 2021 |
-    Exploring the Moon
-    <br> by Assam down town University (AdtU), <i> National Science Day Celebration </i>
+    <b> Invited speaker (webinar) </b> | February 2021
+    <br> "Exploring the Moon"
+    <br> <i> Assam down town University (AdtU) - National Science Day Celebration </i>
   </p>
 
   <p>
-    <b> Invited speaker (webinar) </b> | February 2021 |
-    <a href="https://www.youtube.com/watch?v=JtTF9EuqU58&feature=youtu.be">
-      The Importance of Analog Astronaut Missions for Future Human Space Exploration      
+    <b> Invited speaker (webinar) </b> | February 2021
+    <br> <a href="https://www.youtube.com/watch?v=JtTF9EuqU58&feature=youtu.be">
+      "The Importance of Analog Astronaut Missions for Future Human Space Exploration"
     </a>
-    <br> by the Nepalese Space Research Association (NESRA)
+    <br> <i> Nepalese Space Research Association (NESRA) </i>
   </p>
 
   <p>
-    <b> TEDx - 20 selected pitches </b> | July 2020 |
-    (in French) Appel à Idées 2020 : Terre, notre vaisseau
-    <br> by TEDxSaclay 2020
+    <b> TEDx - 20 selected pitches </b> | July 2020
+    <br> (in French) "L'art et l'espace"
+    <br> <i> TEDxSaclay 2020 - Appel à Idées 2020 : Terre, notre vaisseau</i>
   </p>
 
   <p>
-    <b> Interview </b> | July, 2020 |
-    <a href="https://www.youtube.com/watch?v=vZxhevOeZRw">
-      Living in space - Aerospace engineer & artist talks about living her dreams
+    <b> Interview </b> | July, 2020
+    <br> <a href="https://www.youtube.com/watch?v=vZxhevOeZRw">
+      "Living in space - Aerospace engineer & artist talks about living her dreams"
     </a>
-    <br> Oneindia News
+    <br> <i> Oneindia News </i>
   </p>
 
   <p>
-    <b> Webinar host </b> | June 2020 |
-    <a href="https://www.facebook.com/moonvillageassn/videos/vb.1685601571739922/209943313408413/?type=2&theater">
-      Barbara Imhof - Shifted Lunar Perspectives
+    <b> Webinar host </b> | June 2020
+    <br> <a href="https://www.facebook.com/moonvillageassn/videos/vb.1685601571739922/209943313408413/?type=2&theater">
+      "Shifted Lunar Perspectives, with Barbara Imhof"
     </a>
-    <br> for the Space Generation Advisory Council: Our Giant Leap webinar series
+    <br> <i> Space Generation Advisory Council: Our Giant Leap webinar series </i>
   </p>
 
   <p>
-    <b> Conference presentation </b> | March 2020 |
-    <a href="https://youtu.be/m7fF8top4dM">
-      EMMIHS-III Mission: General Overview
+    <b> Conference presentation </b> | March 2020
+    <br> <a href="https://youtu.be/m7fF8top4dM">
+      "EMMIHS-III Mission: General Overview"
     </a>
-    <br> at the 51st Lunar and Planetary Science Conference
+    <br> <i> 51st Lunar and Planetary Science Conference </i>
   </p>
 
   <p>
-    <b> Invited speaker (webinar) </b> | February 2020 |
-    Careers in Space Science 
-    <br> by Women Engineers Form of Assam (WEFA)
+    <b> Invited speaker (webinar) </b> | February 2020
+    <br> "Careers in Space Science"
+    <br> <i> Women Engineers Form of Assam (WEFA) </i> 
   </p>
 
   <p>
-    <b> Conference presentation </b> | November 2019 |
-    A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration
-    <br> at the International Astronautical Congress 2019 (Washington DC, USA)
+    <b> Conference presentation </b> | November 2019
+    <br> "A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration"
+    <br> <i> International Astronautical Congress 2019 (Washington DC, USA) </i>
   </p>
 
   <p>
-    <b> Conference presentation </b> | September 2019 |
-    Horizon 2061 - Engaging youth in planetary exploration towards H2061 
-    <br> at the European Planetary Science Congress 2019 (Geneva, Switzerland)
+    <b> Conference presentation </b> | September 2019
+    <br> "Horizon 2061 - Engaging youth in planetary exploration towards H2061"
+    <br> <i> European Planetary Science Congress 2019 (Geneva, Switzerland) </i>
   </p>
 
   <p>
-    <b> Conference presentation </b> | May 2019 |
-    <a href="">
-      On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal
-    </a>
-    <br> at the IEEE ICASSP 2019 (Brighton, UK)
+    <b> Conference presentation </b> | May 2019
+    <br> "On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal"
+    <br> <i> IEEE ICASSP 2019 (Brighton, UK) </i>
   </p>
 
   <p>
-    <b> Live show </b> | January 2019 |
-    (in French) Et si les sciences c'était pour moi ?
-    <br> L'Oréal-UNESCO "For Girls in Science", at the City of Science & Industry (Paris, France)
+    <b> Live show </b> | January 2019
+    <br> (in French) "Et si les sciences c'était pour moi ?"
+    <br> <i> L'Oréal-UNESCO "For Girls in Science", at the City of Science & Industry (Paris, France) </i>
   </p>
 
   <p>
-    <b> Invited speaker </b> | July 2017 |
-    <b></b> On Pursuing Scientific Careers for Women
-    <br> Handique Girls College (Guwahati, Assam)
+    <b> Invited speaker </b> | July 2017
+    <br> "On Pursuing Scientific Careers for Women"
+    <br> <i> Handique Girls College (Guwahati, Assam) </i>
   </p>
 
 </div>
