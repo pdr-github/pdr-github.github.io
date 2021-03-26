@@ -5,140 +5,79 @@ title: News
 <h1>Featured</h1><br>
 
 <div>
-
-  <p>
-    <b> TechRound UK </b> | March 08, 2021
-    <br> <a href="https://techround.co.uk/international-womens-day/priyanka-das-rajkakati-2021-forbes-india-30-under-30-winner/">
-      International Women’s Day 2021: Inspiring Quotes and Advice - Priyanka Das Rajkakati
-    </a>
-  </p>
-
-  <p>
-    <b> IIFTO </b> | March 08, 2021 
-    <br> <a href="https://www.youtube.com/watch?v=BgeJFqWvfPY">
-      Journey from India to Space | Gems of India Series 
-    </a>
-  </p>
-
-  <p>
-    <b> Forbes India 30 under 30 </b> | February 12, 2021
-    <br> <a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
-      Priyanka Das Rajkakati: Mixing science and art 
-    </a>
-  </p>
-
-  <p>
-    <b> Ecole Polytechnique </b> | February 12, 2021
-    <br> <a href="https://www.polytechnique.edu/en/content/priyanka-das-rajkakati-x2013-joins-2021-forbes-india-30-under-30-list">
-      Priyanka Das Rajkakati (X2013) joins the 2021 Forbes India 30 under 30 list
-    </a>
-  </p>
-
-  <p>
-    <b> One India </b> | July 28, 2020
-    <br> <a href="https://www.oneindia.com/videos/living-in-space-aerospace-engineer-artist-talks-about-living-her-dreams-1067924.html">
-      Living in space| Aerospace engineer & artist talks about living her dreams
-    </a>
-  </p>
-
-  <p>
-    <b> Space.com </b> | January 27, 2020
-    <br> <a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html">
-      European scientists are taking a mock Moon mission in Hawaii right now
-    </a>
-  </p>
-
-  <p>
-    <b> Indian Express </b> | October 19, 2019
-    <br> <a href="https://indianexpress.com/article/technology/science/indian-origin-woman-scientist-heads-to-antarctica-eyes-space-6077006/">
-      Indian-origin woman scientist heads to Antarctica, eyes space
-    </a>
-  </p>
-
-  <p>
-    <b>French Embassy in India </b> | April 12, 2018
-    <br> <a href="https://in.ambafrance.org/Testimony-of-an-Indian-Student-Priyanka-Das-in-France">
-      Testimony of an Indian Student Priyanka Das in France
-    </a>
-  </p>
-
+  {% include About/News/Featured.md %}
 </div>
 
-
-
-<br><br>
+<br>
 <h1>News archive</h1>
 <br>
 
 <body>
 
-<button class="accordion">2021</button>
-<div class="panel"> <br>
-  {% include About/News/2021.md %}
-  <br>
+  <button class="accordion">2021</button>
+  <div class="panel"> <br>
+    {% include About/News/2021.md %}
+    <br>
+  </div>
 
-</div>
+  <button class="accordion">2020</button>
+  <div class="panel"> <br>
+    {% include About/News/2020.md %}  
+    <br>
+  </div>
 
-<button class="accordion">2020</button>
-<div class="panel"> <br>
-  {% include About/News/2020.md %}  
-  <br>
+  <button class="accordion">2019 and earlier</button>
+  <div class="panel"> <br>
+    {% include About/News/2019-and-before.md %}  
+    <br>
+  </div>
 
-</div>
+  <script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
 
-<button class="accordion">2019 and earlier</button>
-<div class="panel"> <br>
-  {% include About/News/2019-and-before.md %}  
-  <br>
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        } 
+      });
+    }
+  </script>
 
-</div>
+  <script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Nov 12, 2021 15:00:00").getTime();
 
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
+    // Update the count down every 1 second
+    var x = setInterval(function() {
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-</script>
+      // Get today's date and time
+      var now = new Date().getTime();
 
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Nov 12, 2021 15:00:00").getTime();
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
 
-// Update the count down every 1 second
-var x = setInterval(function() {
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Get today's date and time
-  var now = new Date().getTime();
+      // Display the result in the element with id="demo"
+      document.getElementById("demo").innerHTML = days + "d : " + hours + "h : "  + minutes + "m : " + seconds + "s";
 
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d : " + hours + "h : "  + minutes + "m : " + seconds + "s";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "Wait is over!";
-  }
-}, 1000);
-</script>
+      // If the count down is finished, write some text
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "Wait is over!";
+      }
+    }, 1000);
+  </script>
 
 </body>
 

@@ -1,0 +1,29 @@
+I"î<p><img src="/Space/SGAC/banner.jpg" style="width: 100%" /></p>
+
+<body>
+  <button class="accordion">SG[India]2021</button>
+  <div class="panel">
+    <p>
+  A project under way, with a dedicated team, Priyanka is organising the first ever SG[India] in 2021. (Keep watching this space for updates).
+</p>
+
+  </div>  
+
+  <script>
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      } 
+    });
+  }
+  </script>
+</body>
+:ET
