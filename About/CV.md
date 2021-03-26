@@ -143,7 +143,7 @@ title: CV
   <br>
   <h3>Publications</h3>
   <a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar Profile</a>
-  <br><br>
+  <br><br><br>
 
 </div>
 
@@ -296,6 +296,7 @@ title: CV
     <br> "On Pursuing Scientific Careers for Women"
     <br> <i> Handique Girls College (Guwahati, Assam) </i>
   </p>
+  <br>
 
 </div>
 
