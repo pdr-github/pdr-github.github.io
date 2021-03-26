@@ -74,21 +74,21 @@ title: News
 
 <button class="accordion">2021</button>
 <div class="panel"> <br>
-  {% include News/2021.md %}
+  {% include About/News/2021.md %}
   <br>
 
 </div>
 
 <button class="accordion">2020</button>
 <div class="panel"> <br>
-  {% include News/2020.md %}  
+  {% include About/News/2020.md %}  
   <br>
 
 </div>
 
 <button class="accordion">2019 and earlier</button>
 <div class="panel"> <br>
-  {% include News/2019-and-before.md %}  
+  {% include About/News/2019-and-before.md %}  
   <br>
 
 </div>
