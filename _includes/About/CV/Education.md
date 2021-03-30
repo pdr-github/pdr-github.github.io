@@ -1,5 +1,5 @@
   <p>
-    <b> PhD in Aerospace Engineering </b> | 2021 (expected)
+    <b> PhD in Aerospace Engineering </b> | 2021
     <br> ISAE-Supaéro (Toulouse, France)
     <br> (CIFRE industrial contract with Safran)     
   </p>
