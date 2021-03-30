@@ -1,4 +1,10 @@
   <p>
+    <b> PhD Thesis Defense !</b> | March 2020
+    <br> "Synchronization Performance Limits of GNSS Receivers"
+    <br> <i> ISAE-Supaéro </i>
+  </p>
+
+  <p>
     <b> Poster presentation (virtual)</b> | March 2020
     <br> <a href="https://youtu.be/m7fF8top4dM">
       "EMMIHS-III Mission: General Overview"
