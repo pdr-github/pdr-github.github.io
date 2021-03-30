@@ -1,7 +1,7 @@
   <p>
     <b> PhD Thesis Defense !</b> | March 2020
     <br> "Synchronization Performance Limits of GNSS Receivers"
-    <br> <i> ISAE-Supaéro </i>
+    <br> <i> ISAE-Supaéro (Toulouse, France)</i>
   </p>
 
   <p>
