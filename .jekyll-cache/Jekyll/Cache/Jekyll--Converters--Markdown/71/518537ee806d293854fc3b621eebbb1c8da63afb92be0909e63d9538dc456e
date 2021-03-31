@@ -1,0 +1,83 @@
+I"t<p><img src="/Space/EMMIHS3/astrofinalEVA.jpg" alt="Priyanka Analogue astronaut" /></p>
+
+<body>
+  <div>
+    <button class="accordion">Analogue astronaut missions </button>
+    <div class="panel"> <br />
+      <p>
+  It is no longer just science-fiction. Humans are really working on concrete projects today in 2020, not only on the exploration but also colonization of space! We are thinking already of building a functional Moon Village by 2050. The Moon Village is an open concept proposed with the goal of a sustainable human and robotic presence on the lunar surface as an ensemble where multiple users can carry out multiple activities.
+</p>
+<p>
+  Since it is very difficult for humans to live in space for long periods (as it is, it's already complicated here on Planet Earth), a lot of research needs to be on surviving out there and hence space agencies are coming together and collaborating on various analogue missions that simulate space environments - such as lunar/martian villages.
+</p>
+
+    </div>
+    <button class="accordion">ILEWG and EMMIHS</button>
+    <div class="panel">
+    </div>
+    <button class="accordion">Priyanka's mission roles</button>
+    <div class="panel">
+      <p align="center">
+        <img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" class="center" />
+      </p>
+      <p>
+        Through the European Space Agency EuroMoonMars program, Priyanka was one of the six analogue-astronauts for the third mission, EMMIHS-III, a two-week mission in January 2020. She trained under the director of HI-SEAS, Michaela Musilova, as crew-commander. She also conducted research on several topics including navigation, lava-cave exploration, robotics, crew-psychology, geology, culture and art. She also designed the team logo.
+        <br /><br />
+      </p>
+    </div>  
+  </div>
+
+  <div align="center">
+    <h2>Gallery | Life during EMMIHS-III</h2>
+    <i>Click on the buttons to change the grid view.</i><br />
+    <button onclick="one()">1</button>
+    <button onclick="two()">2</button>
+    <button onclick="four()">4</button> 
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img src="/Space/EMMIHS3/team.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/Astro_MG_small.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/Cooking.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/ESA_flag.jpg" style="width:100%" />
+    </div>
+    <div class="column">
+      <img src="/Space/EMMIHS3/EVAprep.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/habdark.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/lavacave1.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/lavacave2.jpg" style="width:100%" />    
+    </div>
+    <div class="column">
+      <img src="/Space/EMMIHS3/MagExperiments.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/MGDBEfilming.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/night.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/Scheduler.jpg" style="width:100%" />    
+    </div>
+    <div class="column">
+      <img src="/Space/EMMIHS3/PriyankaCave.jpg" style="width:100%" />    
+      <img src="/Space/EMMIHS3/rockoffering.jpg" style="width:100%" />
+      <img src="/Space/EMMIHS3/Rover.jpg" style="width:100%" />
+    </div>
+  </div>
+  
+</body>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+:ET

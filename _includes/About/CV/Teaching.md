@@ -1,19 +1,18 @@
-<p>
-  <b> Laboratory experiment advisor, ISAE-Supaéro </b> | 2019 
-  <br> Course: Experimental Project on GNSS, 1st year engineering class (PREX A1)
-</p>
-<p>
-  <b> Teaching assistant, ISAE-Supaéro </b> | 2019 
-  <br> Course: Applied Mathematics, MSc Aerospace Engineering (MAE1)
-</p>
-<p>
-  <b> Teaching asistant, ISAE-Supaéro </b> | 2018 
-  <br> Course: Signal Processing (for Navigation), 1st year engineering class (1A)
-</p>
-<p>
-  <b> English tutor </b> | 2016-17
-  <br> Freelance
-</p>
+<div>
+	<h3>During PhD</h3>
+	{% include Space/PhD/Teaching.md %}
+</div>
+<div>
+	<h3> Other</h3>
+	<p>
+	  <b> English tutor </b> | 2016-17
+	  <br> Freelance - Bachelor student in L1 (Toulouse, France)
+	</p>	
+	<p>
+	  <b> Mathematics tutor </b> | 2013
+	  <br> Freelance - Middle-school students (Villeneuve-sur-Lot, France)
+	</p>	
+</div>
 
 
 <!-- chargée de TD --->

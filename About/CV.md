@@ -32,7 +32,7 @@ title: CV
     <br>
   </div>
   <button class="accordion">Teaching</button>
-  <div class="panel"> <br>
+  <div class="panel">
     {% include About/CV/Teaching.md %}
     <br>
   </div>
