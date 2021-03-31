@@ -11,7 +11,7 @@
   <br> Course: Signal Processing (for Navigation), 1st year engineering class (1A)
 </p>
 <p>
-  <b> English tutor </b> | 2016-17 <i>(6 months)</i>
+  <b> English tutor </b> | 2016-17
   <br> Freelance
 </p>
 
