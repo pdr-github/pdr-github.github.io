@@ -6,27 +6,27 @@ title: CV
 <img src="/assets/images/astrofinalEVA_cut.jpg" style="width: 100%">
 
 <body>
-  <button class="accordion">EDUCATION</button>
+  <button class="accordion">Education</button>
   <div class="panel"> <br>
     {% include About/CV/Education.md %}
     <br>
   </div>
-  <button class="accordion">SELECTED HONORS & AWARDS</button>
+  <button class="accordion">Selected Honors and Awards</button>
   <div class="panel"> <br>
     {% include About/CV/Honors.md %}
     <br>
   </div>
-  <button class="accordion">ACADEMIC EXPERIENCE & PUBLICATIONS</button>
+  <button class="accordion">Academic Experience and Publications</button>
   <div class="panel"> <br>
     {% include About/CV/Academic_experience.md %}
     <br><br><br>
   </div>
-  <button class="accordion">LEADERSHIP EXPERIENCE</button>
+  <button class="accordion">Art, Leadership and Volunteering</button>
   <div class="panel"> <br>
     {% include About/CV/Leadership_experience.md %}
     <br>
   </div>
-  <button class="accordion">TALKS</button>
+  <button class="accordion">Selected Talks</button>
   <div class="panel">
     {% include About/CV/Talks.md %}
     <br>
