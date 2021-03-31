@@ -2,16 +2,18 @@
 layout: aboutpost
 title: News
 ---
-<h1>Featured</h1><br>
 
-<div>
+<a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
+  <img src="/assets/images/forbes.jpg" style="width: 100%">
+</a>
+
+<h2>Featured</h2>
+<div> <br>
   {% include About/News/Featured.md %}
 </div>
 
 <br>
-<h1>News archive</h1>
-<br>
-
+<h2>News archive</h2>
 <body>
 
   <button class="accordion">2021</button>
