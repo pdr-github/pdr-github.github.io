@@ -19,6 +19,10 @@ title: EMMIHS Analog-Mission
     <div class="panel"> <br>
       {% include Space/EMMIHS/Mission.md %} <br>
     </div>  
+    <button class="accordion">Publications</button>
+    <div class="panel"> <br>
+      {% include Space/EMMIHS/Publications.md %} <br>
+    </div>  
   </div>
   <div> <br>
     {% include Space/EMMIHS/Gallery.md %} <br>
