@@ -5,6 +5,12 @@
   </p>
 
   <p>
+    <b> Paper presentation </b> | October 2020
+    <br> "Our Giant Leap: towards a diverse and inclusive aerospace workforce"
+    <br> <i> Virtual International Astronautical Congress 2020 </i>
+  </p>
+
+  <p>
     <b> Poster presentation (virtual)</b> | March 2020
     <br> <a href="https://youtu.be/m7fF8top4dM">
       "EMMIHS-III Mission: General Overview"
@@ -13,7 +19,7 @@
   </p>
 
   <p>
-    <b> Paper presentation </b> | November 2019
+    <b> Paper presentation </b> | October 2019
     <br> "A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration"
     <br> <i> International Astronautical Congress 2019 (Washington DC, USA) </i>
   </p>
