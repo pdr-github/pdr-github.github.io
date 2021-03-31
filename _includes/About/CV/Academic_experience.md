@@ -31,6 +31,10 @@
 <h3>~ Short Projects ~</h3><br>
 
 <p>
+  <b> Analog astronaut, EMMIHS-III Lunar Simulation Mission </b> | January 2020 <i>(3 weeks)</i>
+  <br> Hawai'i Space Exploration Analog and Simulation (HI-SEAS) (Hawai'i, USA)
+</p>
+<p>
   <b> Summer Intern (Digital Holography) </b> | 2015 <i>(2 weeks)</i>
   <br> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)    
 </p>

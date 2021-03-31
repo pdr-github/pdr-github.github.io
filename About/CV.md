@@ -23,7 +23,7 @@ title: CV
   </div>
   <button class="accordion">Art, Leadership and Volunteering</button>
   <div class="panel"> <br>
-    {% include About/CV/Leadership_experience.md %}
+    {% include About/CV/Art-Leadership_experience.md %}
     <br>
   </div>
   <button class="accordion">Selected Talks</button>
