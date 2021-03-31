@@ -3,6 +3,11 @@
   <br> Homeward Bound Projects
 </p>
 <p>
+  <b> Expert, IAF Technical Committee for the Cultural Utilisation of Space (ITACCUS) </b> | Since 2019 <i>(2 years)</i>
+  <br> International Astronautical Federation (IAF)
+  <br> <i>Rapporteur for IAF session "Space Culture – Public Engagement in Space through Culture"</i>
+</p>
+<p>
   <b> Event Manager, SG[India]2021 </b> | Since 2021 <i>(2 months)</i>
   <br> Space Generation Advisory Council (SGAC)
 </p>
