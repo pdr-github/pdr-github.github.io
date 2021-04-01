@@ -1,4 +1,4 @@
-I"�<p><img src="/assets/images/gnss_art.png" alt="Our Giant Leap poster" style="width:100%" /></p>
+I"�<p><img src="/assets/images/gnss_art.png" style="width:100%" /></p>
 
 <body>
   <button class="accordion">Abstract</button>
@@ -18,36 +18,69 @@
 	</p>	
 </div>
 
-    <br />
+    <br /><br /><br />
+  </div>
+  <button class="accordion">PhD Thesis</button>
+  <div class="panel" align="center">
+  	<p><br />
+  		<i> Will be uploaded soon.</i>
+  	</p>
+  </div>
+  <button class="accordion">Thesis Defense (Slides)</button>
+  <div class="panel" align="center">
+  	<p><embed src="/Space/PhD/Thesis-slides.pdf" width="100%" height="500px" />
+  	</p>
   </div>
   <button class="accordion">Publications</button>
   <div class="panel">
     <style>
 	ol {
-		counter-reset: orderedList;
-		list-style: none;
+		counter-reset: list;
+		margin: 0;
 	}
-
-	ol li:before {
-	content: "[" counter(orderedList) "] ";
-	counter-increment: orderedList;
+	ol > li {
+		list-style: none;
+		position: relative;
+	}
+	ol > li:before{
+		counter-increment: list;
+		content: "[" counter(list,orderedList) "]  ";
+		position: absolute;
+		left: -2.4em;
 	}
 </style>
 <div>
 	<h3>Conferences</h3>
 	<ol>
-		<li>P. Das, J. Vilà-Valls, E. Chaumette, F. Vincent, L. Davain, and S. Bonnabel. “On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal”. <i>IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). Brighton, UK, May 2019</i></li>
+		<li> 
+			P. Das, J. Vilà-Valls, E. Chaumette, F. Vincent, L. Davain, and S. Bonnabel. 
+			“On the Accuracy Limit of Time-delay Estimation with a Band-limited Signal”. 
+			<i>IEEE Intl. Conf. on Acoustics, Speech and Signal Processing (ICASSP). Brighton, UK, May 2019 </i>
+		</li>
+		<li> 
+			P. Das, B. Priot, J. Vilà-Valls, and E. Chaumette. 
+			“A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration”. 
+			<i>70th International Astronautical Congress (IAC’19). Washington DC, USA, Nov. 2019 – Awarded the <a href="/Space/IAC2019">ESA ISEB grant</a>. </i>
+		</li>
+	</ol>
+	<h3>Journal papers</h3>
+	<ol>
+		<li> 
+			P. Das, L. Ortega, J. Vilà-Valls, F. Vincent, E. Chaumette, and L. Davain.
+			“Performance Limits of GNSS Code-Based Precise Positioning: GPS, Galileo &amp; Meta-Signals”.
+			<i> Sensors (2020) Vol. 20, Issue 8 </i>
+		</li>
+		<li> 
+			P. Das, J. Vilà-Valls, F. Vincent, L. Davain, and E. Chaumette.
+			“A New Compact Delay, Doppler Stretch and Phase Estimation CRB with a Band-Limited Signal for Generic Remote Sensing Applications”.
+			<i> Remote Sensing (2020) Vol. 12, Issue 18 </i> 
+		</li>
 	</ol>
 
-[1]	
-[2]	P. Das, B. Priot, J. Vilà-Valls, and E. Chaumette. “A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration”.70th International Astronautical Congress (IAC’19). Washington DC, USA, Nov. 2019 – Awarded the ESA ISEB grant
 	
 </div>
-Journals
-[3]	P. Das, L. Ortega, J. Vilà-Valls, F. Vincent, E. Chaumette, and L. Davain. “Performance Limits of GNSS Code-Based Precise Positioning: GPS, Galileo &amp; Meta-Signals”.Sensors (2020) Vol. 20, Issue 8
-[4]	P. Das, J. Vilà-Valls, F. Vincent, L. Davain, and E. Chaumette. “A New Compact Delay, Doppler Stretch and Phase Estimation CRB with a Band-Limited Signal for Generic Remote Sensing Applications”.Remote Sensing (2020) Vol. 12, Issue 18 
 
-    <br />
+    <br /><br />
   </div>
   <button class="accordion">Teaching</button>
   <div class="panel"> <br />
@@ -63,13 +96,6 @@ Journals
   <b> Teaching asistant, ISAE-Supaéro </b> | 2018 
   <br /> Course: Signal Processing (for Navigation), 1st year engineering class (1A)
 </p>
-<p>
-  <b> English tutor </b> | 2016-17
-  <br /> Freelance
-</p>
-
-
-<!-- chargée de TD --->
 
     <br />
   </div>
@@ -91,7 +117,4 @@ Journals
   }
   </script>
 </body>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2&gt;Links&lt;/h2&gt;
-Publications: &lt;a href="https://www.researchgate.net/profile/Priyanka_Rajkakati"&gt;ResearchGate Profile&lt;/a&gt;
-</code></pre></div></div>
 :ET
