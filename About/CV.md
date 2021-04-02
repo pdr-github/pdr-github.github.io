@@ -11,22 +11,22 @@ title: CV
     {% include About/CV/Education.md %}
     <br>
   </div>
-  <button class="accordion">Selected Honors and Awards</button>
-  <div class="panel"> <br>
+  <button class="accordion">Honors</button>
+  <div class="panel">
     {% include About/CV/Honors.md %}
-    <br>
+    <br><br>
   </div>
-  <button class="accordion">Academic Experience and Publications</button>
+  <button class="accordion">Academic Experience & Publications</button>
   <div class="panel"> <br>
     {% include About/CV/Academic_experience.md %}
     <br><br><br>
   </div>
-  <button class="accordion">Art, Leadership and Volunteering</button>
+  <button class="accordion">Art, Leadership & Volunteering</button>
   <div class="panel">
     {% include About/CV/Art-Leadership_experience.md %}
     <br>
   </div>
-  <button class="accordion">Selected Talks</button>
+  <button class="accordion">Talks</button>
   <div class="panel">
     {% include About/CV/Talks.md %}
     <br>

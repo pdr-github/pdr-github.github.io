@@ -1,6 +1,5 @@
 <div>
   <h3> Leadership and Responsilibity </h3><br>
-
   <p>
     <b> Member #TeamHB5: Leadership Program for Women in STEMM</b> | Since 2019 <i>(2 years)</i>
     <br> Homeward Bound Projects
@@ -29,12 +28,10 @@
     <b> Ambassador, L'Oréal "For Girls in Science" Program </b> | 2017-2019 <i>(2 years)</i>
     <br> L'Oréal Foundation For Women in Science 
   </p>
-  
 </div>
 
 <div>
   <br><h3> Select Art-related Projects </h3><br>
-
   <p>
     <b> Artist-in-residence, vEGU21 </b> | 2021 
     <br> European Geosciences Union

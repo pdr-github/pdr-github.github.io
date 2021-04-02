@@ -9,11 +9,6 @@
 </p>
 
 <p>
-  <b> Engineering Research Project (Project Boomerang) </b> | 2016 <i>(6 months)</i>
-  <br> ISAE-Supaéro (Toulouse, France)    
-</p>
-
-<p>
   <b> Research Intern (Real-Time Indoor Localisation) </b> | 2016 <i>(5 months)</i>
   <br> Robotics Lab, <i>Escola Politécnica</i>, University of Sao Paulo (Sao Paulo, Brazil)    
 </p>
@@ -23,17 +18,21 @@
   <br> Project QB50, Ecole Polytechnique (Paris region, France)    
 </p>
 
-<p>
-  <b> Software Intern (Lab-test Automation), Startup R&D </b> | 2015 <i>(2 months)</i>
-  <br> CorWave (Paris, France)    
-</p>
-
-<h3>~ Short Projects ~</h3><br>
+<br> <h3>~ Short Projects ~</h3><br>
 
 <p>
   <b> Analog astronaut, EMMIHS-III Lunar Simulation Mission </b> | January 2020 <i>(3 weeks)</i>
   <br> Hawai'i Space Exploration Analog and Simulation (HI-SEAS) (Hawai'i, USA)
 </p>
+<p>
+  <b> Engineering Research Project (Project Boomerang) </b> | 2016 <i>(3 months)</i>
+  <br> ISAE-Supaéro (Toulouse, France)    
+</p>
+<p>
+  <b> Software Intern (Lab-test Automation), Startup R&D </b> | 2015 <i>(2 months)</i>
+  <br> CorWave (Paris, France)    
+</p>
+
 <p>
   <b> Summer Intern (Digital Holography) </b> | 2015 <i>(2 weeks)</i>
   <br> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)    
