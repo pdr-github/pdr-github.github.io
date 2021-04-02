@@ -523,3 +523,21 @@ a.pagination-item:hover {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
+
+/* List ol */
+
+ol {
+  counter-reset: list;
+  margin: 0;
+}
+ol > li {
+  list-style: none;
+  position: relative;
+}
+ol > li:before{
+  counter-increment: list;
+  content: "[" counter(list,orderedList) "]  ";
+  position: absolute;
+  left: -2.4em;
+}
+

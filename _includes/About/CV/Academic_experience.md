@@ -1,5 +1,5 @@
 <p>
-  <b>CIFRE PhD student & Systems Engineer (GNSS)</b> | 2018-2021 <i>(3 years)</i>
+  <b>CIFRE Ph.D. student & Systems Engineer (GNSS)</b> | 2018-2021 <i>(3 years)</i>
   <br> Safran and ISAE-Supaéro (France)    
 </p>
 
