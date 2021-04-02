@@ -1,10 +1,10 @@
-I"Q<<p><img src="/assets/images/astrofinalEVA_cut.jpg" style="width: 100%" /></p>
+I"r<<p><img src="/assets/images/astrofinalEVA_cut.jpg" style="width: 100%" /></p>
 
 <body>
   <button class="accordion">Education</button>
   <div class="panel"> <br />
     <p>
-  <b> PhD in Aerospace Engineering </b> | 2021
+  <b> Ph.D. in Aerospace Engineering </b> | 2021
   <br /> ISAE-Supaéro (Toulouse, France)
   <br /> (CIFRE industrial contract with Safran)     
 </p>
@@ -28,8 +28,8 @@
 
     <br />
   </div>
-  <button class="accordion">Selected Honors and Awards</button>
-  <div class="panel"> <br />
+  <button class="accordion">Honors</button>
+  <div class="panel">
     <div>
   <h3>Awards and recognitions </h3>
   <br /> 2021 | <b> Forbes India 30 under 30</b> 
@@ -101,9 +101,9 @@
   <br> Selection | National Institute of Design, Ahmedabad, India    
 </p --->
 
-    <br />
+    <br /><br />
   </div>
-  <button class="accordion">Academic Experience and Publications</button>
+  <button class="accordion">Academic Experience &amp; Publications</button>
   <div class="panel"> <br />
     <p>
   <b>CIFRE PhD student &amp; Systems Engineer (GNSS)</b> | 2018-2021 <i>(3 years)</i>
@@ -116,11 +116,6 @@
 </p>
 
 <p>
-  <b> Engineering Research Project (Project Boomerang) </b> | 2016 <i>(6 months)</i>
-  <br /> ISAE-Supaéro (Toulouse, France)    
-</p>
-
-<p>
   <b> Research Intern (Real-Time Indoor Localisation) </b> | 2016 <i>(5 months)</i>
   <br /> Robotics Lab, <i>Escola Politécnica</i>, University of Sao Paulo (Sao Paulo, Brazil)    
 </p>
@@ -130,17 +125,21 @@
   <br /> Project QB50, Ecole Polytechnique (Paris region, France)    
 </p>
 
-<p>
-  <b> Software Intern (Lab-test Automation), Startup R&amp;D </b> | 2015 <i>(2 months)</i>
-  <br /> CorWave (Paris, France)    
-</p>
-
-<h3>~ Short Projects ~</h3><br />
+<br /> <h3>~ Short Projects ~</h3><br />
 
 <p>
   <b> Analog astronaut, EMMIHS-III Lunar Simulation Mission </b> | January 2020 <i>(3 weeks)</i>
   <br /> Hawai'i Space Exploration Analog and Simulation (HI-SEAS) (Hawai'i, USA)
 </p>
+<p>
+  <b> Engineering Research Project (Project Boomerang) </b> | 2016 <i>(3 months)</i>
+  <br /> ISAE-Supaéro (Toulouse, France)    
+</p>
+<p>
+  <b> Software Intern (Lab-test Automation), Startup R&amp;D </b> | 2015 <i>(2 months)</i>
+  <br /> CorWave (Paris, France)    
+</p>
+
 <p>
   <b> Summer Intern (Digital Holography) </b> | 2015 <i>(2 weeks)</i>
   <br /> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)    
@@ -172,11 +171,10 @@
 
     <br /><br /><br />
   </div>
-  <button class="accordion">Art, Leadership and Volunteering</button>
+  <button class="accordion">Art, Leadership &amp; Volunteering</button>
   <div class="panel">
     <div>
   <h3> Leadership and Responsilibity </h3><br />
-
   <p>
     <b> Member #TeamHB5: Leadership Program for Women in STEMM</b> | Since 2019 <i>(2 years)</i>
     <br /> Homeward Bound Projects
@@ -205,12 +203,10 @@
     <b> Ambassador, L'Oréal "For Girls in Science" Program </b> | 2017-2019 <i>(2 years)</i>
     <br /> L'Oréal Foundation For Women in Science 
   </p>
-  
 </div>
 
 <div>
   <br /><h3> Select Art-related Projects </h3><br />
-
   <p>
     <b> Artist-in-residence, vEGU21 </b> | 2021 
     <br /> European Geosciences Union
@@ -246,10 +242,10 @@
 
     <br />
   </div>
-  <button class="accordion">Selected Talks</button>
+  <button class="accordion">Talks</button>
   <div class="panel">
     <div>
-  <h3> As Invited Speaker </h3>
+  <h3> As Invited Speaker </h3> <br />
     <p>
     <b> Panelist </b> | March 2021
     <br /> (In French) <a href="https://youtu.be/4GtnXfuuefg">
@@ -319,7 +315,7 @@
 </div>
 
 <div>
-  <h3> Interviews </h3>
+  <br /> <h3> Interviews </h3> <br />
     <p>
     <b> Indians in France - Toulouse </b> | March 2021
     <br /> <a href="https://youtu.be/BgeJFqWvfPY">
@@ -351,7 +347,7 @@
 </div>
 
 <div>
-  <h3> Conference Talks </h3>
+  <br /> <h3> Conference Talks </h3><br />
     <p>
     <b> PhD Thesis Defense !</b> | March 2020
     <br /> "Synchronization Performance Limits of GNSS Receivers"
@@ -403,7 +399,7 @@
   <button class="accordion">Teaching</button>
   <div class="panel">
     <div>
-	<h3>During PhD</h3>
+	<h3>During PhD</h3> <br /> 
 	<p>
   <b> Laboratory experiment advisor, ISAE-Supaéro </b> | 2019 
   <br /> Course: Experimental Project on GNSS, 1st year engineering class (PREX A1)
@@ -419,7 +415,7 @@
 
 </div>
 <div>
-	<h3> Other</h3>
+	<br /> <h3> Other</h3> <br />
 	<p>
 	  <b> English tutor </b> | 2016-17
 	  <br /> Freelance - Bachelor student in L1 (Toulouse, France)

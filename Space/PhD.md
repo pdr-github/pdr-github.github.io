@@ -1,6 +1,6 @@
 ---
 layout: spacepost
-title: PhD Research (GNSS)
+title: Ph.D. Research (GNSS)
 ---
 
 <img src="/assets/images/gnss_art.png" style="width:100%">
