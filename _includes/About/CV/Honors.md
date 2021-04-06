@@ -1,21 +1,20 @@
 <div>
   <h3>Awards and recognitions </h3>
   <br> 2021 | <b> Forbes India 30 under 30</b> 
-  <br> 2021 | V-Art Digital Art Spaceship Exhibition
-  <br> 2019 | European Space Agency (ESA) ISEB sponsorship for IAC2019
-  <br> 2010 | <b> Best All-Rounder Award, Sri Aurobindo Education Society </b>
+  <br> 2021 | V-Art Digital Spaceship Exhibition
+  <br> 2010 | <b> School Best All-Rounder Award </b>, Sri Aurobindo Education Society
 </div>
 <div>
-  <h3> Grants </h3>
-  <br> 2021 | Artist residency at European Geosciences Union 2021 (vEGU21)    
+  <h4> <i>Grants</i> </h4>
+       2021 | Artist residency at European Geosciences Union 2021 (vEGU21)    
   <br> 2020 | Artist residency at European Geosciences Union 2020 (vEGU20)
-  <br> 2019 | European Space Agency (ESA) ISEB sponsorship for IAC2019
+  <br> 2019 | <b>European Space Agency (ESA) ISEB sponsorship</b> for IAC2019
   <br> 2018 | <b> CIFRE PhD: <i>Association Nationale Recherche Technologie</i> (ANRT) and Safran </b> 
   <br> 2016 | French Aerospace Industries Association (GIFAS) sponsorship for ISAE-Supaéro
   <br> 2016 | "Brazil, France, Engineers, Technology" (BRAFITEC) sponsorship
   <br> 2013 | Bourse de la Fondation de l'X (Polytechnique Foundation)
-  <br> 2011 | INSPIRE Merit Scholarship, Govt. of India
   <br> 2012 | Summer Project at Inter-University Accelerator Centre, Delhi, India
+  <br> 2011 | <b>INSPIRE Merit Scholarship</b>, Govt. of India
   <br> 2011 | Summer Course in Experimental Physics, HBSCE, TIFR, India
 </div>
 <div>
