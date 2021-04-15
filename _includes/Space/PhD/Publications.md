@@ -9,7 +9,7 @@
 		<li> 
 			<b>P. Das</b>, B. Priot, J. Vilà-Valls, and E. Chaumette. 
 			“A Signal Processing Approach to GNSS Precise Positioning for Lunar Exploration”. 
-			<i>70th International Astronautical Congress (IAC’19). Washington DC, USA, Nov. 2019 – Awarded the <a href="/Space/IAC2019">ESA ISEB grant</a>. </i>
+			<i>70th International Astronautical Congress (IAC’19). Washington DC, USA, Nov. 2019 – Awarded the ESA ISEB grant. </i>
 		</li>
 	</ol>
 	<h3>Journal papers</h3>

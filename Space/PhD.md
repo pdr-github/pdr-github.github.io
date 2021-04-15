@@ -27,6 +27,11 @@ title: Ph.D. Research (GNSS)
     {% include Space/PhD/Publications.md %}
     <br><br>
   </div>
+  <button class="accordion">IAC 2019</button>
+  <div class="panel"> <br>
+    {% include Space/PhD/IAC2019.md %}
+    <br>
+  </div>
   <button class="accordion">Teaching</button>
   <div class="panel"> <br>
     {% include Space/PhD/Teaching.md %}
