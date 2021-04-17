@@ -9,10 +9,10 @@
 		Dr. Silvère Bonnabel (<i>Mines ParisTech</i>) <br>
 		Dr. Jordi Vilà-Valls (<i>ISAE-Supaéro</i>)
 	</p>
-	<h3> Funding </h3>
+	<h3> Laboratory and Funding </h3>
 	<p>
+		ISAE-ONERA SCANR (Signal, Communication, Antennae, Navigation & Radar) <br>
 		CIFRE contract with Safran <br>
-		<i>Association Nationale Recherche Technologie (ANRT)</i>
 	</p>
 </div>
 <div>
