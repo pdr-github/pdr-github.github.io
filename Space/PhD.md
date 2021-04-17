@@ -6,8 +6,8 @@ title: Ph.D. Research (GNSS)
 <img src="/assets/images/gnss_art.png" style="width:100%">
 
 <body>
-  <button class="accordion">Abstract</button>
-  <div class="panel"> <br>
+  <button class="accordion">About and Abstract</button>
+  <div class="panel">
     {% include Space/PhD/Abstract.md %}
     <br><br><br>
   </div>

@@ -1,4 +1,22 @@
 <div>
+	<h3> Title </h3>
+	<p>
+		Synchronization Performance Limits of GNSS Receivers
+	</p>
+	<h3> Advisors </h3>
+	<p>
+		Dr. Eric Chaumette (<i>ISAE-Supaéro</i>) <br>
+		Dr. Silvère Bonnabel (<i>Mines ParisTech</i>) <br>
+		Dr. Jordi Vilà-Valls (<i>ISAE-Supaéro</i>)
+	</p>
+	<h3> Funding </h3>
+	<p>
+		CIFRE contract with Safran <br>
+		<i>Association Nationale Recherche Technologie (ANRT)</i>
+	</p>
+</div>
+<div>
+	<h3>Abstract</h3>
 	<p>
 		The advent of Global Navigation Satellite Systems (GNSS) has revolutionized today's world, with applications in positioning, timing and remote sensing. The principle of GNSS is based on multilateration, which first involves the estimation of both signal propagation time-delay and Doppler effect for each visible satellite. In fact, delay-Doppler synchronization is an active research topic of significant practical importance in many fields, with applications in radar, sonar, ultrasonics, communications and navigation. Now, when designing and assessing estimation techniques, it is of fundamental importance to know the ultimate achievable performance in the mean square error (MSE) sense, information which is brought by the computation of performance lower bounds (LBs) on the MSE.		
 	</p>
