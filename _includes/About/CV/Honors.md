@@ -1,7 +1,7 @@
 <div>
-  <h3>Awards and recognitions </h3>
+  <h3> Awards </h3>
+  <br> 2021 | <b> Karman Fellow</b> 
   <br> 2021 | <b> Forbes India 30 under 30</b> 
-  <br> 2021 | V-Art Digital Spaceship Exhibition
   <br> 2010 | <b> School Best All-Rounder Award </b>, Sri Aurobindo Education Society
 </div>
 <div>
@@ -18,7 +18,8 @@
   <br> 2011 | Summer Course in Experimental Physics, HBSCE, TIFR, India
 </div>
 <div>
-  <h3>Selections and Competitions</h3>
+  <h3> Selections and Competitions </h3>
+  <br> 2021 | <b> V-Art Digital Spaceship Exhibition </b>
   <br> 2020 | Featured: One Million Women in STEM   
   <br> 2019 | Expert, IAF Committee for the Cultural Utilisation of Space (ITACCUS)
   <br> 2019 | <b> #TeamHB5 Homeward Bound Projects (Antarctica) </b>
