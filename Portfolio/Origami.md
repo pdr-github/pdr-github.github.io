@@ -14,12 +14,6 @@ title: Origami
 	<br>
 </div>
 <div>
-	<div align="center">
-		<i>Click on the buttons to change the grid view.</i><br>
-		<button onclick="one()">1</button>
-		<button onclick="two()">2</button>
-		<button onclick="four()">4</button>	
-	</div>
 	<div class="row">
 		<div class="column">
 			<img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" >
