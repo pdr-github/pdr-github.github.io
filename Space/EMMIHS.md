@@ -1,47 +1,63 @@
 ---
-layout: spacepost
+layout: default
 title: EMMIHS Analog-Mission
 ---
 
-<img src="/Space/EMMIHS3/astrofinalEVA.jpg" alt="Priyanka Analogue astronaut">
+<div class="spacepost" align="center">
+  <h1 class="spacepost-title">[Space Projects]</h1>
+  <p>
+    <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
+    <a href="/Space/EMMIHS" class=""><button class="button" style="background-color: black; color: white">Analogue-Astronaut</button></a>
+    <a href="/Space/MoonGallery"><button class="button">Moon Gallery</button></a>
+    <a href="/Space/SGAC"><button class="button">SGAC</button></a>
+    <a href="/Space/Xcubesat"><button class="button">X-CubeSat</button></a>
+    <hr>
+  </p>
+  <h1>{{ page.title }}</h1>
+  <br>
+</div>
+<div>
 
-<body>
-  <div>
-    <button class="accordion">Analogue astronaut missions </button>
-    <div class="panel"> <br>
-      {% include Space/EMMIHS/About.md %} <br>
+  <img src="/Space/EMMIHS3/astrofinalEVA.jpg" alt="Priyanka Analogue astronaut">
+
+  <body>
+    <div>
+      <button class="accordion">Analogue astronaut missions </button>
+      <div class="panel"> <br>
+        {% include Space/EMMIHS/About.md %} <br>
+      </div>
+      <button class="accordion">ILEWG and EMMIHS</button>
+      <div class="panel"> <br>
+        {% include Space/EMMIHS/ILEWG.md %} <br>
+      </div>
+      <button class="accordion">Priyanka's mission roles</button>
+      <div class="panel"> <br>
+        {% include Space/EMMIHS/Mission.md %} <br>
+      </div>  
+      <button class="accordion">Publications</button>
+      <div class="panel"> <br>
+        {% include Space/EMMIHS/Publications.md %} <br>
+      </div>  
     </div>
-    <button class="accordion">ILEWG and EMMIHS</button>
-    <div class="panel"> <br>
-      {% include Space/EMMIHS/ILEWG.md %} <br>
-    </div>
-    <button class="accordion">Priyanka's mission roles</button>
-    <div class="panel"> <br>
-      {% include Space/EMMIHS/Mission.md %} <br>
+    <div> <br>
+      {% include Space/EMMIHS/Gallery.md %} <br>
     </div>  
-    <button class="accordion">Publications</button>
-    <div class="panel"> <br>
-      {% include Space/EMMIHS/Publications.md %} <br>
-    </div>  
-  </div>
-  <div> <br>
-    {% include Space/EMMIHS/Gallery.md %} <br>
-  </div>  
-</body>
+  </body>
 
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
+  <script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-</script>
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        } 
+      });
+    }
+  </script>
+</div>
