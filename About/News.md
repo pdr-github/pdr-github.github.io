@@ -1,88 +1,95 @@
 ---
-layout: aboutpost
+layout: default
 title: News
 ---
 
-<a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
-  <img src="/assets/images/forbes.jpg" style="width: 100%">
-</a>
-
-<h2>Featured</h2>
-<div> <br>
-  {% include About/News/Featured.md %}
+<div class="aboutpost">
+  <h1 class="aboutpost-title" align="center">[About]</h1>
+  <p align="center">
+    <!-- a href="/About/Intro"><button class="button">A few words</button></a -->
+    <a href="/About/Bio"><button class="button">Bio</button></a>
+    <a href="/About/CV"><button class="button">CV</button></a>
+    <a href="/About/News"><button class="button" style="background-color: black; color: white">News</button></a>
+    <a href="/About/Contact"><button class="button">Contact</button></a>  <hr>
+  </p>
+  <h1 align="center">{{ page.title }}</h1>
+  <br>
 </div>
+<div>
+  <a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
+    <img src="/assets/images/forbes.jpg" style="width: 100%">
+  </a>
 
-<br>
-<h2>News archive</h2>
-<body>
-
-  <button class="accordion">2021</button>
-  <div class="panel"> <br>
-    {% include About/News/2021.md %}
-    <br>
+  <h2>Featured</h2>
+  <div> <br>
+    {% include About/News/Featured.md %}
   </div>
 
-  <button class="accordion">2020</button>
-  <div class="panel"> <br>
-    {% include About/News/2020.md %}  
-    <br>
-  </div>
+  <br>
+  <h2>News archive</h2>
+  <body>
+    <button class="accordion">2021</button>
+    <div class="panel"> <br>
+      {% include About/News/2021.md %}
+      <br>
+    </div>
+    <button class="accordion">2020</button>
+    <div class="panel"> <br>
+      {% include About/News/2020.md %}  
+      <br>
+    </div>
+    <button class="accordion">2019 and earlier</button>
+    <div class="panel"> <br>
+      {% include About/News/2019-and-before.md %}  
+      <br>
+    </div>
+    <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
 
-  <button class="accordion">2019 and earlier</button>
-  <div class="panel"> <br>
-    {% include About/News/2019-and-before.md %}  
-    <br>
-  </div>
-
-  <script>
-    var acc = document.getElementsByClassName("accordion");
-    var i;
-
-    for (i = 0; i < acc.length; i++) {
-      acc[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var panel = this.nextElementSibling;
-        if (panel.style.maxHeight) {
-          panel.style.maxHeight = null;
-        } else {
-          panel.style.maxHeight = panel.scrollHeight + "px";
-        } 
-      });
-    }
-  </script>
-
-  <script>
-    // Set the date we're counting down to
-    var countDownDate = new Date("Nov 12, 2021 15:00:00").getTime();
-
-    // Update the count down every 1 second
-    var x = setInterval(function() {
-
-      // Get today's date and time
-      var now = new Date().getTime();
-
-      // Find the distance between now and the count down date
-      var distance = countDownDate - now;
-
-      // Time calculations for days, hours, minutes and seconds
-      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-      // Display the result in the element with id="demo"
-      document.getElementById("demo").innerHTML = days + "d : " + hours + "h : "  + minutes + "m : " + seconds + "s";
-
-      // If the count down is finished, write some text
-      if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("demo").innerHTML = "Wait is over!";
+      for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var panel = this.nextElementSibling;
+          if (panel.style.maxHeight) {
+            panel.style.maxHeight = null;
+          } else {
+            panel.style.maxHeight = panel.scrollHeight + "px";
+          } 
+        });
       }
-    }, 1000);
-  </script>
+    </script>
+    <script>
+      // Set the date we're counting down to
+      var countDownDate = new Date("Nov 12, 2021 15:00:00").getTime();
 
-</body>
+      // Update the count down every 1 second
+      var x = setInterval(function() {
 
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the count down date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the result in the element with id="demo"
+        document.getElementById("demo").innerHTML = days + "d : " + hours + "h : "  + minutes + "m : " + seconds + "s";
+
+        // If the count down is finished, write some text
+        if (distance < 0) {
+          clearInterval(x);
+          document.getElementById("demo").innerHTML = "Wait is over!";
+        }
+      }, 1000);
+    </script>
+  </body>
+</div>
 
 <!--
 <br><br>

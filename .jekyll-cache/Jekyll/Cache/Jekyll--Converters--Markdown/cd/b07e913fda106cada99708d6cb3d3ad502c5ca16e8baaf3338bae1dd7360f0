@@ -1,20 +1,15 @@
----
-layout: default
-title: Drowning
----
-
-<div class="poetrypost" align="center">
+I";<div class="poetrypost" align="center">
 	<h1 class="poetrypost-title">[Poetry]</h1>
 	<p>
 		<a href="/Poetry/Mother"><button class="button">Mother</button></a>
 		<a href="/Poetry/Dreams"><button class="button">Dreams</button></a>
 		<a href="/Poetry/Smile"><button class="button">An Elusive smile</button></a>
-		<a href="/Poetry/Adieu"><button class="button">Adieu</button></a>
-		<a href="/Poetry/Drowning"><button class="button" style="background-color: black; color: white">Drowning</button></a>
-		<hr>
+		<a href="/Poetry/Adieu"><button class="button" style="background-color: black; color: white">Adieu</button></a>
+		<a href="/Poetry/Drowning"><button class="button">Drowning</button></a>
+		<hr />
 	</p>
-	<h1>{{ page.title }}</h1>
-	<br>
+	<h1>Drowning</h1>
+	<br />
 </div>
 <div>
 <pre>
@@ -31,6 +26,7 @@ Cannot
 Swim
 </pre>
 <p align="center">
-	<img src="/Portfolio/Digital/lady.jpg" alt="Drowning lady" style="width:50%">
+	<img src="/Portfolio/Digital/lady.jpg" alt="Drowning lady" style="width:50%" />
 </p>
 </div>
+:ET

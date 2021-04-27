@@ -1,9 +1,4 @@
----
-layout: default
-title: Dreams
----
-
-<div class="poetrypost" align="center">
+I"É<div class="poetrypost" align="center">
 	<h1 class="poetrypost-title">[Poetry]</h1>
 	<p>
 		<a href="/Poetry/Mother"><button class="button">Mother</button></a>
@@ -11,12 +6,16 @@ title: Dreams
 		<a href="/Poetry/Smile"><button class="button">An Elusive smile</button></a>
 		<a href="/Poetry/Adieu"><button class="button">Adieu</button></a>
 		<a href="/Poetry/Drowning"><button class="button">Drowning</button></a>
-		<hr>
+		<hr />
 	</p>
-	<h1>{{ page.title }}</h1>
-	<br>
+	<h1>Dreams</h1>
+	<br />
 </div>
 <div>
+<p align="center">
+	<img src="/Portfolio/Paintings/yosm.jpg" alt="Yosemite" style="width:100%" />
+</p>
+
 <pre>
 I feel not tired, nothing aches to sleep.
 Yet, my mind says, "I'm not yours alone to keep,
@@ -34,7 +33,5 @@ Sleep the nights, and let reality rust..."
 So I feel I must now go off to bed,
 And watch my mind's show for tonight instead.
 </pre>
-<p align="center">
-	<img src="/Portfolio/Paintings/yosm.jpg" alt="Yosemite" style="width:50%">
-</p>
 </div>
+:ET

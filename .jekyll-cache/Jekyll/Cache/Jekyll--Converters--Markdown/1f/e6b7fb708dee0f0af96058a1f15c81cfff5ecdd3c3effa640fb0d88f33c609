@@ -1,9 +1,4 @@
----
-layout: default
-title: Mother
----
-
-<div class="poetrypost" align="center">
+I"Ä<div class="poetrypost" align="center">
 	<h1 class="poetrypost-title">[Poetry]</h1>
 	<p>
 		<a href="/Poetry/Mother"><button class="button" style="background-color: black; color: white">Mother</button></a>
@@ -11,12 +6,15 @@ title: Mother
 		<a href="/Poetry/Smile"><button class="button">An Elusive smile</button></a>
 		<a href="/Poetry/Adieu"><button class="button">Adieu</button></a>
 		<a href="/Poetry/Drowning"><button class="button">Drowning</button></a>
-		<hr>
+		<hr />
 	</p>
-	<h1>{{ page.title }}</h1>
-	<br>
+	<h1>Mother</h1>
+	<br />
 </div>
 <div>
+	<p align="center">
+		<img src="/Portfolio/Sketches/mum.jpg" alt="Mother and Daughter" style="width:50%" />
+	</p>
 <pre>
 Mother,
  
@@ -65,10 +63,8 @@ My love for you,
 Mother.
 
 </pre>
-<p>
-	<i>Published in the "Navchetna" 2015 issue</i>
-</p>
-<p align="center">
-	<img src="/Portfolio/Sketches/mum.jpg" alt="Mother and Daughter" style="width:50%">
-</p>
+	<p>
+		<i>Published in the "Navchetna" 2015 issue</i>
+	</p>
 </div>
+:ET

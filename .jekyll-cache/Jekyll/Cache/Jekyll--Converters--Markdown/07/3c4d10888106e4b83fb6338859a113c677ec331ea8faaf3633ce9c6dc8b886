@@ -1,9 +1,4 @@
----
-layout: default
-title: Adieu
----
-
-<div class="poetrypost" align="center">
+I"F<div class="poetrypost" align="center">
 	<h1 class="poetrypost-title">[Poetry]</h1>
 	<p>
 		<a href="/Poetry/Mother"><button class="button">Mother</button></a>
@@ -11,10 +6,10 @@ title: Adieu
 		<a href="/Poetry/Smile"><button class="button">An Elusive smile</button></a>
 		<a href="/Poetry/Adieu"><button class="button" style="background-color: black; color: white">Adieu</button></a>
 		<a href="/Poetry/Drowning"><button class="button">Drowning</button></a>
-		<hr>
+		<hr />
 	</p>
-	<h1>{{ page.title }}</h1>
-	<br>
+	<h1>Adieu</h1>
+	<br />
 </div>
 <div>
 <pre>
@@ -38,6 +33,7 @@ For we'll laugh again, and with no regret
 For we'd have loved more.
 </pre>
 <p align="center">
-	<img src="/Portfolio/Paintings/adieu.jpg" alt="Yosemite" style="width:50%">	
+	<img src="/Portfolio/Paintings/adieu.jpg" alt="Yosemite" style="width:50%" />	
 </p>
 </div>
+:ET
