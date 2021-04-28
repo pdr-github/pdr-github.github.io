@@ -1,17 +1,15 @@
 <p>
+  <b> The Karman Project </b> | April 24, 2021
+  <br> <a href="https://www.karmanproject.org/post/the-karman-project-announces-cohort-for-its-2021-fellowship-programme">
+    Announcement of the 2021 Fellowship Programme cohort
+  </a>
+</p>
+<p>
   <b> TechRound UK </b> | March 08, 2021
   <br> <a href="https://techround.co.uk/international-womens-day/priyanka-das-rajkakati-2021-forbes-india-30-under-30-winner/">
     International Women’s Day 2021: Inspiring Quotes and Advice - Priyanka Das Rajkakati
   </a>
 </p>
-
-<p>
-  <b> IIFTO </b> | March 08, 2021 
-  <br> <a href="https://www.youtube.com/watch?v=BgeJFqWvfPY">
-    Journey from India to Space | Gems of India Series 
-  </a>
-</p>
-
 <p>
   <b> Forbes India 30 under 30 </b> | February 12, 2021
   <br> <a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
