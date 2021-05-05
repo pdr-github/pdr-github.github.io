@@ -23,8 +23,13 @@
 	<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%">
 	<p>
 		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
-		Logo design for the Shaurya Foundation
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
+	<p>
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
 	</p>
 </div>
 

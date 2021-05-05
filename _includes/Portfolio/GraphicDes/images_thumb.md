@@ -13,4 +13,7 @@
 	<div class="column">
 		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%"  onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
 	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%"  onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+	</div>
 </div>
