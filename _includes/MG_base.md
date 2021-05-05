@@ -45,7 +45,7 @@
   </h2>
 </div>
 
-{% include MG/images_thumb.md%}
+{% include Portfolio/MoonGal/images_thumb.md%}
 
 <p align="center" style="font-size:18px">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gQQS857J43g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,32 +55,8 @@
 <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    {% include MG/images_modal.md%}   
+    {% include Portfolio/MoonGal/images_modal.md%}   
   </div>
 </div>
 
-
-<script>
-  function openModal() {
-    document.getElementById("myModal").style.display = "block";
-  }
-
-  function closeModal() {
-    document.getElementById("myModal").style.display = "none";
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("demo");
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    slides[slideIndex-1].style.display = "block";
-  }
-</script>
-
+{% include Scripts/modal.md %}
