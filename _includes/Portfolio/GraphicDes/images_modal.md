@@ -20,16 +20,16 @@
 </div>
 
 <div class="mySlides">
-	<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%">
+	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
 	<p>
-		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
 	</p>
 </div>
 
 <div class="mySlides">
-	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%">
+	<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%">
 	<p>
-		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
+		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
 	</p>
 </div>
 
