@@ -1,4 +1,4 @@
-I"ù<div class="artpost" align="center">
+I"D<div class="artpost" align="center">
 	<h1 class="artpost-title">[Art Portfolio]</h1>
 	<a href="/Portfolio/MoonGallery"><button class="button">Moon Gallery Project</button></a>
 	<a href="/Portfolio/Paintings"><button class="button">Paintings &amp; Illustrations</button></a>
@@ -23,7 +23,16 @@
 		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />
 	</div>
 	<div class="column">
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />
+		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
 	</div>
 </div>
 
@@ -62,7 +71,7 @@
 <div class="mySlides">
 	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
 	<p>
-		Logo design for the Shaurya Foundation
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
 	</p>
 </div>
 

@@ -1,4 +1,4 @@
-I"æ<div class="artpost" align="center">
+I"Ô<div class="artpost" align="center">
 	<h1 class="artpost-title">[Art Portfolio]</h1>
 	<a href="/Portfolio/MoonGallery"><button class="button">Moon Gallery Project</button></a>
 	<a href="/Portfolio/Paintings"><button class="button">Paintings &amp; Illustrations</button></a>
@@ -23,7 +23,16 @@
 		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />
 	</div>
 	<div class="column">
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />
+		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor" />
 	</div>
 </div>
 
@@ -56,20 +65,36 @@
 	<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" />
 	<p>
 		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
-		Logo design for the Shaurya Foundation
 	</p>
 </div>
 
 <div class="mySlides">
 	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
 	<p>
-		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
-		Logo design for the Shaurya Foundation
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
 	</p>
 </div>
 
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		vEGU21 collaboration on <a href="https://bit.ly/3tVU1yX">"The representativeness of ground-based air quality monitoring stations: observation and recommendation from Indian cities"</a> <i> A. Roy et al</i>
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		
+	</p>
+</div>
    
 	  </div>
 	</div>

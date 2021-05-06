@@ -1,4 +1,4 @@
-I"ø<div class="artpost" align="center">
+I"H<div class="artpost" align="center">
 	<h1 class="artpost-title">[Art Portfolio]</h1>
 	<a href="/Portfolio/MoonGallery"><button class="button">Moon Gallery Project</button></a>
 	<a href="/Portfolio/Paintings"><button class="button">Paintings &amp; Illustrations</button></a>
@@ -11,22 +11,28 @@
 <div>
 	<div class="row" align="center">
 	<div class="column">
-		<img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:80%" />
-		Logo for the <a href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fpacificspacecenter.com%2F2020%2F01%2F03%2Fpisces-prepares-for-simulated-moonmars-mission-at-hi-seas%2F&amp;psig=AOvVaw0JFYwSi7p172W6ZKvOMNsM&amp;ust=1608480626427000&amp;source=images&amp;cd=vfe&amp;ved=0CAMQjB1qFwoTCLjJ7Lu32u0CFQAAAAAdAAAAABAI"> EMMIHS-III Astronaut simulation</a>
+		<img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:80%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" />
 	</div>
 	<div class="column">
-		<img src="/Portfolio/Commissions/sgac_greeting2021.png" alt="SGAC Greeting Card 2021" style="width:80%" />
-		SGAC <a href="https://spacegeneration.org/wp-content/uploads/2020/12/SGACHolidays2020_screen-800x338.png"> Greeting Card 2021</a>
+		<img src="/Portfolio/Commissions/sgac_greeting2021.png" alt="SGAC Greeting Card 2021" style="width:80%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" />
 	</div>
 	<div class="column">
-		<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:80%" />
-		Poster and logo design for <a href="https://spacegeneration.org/event/sgfrance-2020">SGAC Our Giant Leap initiative</a>
+		<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" />
 	</div>
 	<div class="column">
-		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" />
-		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
-		Logo design for the Shaurya Foundation
+		<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor" />
 	</div>
 </div>
 
@@ -59,11 +65,36 @@
 	<img src="/Portfolio/Commissions/echo2012.jpg" alt="Our Giant Leap poster" style="width:80%" />
 	<p>
 		Cover design for the magazine "Echo 2012" by the Physics Society, St. Stephen's College
-		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
-		Logo design for the Shaurya Foundation
 	</p>
 </div>
 
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
+	</p>
+</div>
+
+<div class="mySlides">
+	<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%" />
+	<p>
+		Logo design for the <a href="https://www.facebook.com/theshauryafoundation/posts/"> Shaurya Foundation </a>
+	</p>
+</div>
    
 	  </div>
 	</div>

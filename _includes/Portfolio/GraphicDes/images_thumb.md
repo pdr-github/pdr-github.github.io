@@ -16,4 +16,13 @@
 	<div class="column">
 		<img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:80%"  onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
 	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="Shaurya Foundation logo" style="width:80%"  onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Shaurya Foundation logo" style="width:80%"  onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Shaurya Foundation logo" style="width:80%"  onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+	</div>
 </div>
