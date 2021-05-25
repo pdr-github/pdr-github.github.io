@@ -15,10 +15,10 @@ This initiative received the SGAC "Member of the month" award in <a href="https:
 <p align="center" style="font-size:18px">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/pErzslMIl68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<p>
+<!-- p>
 	One of the original founders of this initiative, Priyanka took part in its organisation as part of the Programs team (responsible for the Mentorship Working Group) and Communication team. Through the latter, she designed the logo and poster for the initiative and presented it during the Space Generation Congress (SGC) 2019 and the International Astronautical Congress (IAC) 2019 in Washington DC. She also worked on the <a href="https://www.youtube.com/watch?v=pErzslMIl68&feature=emb_logo">video</a> for the event, as well as recording retd. CNES astronaut <a href="https://www.youtube.com/watch?v=b5f_sSXBi7k">Claudie Haigneré's message</a> for the participants. Lastly, she intiated the "Call for Artwork" program with the help of the OGL Communication team, through which OGL received more than 30 original artwork from across the world on the theme "Women in Aerospace", showcased <a href="https://app.slack.com/client/T011D7ADA94/C0136NLHYJH">here</a> in the official OGL Slack channel. 
 	<br><br>
-</p>
+</p -->
 <p align="center">
 	<img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:50%">
 </p>
