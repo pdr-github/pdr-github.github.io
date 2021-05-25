@@ -60,3 +60,4 @@
 </div>
 
 {% include Scripts/modal.md %}
+{% include Scripts/accordion.md %}
