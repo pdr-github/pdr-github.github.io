@@ -21,44 +21,13 @@ title: Bio
 	</div>
 	<div>
 		<h2>Exploring the Art+Science Duality</h2>
-		<p>
-			<b>Priyanka Das Rajkakati</b>  is a Ph.D. in Aerospace engineering, who dedicates her time to exploring the grey region between art and science - with as backdrop, the fascinating domain of space research. Indeed, her childhood ambition was to pursue three passions in one lifetime: Science, Art & Space. She has won numerous awards and recognitions, most recently a place in the <b>Forbes India 30 under 30 (2021)</b> list, under the category "Science and Innovation". 
-		</p>
-		<p>	
-			Born in the Himalayan mountains, Priyanka grew up in the hustle and bustle of New Delhi and moved to France at age 21, to discover new cultures, learn new languages and explore diverse domains. Through years spent experimenting with various scientific fields, including pursuing a PhD in Aerospace engineering, she realised that she kept repeatedly gravitating towards the artistic aspect of the subject at hand. For example: bioluminescent bacteria and their patterns in Biology; algorithmic art in Computer Science; and, during her PhD research on satellite navigation, the fascinating patterns made by signals and accumulated noise. Clearly, Science and Art are not disjoint entities but simply different viewpoints on experiencing Nature and the Cosmos.
-		</p>
-	</div>
-	<div>
-		<p>
-			<img src="/assets/images/gnss_art.png" style="width:100%">
-		</p>
-		<p>
-			Quite affected by the current state of humanity through her own experiences, Priyanka is also actively involved in STEM and art outreach activities, with a focus on promoting science amongst girls: as ambassador of the <b>L’Oreal-UNESCO <i>For Girls in Science</i></b> initiative, as member of the Space Generation Advisory Council (SGAC), as expert to the IAF Technical Committee on the Cultural Utilisation of Space (ITACCUS) and through collaborations with the EuroMoonMars initiative. Finally, as part of the 5th cohort of the Homeward Bound initiative for women in science, she will also be taking part in a trip to <b>Antarctica</b> in 2021.
-		</p>
-		<p>
-			<img src="/assets/images/hyperart.png" style="width:100%">
-		</p>	
-	</div>
+		<br>
+		Dr. Priyanka Das Rajkakati is a French Aerospace engineer-cum-artist, born in India, whose work involves mixing science, art and space.
+		<br>
+		Growing up in Delhi, obtaining a bachelor in Physics from St. Stephen's College, she moved to France at age 21 to explore new horizons, learn a new language and eat French food. While studying engineering at Ecole-Polytechnique and ISAE-Supaéro, and then obtaining a Ph.D. in satellite navigation, she found equal if not more satisfaction from her art projects and #S.T.E.A.M. outreach.
+		<br>
+		Her work draws inspiration from her Indian roots and her travels, from Brazil to Mauna Loa volcano in Hawai'i (where had a short experience as an Analog Astronaut) and next: Antarctica.
+		<br>
+		Being an artist-scientist in the space industry does not go unnoticed: she has won numerous awards, including a feature in the Forbes India 30 under 30 and the 2021 Karman Fellowship.
+	</div>		
 </div>
-
-<!-- img src="/assets/images/bio.jpg">
-<p>
-	<h2>Exploring the Art+Science Duality</h2> 
-	Priyanka has always lived a dual personality, with two, seemingly contradictory, sides fused into one: as a dynamic and expressive artist, and also as a reserved, logic-oriented scientist. And then, a wide-eyed fascination for Space.
-</p>
-<p>	
-	Born in the Himalayan mountains, Priyanka grew up in the hustle and bustle of New Delhi and moved to France at age 21, to explore various opportunities in diverse domains. Through years spent experimenting with various scientific fields, including pursuing a PhD in Aerospace engineering, she realised that she kept repeatedly gravitating towards the artistic aspect of the subject at hand. For example: bioluminescent bacteria and their patterns in Biology; algorithmic art in Computer Science; and, during her PhD research on satellite navigation, the fascinating patterns made by signals and accumulated noise. Thus, it was clear that Science and Art were not orthogonal entities but simply different viewpoints on experiencing Nature and the Cosmos.
-</p>
-<p align="center">
-	<img src="/assets/images/gnss_art.png" style="width:70%">
-</p>
-<p>
-	<br>
-	<h2>Art+Science+Space</h2> 
-	On discovering that the domain of Space research was in fact a highly interdisciplinary field, Priyanka found a context for her work in mixing Art and Science. Her work currently involves experimentation with mixed-media art techniques and visual representation of data. She has also illustrated for magazine covers, articles and contributed designs for communication-related activities.
-	<br><br>
-	Quite rattled by the current state of humanity through her own experiences, Priyanka is also actively involved in STEM and art outreach activities: as ambassador of the L’Oreal-UNESCO Girls in Science initiative, as member of the Space Generation Advisory Council (SGAC), as expert to the IAF Technical Committee on the Cultural Utilisation of Space (ITACCUS) and through collaborations with the EuroMoonMars initiative. Finally, as part of the 5th cohort of the Homeward Bound initiative for women in science, she will also be taking part in a trip to Antarctica in 2021.
-</p>
-<p align="center">
-	<img src="/assets/images/hyperart.png" style="width:70%">
-</p --->

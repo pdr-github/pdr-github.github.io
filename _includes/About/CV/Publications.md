@@ -17,12 +17,17 @@
 		<li>
 			<b>P. Rajkakati</b>. 
 			“Science Outreach through Art: Experience as an scientist-artist in public engagement”.
-			<i> Accepted: Global Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>			
+			<i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>			
 		</li>
 		<li>
 			Y. Akisheva, P. Delande, C. Nassey, C. Moriceau, <b>P. Rajkakati</b>, G. Thirion, N. Soulard, M. Beliazi, J. Kemp. 
 			“Our Giant Leap: towards a diverse and inclusive aerospace workforce”.
 			<i> International Astronautical Congress (IAC CyberSpace edition) (October, 2020) </i>			
+		</li>
+		<li>
+			H. Quizzagan, <b> P. Rajkakati </b>, S. Santra, L. M. Goh, H. S. Wijeratne, Y. Kim, B. I. Lo, A. Khanal, K. A. M. Nodado, S. Dhoju. 
+			“Cooperation and Capacity-building of Asia-Pacific Countries for Space Exploration”.
+			<i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>			
 		</li>
 	</ol>
 </div>
