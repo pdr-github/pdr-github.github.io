@@ -18,12 +18,12 @@ title: Contact
 <div>
 	<img src="/assets/images/contact.jpg" style="width: 100%">
 	<p align="center">
-		Twitter: <a href="https://twitter.com/priyankaspace?lang=en">@PriyankaSpace</a>
-		<br>
+		<!-- Twitter: <a href="https://twitter.com/priyankaspace?lang=en">@PriyankaSpace</a>
+		<br> -->
 		Instagram: <a href="https://www.instagram.com/priyankaspace/">@PriyankaSpace</a>
 		<br>
-		LinkedIn: <a href="https://www.linkedin.com/in/priyankaspace/">Priyanka Das Rajkakati</a>
-		<br>
+		<!-- LinkedIn: <a href="https://www.linkedin.com/in/priyankaspace/">Priyanka Das Rajkakati</a>
+		<br> -->
 		Email: <a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.Space</a>
 	</p>
 </div>
