@@ -14,8 +14,6 @@
 		ISAE-ONERA SCANR (Signal, Communication, Antennae, Navigation & Radar) <br>
 		CIFRE contract with Safran <br>
 	</p>
-	<p>
-		<a href = "http://www.theses.fr/s222653"> Theses.fr </a>
 </div>
 <div>
 	<h3>Abstract</h3>

@@ -30,6 +30,9 @@ title: Ph.D. Research (GNSS)
     	<p><br>
     		<i> Will be uploaded soon.</i>
     	</p>
+      <p>
+        <a href = "http://www.theses.fr/s222653"> Theses.fr </a>
+      </p>
     </div>
     <button class="accordion">Thesis Defense (Slides)</button>
     <div class="panel" align="center">
