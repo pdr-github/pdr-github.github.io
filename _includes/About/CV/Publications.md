@@ -1,4 +1,7 @@
 <div>
+	<a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar Profile</a>
+</div>
+<div>
 	<h2> PhD Research </h2>
     {% include Space/PhD/Publications.md %}
 </div>
@@ -25,7 +28,7 @@
 			<i> International Astronautical Congress (IAC CyberSpace edition) (October, 2020) </i>			
 		</li>
 		<li>
-			H. Quizzagan, <b> P. Rajkakati </b>, S. Santra, L. M. Goh, H. S. Wijeratne, Y. Kim, B. I. Lo, A. Khanal, K. A. M. Nodado, S. Dhoju. 
+			H. Quizzagan, <b> P. Rajkakati </b>, S. Santra, L. M. Goh, H. S. Wijeratne, Y. Kim, B. I. Lo, A. Khanal, K. A. M. Nodado, S. Dhoju.  
 			“Cooperation and Capacity-building of Asia-Pacific Countries for Space Exploration”.
 			<i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>			
 		</li>
