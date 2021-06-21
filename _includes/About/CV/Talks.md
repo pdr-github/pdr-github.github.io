@@ -9,6 +9,6 @@
 </div>
 
 <div>
-  <br> <h3> Conference Talks </h3><br>
+  <br> <h3> Academic and Conference Talks </h3><br>
   {% include About/CV/Talks/Conference.md %}
 </div>
