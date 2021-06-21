@@ -4,10 +4,10 @@
     <b> Member #TeamHB5: Leadership Program for Women in STEMM</b> | Since 2019 <i>(2 years)</i>
     <br> Homeward Bound Projects
   </p>
-  <p>
+  <!-- p>
     <b> Event Manager, SG[India]2021 </b> | Since 2021 <i>(2 months)</i>
     <br> Space Generation Advisory Council (SGAC)
-  </p>
+  </p -->
   <p>
     <b> Delegate & lead for Human Space Exploration sub-working group </b> | January 2021 <i>(9 days)</i>
     <br> SGAC Asia-Pacific Space Generation Online Workshop (APSGOW)
@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <br><h3> Select Art-related Projects </h3><br>
+  <br><h3> Select Art Projects </h3><br>
   <p>
     <b> Artist-in-residence, vEGU21 </b> | 2021 
     <br> European Geosciences Union

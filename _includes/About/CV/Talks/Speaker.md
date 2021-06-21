@@ -1,5 +1,13 @@
   <p>
     <b> Panelist </b> | March 2021
+    <br> (In French) <a href="https://twitter.com/iafastro/status/1404476068241813509?s=20">
+      Next Gen: Plenary Session - International Collaboration for Sustainable Space Exploration.
+    </a>
+    <br> <i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>
+  </p>
+
+  <p>
+    <b> Panelist </b> | March 2021
     <br> (In French) <a href="https://youtu.be/4GtnXfuuefg">
       "AERONAUTIQUE & SPATIAL, une constellation de métiers ?"
     </a>
