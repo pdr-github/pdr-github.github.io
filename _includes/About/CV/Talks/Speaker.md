@@ -1,6 +1,6 @@
   <p>
     <b> Panelist </b> | March 2021
-    <br> (In French) <a href="https://twitter.com/iafastro/status/1404476068241813509?s=20">
+    <br> (in a panel including astronauts) <a href="https://twitter.com/iafastro/status/1404476068241813509?s=20">
       Next Gen: Plenary Session - International Collaboration for Sustainable Space Exploration.
     </a>
     <br> <i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>
