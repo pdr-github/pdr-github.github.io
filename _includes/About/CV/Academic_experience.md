@@ -75,6 +75,3 @@
   <br> Inter-University Accelerator Centre (Delhi, India)
 </p>
 
-<br>
-<h3>Publications</h3>
-<a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar Profile</a>
