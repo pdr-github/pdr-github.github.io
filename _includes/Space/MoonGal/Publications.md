@@ -4,7 +4,7 @@
 		<li> 
 			A. Sitnikova, E. Glukhova, B. H. Foing, S. McCarthy, <b>P. Rajkakati</b>, M. Kuiper
 			“Moon Gallery”. 
-			<i> Accepted: Global Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>
+			<i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>
 		</li>
 		<li> 
 			E. Glukhova, A. Sitnikova, B. H. Foing, <b>P. Rajkakati</b>
