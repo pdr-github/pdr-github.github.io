@@ -1,4 +1,4 @@
-I"�&<div class="spacepost" align="center">
+I"4(<div class="spacepost" align="center">
   <h1 class="spacepost-title">[Space Projects]</h1>
   <p>
     <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
@@ -45,6 +45,16 @@
       <br /><br />
       For more information on the Moon Gallery Project, please visit the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
     </p>
+  </div>
+  <button class="accordion">V-Art Digital #ArtSpaceship</button>
+  <div class="panel">
+    <br />
+    “Star Cities/Organised Worlds” was featured by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a>.
+    <br /><br />
+    <p align="center">
+      <img src="/Portfolio/MoonGal/v-art-artspaceship.jpg" style="width: 50%" />
+    </p>
+    <br /><br />
   </div>
   <button class="accordion">Publications</button>
   <div class="panel">

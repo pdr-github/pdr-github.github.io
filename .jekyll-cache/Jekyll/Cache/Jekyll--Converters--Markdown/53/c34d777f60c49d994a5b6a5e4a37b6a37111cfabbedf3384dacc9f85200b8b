@@ -1,4 +1,4 @@
-I"<div class="aboutpost">
+I"<div class="aboutpost">
 	<h1 class="aboutpost-title" align="center">[About]</h1>
 	<p align="center">
 		<!-- a href="/About/Intro"><button class="button">A few words</button></a -->
@@ -13,12 +13,12 @@
 <div>
 	<img src="/assets/images/contact.jpg" style="width: 100%" />
 	<p align="center">
-		<!-- Twitter: <a href="https://twitter.com/priyankaspace?lang=en">@PriyankaSpace</a>
-		<br> -->
+		Twitter: <a href="https://twitter.com/priyankaspace?lang=en">@PriyankaSpace</a>
+		<br />
 		Instagram: <a href="https://www.instagram.com/priyankaspace/">@PriyankaSpace</a>
 		<br />
-		<!-- LinkedIn: <a href="https://www.linkedin.com/in/priyankaspace/">Priyanka Das Rajkakati</a>
-		<br> -->
+		LinkedIn: <a href="https://www.linkedin.com/in/priyankaspace/">Priyanka Das Rajkakati</a>
+		<br />
 		Email: <a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.Space</a>
 	</p>
 </div>

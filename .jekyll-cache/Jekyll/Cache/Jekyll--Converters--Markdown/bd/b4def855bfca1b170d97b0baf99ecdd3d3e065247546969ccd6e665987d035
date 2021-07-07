@@ -1,12 +1,15 @@
-I"K&<div class="artpost" align="center">
-	<h1 class="artpost-title">[Art Portfolio]</h1>
-	<a href="/Portfolio/MoonGallery"><button class="button" style="background-color: black; color: white">Moon Gallery Project</button></a>
-	<a href="/Portfolio/Paintings"><button class="button">Paintings &amp; Illustrations</button></a>
-	<a href="/Portfolio/GraphicDes"><button class="button">Graphic Design</button></a>
-	<a href="/Portfolio/Origami"><button class="button">Origami</button></a>
-	<hr />
-	<h1>Moon Gallery Project</h1>
-	<br />
+I"}(<div class="spacepost" align="center">
+  <h1 class="spacepost-title">[Space Projects]</h1>
+  <p>
+    <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
+    <a href="/Space/EMMIHS" class=""><button class="button">Analogue-Astronaut</button></a>
+    <a href="/Space/MoonGallery"><button class="button" style="background-color: black; color: white">Moon Gallery</button></a>
+    <a href="/Space/SGAC"><button class="button">SGAC</button></a>
+    <a href="/Space/Xcubesat"><button class="button">X-CubeSat</button></a>
+    <hr />
+  </p>
+  <h1>Moon Gallery Project</h1>
+  <br />
 </div>
 <div>
 	<p align="center">
@@ -42,6 +45,14 @@
       <br /><br />
       For more information on the Moon Gallery Project, please visit the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
     </p>
+  </div>
+  <button class="accordion">V-Art Digital #ArtSpaceship</button>
+  <div class="panel">
+    <br />
+    “Star Cities/Organised Worlds” was featured by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a>. Here is the specific <a href="https://v-art.digital/artworks/star-cities-organised-worlds/"> artwork </a> page.
+    <br />
+    <img src="/Portfolio/MoonGal/v-art-artspaceship.jpg" style="width: 100%" />
+    <br /><br />
   </div>
   <button class="accordion">Publications</button>
   <div class="panel">

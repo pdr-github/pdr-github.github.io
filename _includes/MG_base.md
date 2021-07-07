@@ -32,6 +32,16 @@
       For more information on the Moon Gallery Project, please visit the official <a href="http://www.moongallery.eu/">Moon Gallery</a> website.
     </p>
   </div>
+  <button class="accordion">V-Art Digital #ArtSpaceship</button>
+  <div class="panel">
+    <br>
+    “Star Cities/Organised Worlds” was featured by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a> (sector E).
+    <br><br>
+    <p align="center">
+      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-artspaceship.jpg" style="width: 50%"> </a>
+    </p>
+    <br><br>
+  </div>
   <button class="accordion">Publications</button>
   <div class="panel">
     {% include Space/MoonGal/Publications.md%}
