@@ -1,5 +1,5 @@
 <div>
-  <h3> Leadership and Responsilibity </h3><br>
+  <h3> Leadership and Responsibility </h3><br>
   <p>
     <b> Member #TeamHB5: Leadership Program for Women in STEMM</b> | Since 2019 <i>(2 years)</i>
     <br> Homeward Bound Projects
