@@ -19,59 +19,47 @@
 </p>
 
 <br> <h3>~ Short Projects ~</h3><br>
-
 <p>
   <b> Analog astronaut, EMMIHS-III Lunar Simulation Mission </b> | January 2020 <i>(3 weeks)</i>
   <br> Hawai'i Space Exploration Analog and Simulation (HI-SEAS) (Hawai'i, USA)
 </p>
-
 <p>
   <b> Participant (Hackathon), Doctoriales </b> | 2018 <i>(1 week)</i>
   <br> Ecole des Mines d'Albi (Albi, France)    
 </p>
-
 <p>
   <b> Engineering Research Project (Project Boomerang) </b> | 2016 <i>(3 months)</i>
   <br> ISAE-Supaéro (Toulouse, France)    
 </p>
-
 <p>
   <b> Software Intern (Lab-test Automation), Startup R&D </b> | 2015 <i>(2 months)</i>
   <br> CorWave (Paris, France)    
 </p>
-
 <p>
   <b> Summer Intern (Digital Holography) </b> | 2015 <i>(2 weeks)</i>
   <br> <i>Institut d'Optique</i> Graduate School "SupOptique" (Paris region, France)    
 </p>
-
 <p>
   <b> Participant (Space Mission Planning), Caltech Space Challenge </b> | 2015 <i>(1 week)</i>
   <br> CalTech + JPL NASA (Pasadena, USA)    
 </p>
-
 <p>
   <b> Participant (Space Hackathon), #Actinspace </b> | 2014 <i>(2 days)</i>
   <br> Synchrotron Soleil (Saclay, France)    
 </p>
-
 <p>
   <b> Summer Intern (Editing, Auditing and Reporting) </b> | 2013 <i>(1 month)</i>
   <br> <i>The Times of India</i> (Delhi, India)    
 </p>
-
 <p>
   <b> Summer Intern (Digital Holography) </b> | 2012 <i>(2 months)</i>
   <br> Photonics Lab, Indian Institute of Technology (Delhi, India)
 </p>
-
 <p>
   <b> Trainee, Summer Course on Experimental Physics </b> | 2011 <i>(1 month)</i>
   <br> Homi Bhabha Centre for Science Education (HBCSE), TIFR  (Mumbai, India)    
 </p>
-
 <p>
   <b> Summer Intern (Beam Optics) </b> | 2011 <i>(1 month)</i>
   <br> Inter-University Accelerator Centre (Delhi, India)
 </p>
-

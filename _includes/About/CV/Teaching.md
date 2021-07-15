@@ -13,6 +13,3 @@
 	  <br> Freelance - Middle-school students (Villeneuve-sur-Lot, France)
 	</p>	
 </div>
-
-
-<!-- chargée de TD --->

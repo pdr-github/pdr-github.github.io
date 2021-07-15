@@ -6,7 +6,6 @@ title: Bio
 <div class="aboutpost">
 	<h1 class="aboutpost-title" align="center">[About]</h1>
 	<p align="center">
-		<!-- a href="/About/Intro"><button class="button">A few words</button></a -->
 		<a href="/About/Bio"><button class="button" style="background-color: black; color: white">Bio</button></a>
 		<a href="/About/CV"><button class="button">CV</button></a>
 		<a href="/About/News"><button class="button">News</button></a>

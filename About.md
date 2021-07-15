@@ -7,7 +7,3 @@ title:
 <div align="center">
 	<a href="/Portfolio/MoonGallery"><i>Curious about this image?</i></a>
 </div>
-
-<!--
-<p align="center" style="font-size:14px">(Click on one of the tabs above.)</p>
---->

@@ -26,7 +26,6 @@ title: X-CubeSat
       <br><br>
       Funded by Thalès and CNES (Project JANUS), the X-CubeSat project started in 2010 and each year a new batch of engineering students would take over and take it forward. A 2U nanosatellite unit, the project was managed by the late M. Gérard Auvray since its conception, and was part of the activities of Ecole Polytechnique's <i>Centre Spatial Etudiant</i>. More than 70 students have been involved in its development.
       <br><br>
-      <!-- During her second-year at Ecole Polytechnique, Priyanka joined the X-CubeSat team as part of the Communications team and worked under Olivier Piras on telemetry and establishing a communication link between the cubesat and the ground station. <i> It's cool to have a piece of your code in space!</i> -->
     </p>
   </div>
 

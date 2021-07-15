@@ -6,12 +6,6 @@ title: Upcoming voyage to Antarctica!
 <div align="center">
   <i>Due to the current COVID19 pandemic situation, the voyage has been postponed to 2022.</i>
 </div>
-<!-- div>
-  <h2 align="center">
-  <b> #HB5 Departure to Antarctica </b>
-  </h2>
-  <p id="demo" align="center" style="font-size:40px"></p>  
-</div -->
 <div>
   <img src="/Antarctica/homeward-acciona.jpg" style="width: 100%">
   <button class="accordion">Homeward Bound Initative</button>

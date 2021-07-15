@@ -30,10 +30,6 @@ title: EMMIHS Analog-Mission
       <div class="panel"> <br>
         {% include Space/EMMIHS/ILEWG.md %} <br>
       </div>
-      <!-- button class="accordion">Priyanka's mission roles</button>
-      <div class="panel"> <br>
-        {% include Space/EMMIHS/Mission.md %} <br>
-      </div -->  
       <button class="accordion">Publications</button>
       <div class="panel"> <br>
         {% include Space/EMMIHS/Publications.md %} <br>
