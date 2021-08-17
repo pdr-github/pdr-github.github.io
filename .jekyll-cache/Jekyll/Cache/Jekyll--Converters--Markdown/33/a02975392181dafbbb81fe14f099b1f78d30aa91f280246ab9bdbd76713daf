@@ -1,4 +1,4 @@
-I"<div class="spacepost" align="center">
+I"½<div class="spacepost" align="center">
   <h1 class="spacepost-title">[Space Projects]</h1>
   <p>
     <a href="/Space/MoonGallery"><button class="button" style="background-color: black; color: white">The Exploration Company </button></a>
@@ -12,7 +12,10 @@
   <h1>The Exploration Company</h1>
   <br />
 </div>
+<div align="center">
+  For more information, check our <a href="https://exploration.space/"> website</a> and <a href="https://www.linkedin.com/company/exploration-company/"> LinkedIn</a>.
+</div>
 <div>
-  All information <a href="https://exploration.space/"> here</a>.
+  <img src="/Space/TEC/logo.png" />
 </div>
 :ET
