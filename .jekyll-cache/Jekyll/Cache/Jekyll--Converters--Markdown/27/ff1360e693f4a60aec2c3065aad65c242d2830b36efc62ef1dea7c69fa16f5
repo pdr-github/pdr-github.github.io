@@ -1,0 +1,29 @@
+I"m<div class="aboutpost">
+	<h1 class="aboutpost-title" align="center">[About]</h1>
+	<p align="center">
+		<!-- a href="/About/Intro"><button class="button">A few words</button></a -->
+		<a href="/About/Bio"><button class="button">Bio</button></a>
+		<a href="/About/CV"><button class="button">CV</button></a>
+		<a href="/About/News"><button class="button">News</button></a>
+		<a href="/About/Contact"><button class="button" style="background-color: black; color: white">Contact</button></a>	<hr />
+	</p>
+	<h1 align="center">Contact</h1>
+	<br />
+</div>
+<div>
+	<img src="/assets/images/contact.jpg" style="width: 100%" />
+	<p align="center">
+		Social-media handle: @PriyankaSpace
+		<br />
+		<a href="https://twitter.com/priyankaspace?lang=en"> Twitter,</a>
+		<a href="https://www.instagram.com/priyankaspace/"> Instagram, </a>
+		<a href="https://www.linkedin.com/in/priyankaspace/"> LinkedIn </a> :
+		<br /><br />
+		Emails: 
+		<br />
+		(work) <a href="mailto:priyanka@exploration.space">priyanka@exploration.space</a>
+		<br />
+		(personal): <a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.space</a>
+	</p>
+</div>
+:ET
