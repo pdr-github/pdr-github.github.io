@@ -28,9 +28,9 @@ title: CV
       {% include About/CV/Honors.md %}
       <br><br>
     </div>
-    <button class="accordion"> Academic Experience </button>
+    <button class="accordion"> Professional Experience </button>
     <div class="panel"> <br>
-      {% include About/CV/Academic_experience.md %}
+      {% include About/CV/Professional_experience.md %}
       <br><br><br>
     </div>
     <button class="accordion"> Art, Leadership & Volunteering </button>

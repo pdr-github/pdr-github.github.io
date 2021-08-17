@@ -15,9 +15,6 @@ title: News
   <br>
 </div>
 <div>
-  <a href="https://www.forbesindia.com/article/30-under-30-2021/priyanka-das-rajkakati-mixing-science-and-art/66429/1">
-    <img src="/assets/images/forbes.jpg" style="width: 100%">
-  </a>
 
   <h2>Featured</h2>
   <div> <br>

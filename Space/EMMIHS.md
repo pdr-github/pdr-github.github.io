@@ -6,6 +6,7 @@ title: EMMIHS Analog-Mission
 <div class="spacepost" align="center">
   <h1 class="spacepost-title">[Space Projects]</h1>
   <p>
+    <a href="/Space/TEC" class=""><button class="button">The Exploration Company</button></a>
     <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
     <a href="/Space/EMMIHS" class=""><button class="button" style="background-color: black; color: white">Analogue-Astronaut</button></a>
     <a href="/Space/MoonGallery"><button class="button">Moon Gallery</button></a>
