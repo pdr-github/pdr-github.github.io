@@ -32,6 +32,9 @@
       <br><br>
       <i>Bhedadīpikā</i> was selected as part of the Moon Gallery in 2019 and is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/"> a visual dialogue</a> based on the artist's own duality - as an artist as well as researcher. For more information on the Moon Gallery Project, please visit their <a href="http://www.moongallery.eu/"> website</a>. You can support the first mission to the ISS by donating <a href="https://www.moongallery.eu/donation/"> here</a>.
     </p>
+    <p>
+      The Moon Gallery is <a href="https://moongallery.eu/wp-content/uploads/2022/02/Moon_Gallery-ISS-press-release.pdf">launching to the ISS</a> on February 19, 2022. Join us for the live launch <a href="https://meet.google.com/xhy-eeyt-rhx?pli=1">here</a>.
+    </p>
   </div>
   <button class="accordion">Exhibition: V-Art Digital #ArtSpaceship</button>
   <div class="panel">
@@ -66,7 +69,7 @@
 <div id="myModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    {% include Portfolio/MoonGal/images_modal.md%}   
+    {% include Portfolio/MoonGal/images_modal.md%}
   </div>
 </div>
 
