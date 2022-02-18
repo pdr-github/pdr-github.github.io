@@ -1,22 +1,13 @@
 ---
-layout: default
+layout: spacepost
 title: The Exploration Company
 ---
 
-<div class="spacepost" align="center">
-  <h1 class="spacepost-title">[Space Projects]</h1>
-  <p>
-    <a href="/Space/MoonGallery"><button class="button" style="background-color: black; color: white">The Exploration Company </button></a>
-    <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
-    <a href="/Space/EMMIHS" class=""><button class="button">Analogue-Astronaut</button></a>
-    <a href="/Space/MoonGallery"><button class="button" >Moon Gallery</button></a>
-    <a href="/Space/SGAC"><button class="button">SGAC</button></a>
-    <a href="/Space/Xcubesat"><button class="button">X-CubeSat</button></a>
-    <hr>
-  </p>
-  <h1>{{ page.title }}</h1>
-  <br>
-</div>
+<style>
+  #tec {
+    background-color: black;
+    color: white}
+</style>
 <div align="center">
   For more information, check our <a href="https://exploration.space/"> website</a> and <a href="https://www.linkedin.com/company/exploration-company/"> LinkedIn</a>.
 </div>

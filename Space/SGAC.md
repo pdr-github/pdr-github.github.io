@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: spacepost
 title: Space Generation Advisory Council (SGAC)
 ---
 
-<div class="spacepost" align="center">
-  <h1 class="spacepost-title">[Space Projects]</h1>
-  <p>
-    <a href="/Space/TEC" class=""><button class="button">The Exploration Company</button></a>
-    <a href="/Space/PhD" class=""><button class="button">PhD Research (GNSS)</button></a>
-    <a href="/Space/EMMIHS" class=""><button class="button">Analogue-Astronaut</button></a>
-    <a href="/Space/MoonGallery"><button class="button">Moon Gallery</button></a>
-    <a href="/Space/SGAC"><button class="button" style="background-color: black; color: white">SGAC</button></a>
-    <a href="/Space/Xcubesat"><button class="button">X-CubeSat</button></a>
-    <hr>
-  </p>
-  <h1>{{ page.title }}</h1>
-  <br>
-</div>
-<div>
+<style>
+  #sgac {
+    background-color: black;
+    color: white}
+</style>
 <div>
   <img src="/Space/SGAC/banner.jpg" style="width: 100%">
 
