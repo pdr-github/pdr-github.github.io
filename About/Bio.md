@@ -1,19 +1,13 @@
 ---
-layout: default
+layout: aboutpost
 title: Bio
 ---
 
-<div class="aboutpost">
-	<h1 class="aboutpost-title" align="center">[About]</h1>
-	<p align="center">
-		<a href="/About/Bio"><button class="button" style="background-color: black; color: white">Bio</button></a>
-		<a href="/About/CV"><button class="button">CV</button></a>
-		<a href="/About/News"><button class="button">News</button></a>
-		<a href="/About/Contact"><button class="button">Contact</button></a>	<hr>
-	</p>
-	<h1 align="center">{{ page.title }}</h1>
-	<br>
-</div>
+<style>
+  #bio {
+    background-color: black;
+    color: white}
+</style>
 <div>
 	<div>
 		<img src="/assets/images/bio.jpg">	
