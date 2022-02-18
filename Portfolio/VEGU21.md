@@ -23,6 +23,6 @@ title: vEGU21
       <img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="Mountains" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
     </div>
   </div>
-  {% include Scripts/simplemodal.md %}
+  {% include Scripts/simplemodal.html %}
 </div>
 
