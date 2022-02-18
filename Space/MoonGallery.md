@@ -1,5 +1,5 @@
 ---
-layout: spacepost
+layout: researchpost
 title: Moon Gallery Project
 ---
 
