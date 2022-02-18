@@ -60,19 +60,35 @@
   </h2>
 </div>
 
-{% include Portfolio/MoonGal/images_thumb.md%}
+<div>
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/nsky.gif" alt="NightSky" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Spirographs/epi_43-58-68.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Spirographs/hypo_123-600-123.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Spirographs/epi_30-100-50.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Spirographs/hypo_33-50-50.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+  </div>
+  {% include Scripts/simplemodal.html %}
+</div>
 
 <p align="center" style="font-size:18px">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gQQS857J43g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-  <span class="close cursor" onclick="closeModal()">&times;</span>
-  <div class="modal-content">
-    {% include Portfolio/MoonGal/images_modal.md%}
-  </div>
-</div>
 
-{% include Scripts/modal.md %}
 {% include Scripts/accordion.md %}
