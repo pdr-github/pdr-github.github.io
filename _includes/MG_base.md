@@ -24,9 +24,7 @@
   <button class="accordion">Exhibition: Moon Gallery</button>
   <div class="panel">
     <p>
-      The ArtMoonMars initiative was setup to highlight the importance of artists with respect to space exploration: as message bearers who convey multiple messages of the community including planetary science, life sciences, astronomy, fundamental research, resources utilisation, human spaceflight, peaceful cooperation, economic development, inspiration, training & capacity building.
-      <br><br>
-      The Moon Gallery, by ArtMoonMars, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these (smart) artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
+      The Moon Gallery, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these (smart) artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
       <br><br>
       The main team involves Anna Sitnikova (curator, exhibition designer), Elizaveta Glukhova (curator, graphic designer), Bernard Foing (space sector expert and visionary), and Alexander Zaklynsky (gallery founder).
       <br><br>
