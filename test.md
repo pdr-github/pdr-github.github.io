@@ -7,19 +7,19 @@ title:
   <div class="row">
     <div class="column">
       <img src="/Portfolio/Origami/butterflygoround.jpg" alt="Butterflies" style="width:100%"
-        onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+        onclick="onClick(this)" class="hover-shadow cursor">
     </div>
     <div class="column">
       <img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" 
-        onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+        onclick="onClick(this)" class="hover-shadow cursor">
     </div>
     <div class="column">
       <img src="/Portfolio/Origami/orchid.jpg" alt="Orchid" style="width:100%"
-        onclick="openModal();currentSlide(3)" class="hover-shadow cursor">    
+        onclick="onClick(this)" class="hover-shadow cursor">    
     </div>
     <div class="column">
       <img src="/Portfolio/Origami/lamp.jpg" alt="Lamp" style="width:100%"
-        onclick="openModal();currentSlide(4)" class="hover-shadow cursor">    
+        onclick="onClick(this)" class="hover-shadow cursor">    
     </div>
   </div>
   <!-- The Modal -->
@@ -27,20 +27,11 @@ title:
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
       <div class="mySlides">
-        <img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" >
-      </div>
-      <div class="mySlides">
-        <img src="/Portfolio/Origami/butterflygoround.jpg" alt="Butterflies" style="width:100%">
-      </div>
-      <div class="mySlides">
-        <img src="/Portfolio/Origami/orchid.jpg" alt="Orchid" style="width:100%">   
-      </div>
-      <div class="mySlides">
-        <img src="/Portfolio/Origami/lamp.jpg" alt="Lamp" style="width:100%">   
+        <img id="img1" style="width:100%">   
       </div>
     </div>
   </div>
-  {% include Scripts/modal.md %}
+  {% include Scripts/simplemodal.md %}
 </div>
 
 
