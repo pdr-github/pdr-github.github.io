@@ -1,6 +1,6 @@
 <!-- The Modal -->
 <div id="myModal" class="modal">
-  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <span class="close cursor" onclick="this.style.display='none'">&times;</span>
   <div class="modal-content">
     <div class="mySlides">
       <img id="myImage" style="width:100%">   
@@ -9,9 +9,9 @@
 </div>
 
 <script>
-function onClick(element) {
-  document.getElementById("myImage").src = element.src;
-  document.getElementById("myModal").style.display = "block";
-  document.getElementsByClassName("mySlides").style.display = "block";
-}
+  function onClick(element) {
+    document.getElementById("myImage").src = element.src;
+    document.getElementById("myModal").style.display = "block";
+    document.getElementsByClassName("mySlides").style.display = "block";
+  }
 </script>
