@@ -4,6 +4,3 @@ title:
 ---
 
 <img src="/Portfolio/Spirographs/epi_43-58-68.gif" style="width: 100%">
-<div align="center">
-	<a href="/Portfolio/MoonGallery"><i>Curious about this image?</i></a>
-</div>
