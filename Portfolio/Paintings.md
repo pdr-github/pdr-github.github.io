@@ -1,18 +1,13 @@
 ---
-layout: default
-title: Paintings & Illustrations
+layout: artpost
+title: Illustrations
 ---
 
-<div class="artpost" align="center">
-	<h1 class="artpost-title">[Art Portfolio]</h1>
-	<a href="/Portfolio/MoonGallery"><button class="button">Moon Gallery Project</button></a>
-	<a href="/Portfolio/Paintings"><button class="button" style="background-color: black; color: white">Paintings & Illustrations</button></a>
-	<a href="/Portfolio/GraphicDes"><button class="button">Graphic Design</button></a>
-	<a href="/Portfolio/Origami"><button class="button">Origami</button></a>
-	<hr>
-	<h1>{{ page.title }}</h1>
-	<br>
-</div>
+<style>
+	#illustrations {
+		background-color: black;
+		color: white}
+</style>
 <div>
 	{% include Portfolio/Paintings/images_thumb.md%}
 	<!-- The Modal -->
