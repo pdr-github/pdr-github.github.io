@@ -9,13 +9,19 @@ title: Origami
 		color: white}
 </style>
 <div>
-	{% include Portfolio/Origami/images_thumb.md%}
-	<!-- The Modal -->
-	<div id="myModal" class="modal">
-	  <span class="close cursor" onclick="closeModal()">&times;</span>
-	  <div class="modal-content">
-	    {% include Portfolio/Origami/images_modal.md%}   
-	  </div>
-	</div>
-	{% include Scripts/modal.md %}
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Origami/butterflygoround.jpg" alt="Butterflies" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Origami/orchid.jpg" alt="Orchid" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Origami/lamp.jpg" alt="Lamp" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+  </div>
+  {% include Scripts/simplemodal.html %}
 </div>
