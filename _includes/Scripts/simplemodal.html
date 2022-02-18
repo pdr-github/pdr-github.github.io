@@ -1,22 +1,19 @@
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<div id="newModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    <div class="mySlides">
-      <img id="myImage" style="width:100%">   
-    </div>
+    <img id="thisImage" style="width:100%">   
   </div>
 </div>
 
 <script>
   function onClick(element) {
-    document.getElementById("myImage").src = element.src;
-    document.getElementById("myModal").style.display = "block";
-    document.getElementsByClassName("mySlides").style.display = "block";
+    document.getElementById("thisImage").src = element.src;
+    document.getElementById("newModal").style.display = "block";
   }
 
   function closeModal() {
-    document.getElementById("myModal").style.display = "none";
+    document.getElementById("newModal").style.display = "none";
   }
 
 </script>
