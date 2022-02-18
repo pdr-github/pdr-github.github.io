@@ -9,13 +9,21 @@ title: Graphic Design
 		color: white}
 </style>
 <div>
-	{% include Portfolio/GraphicDes/images_thumb.md%}
-	<!-- The Modal -->
-	<div id="myModal" class="modal">
-	  <span class="close cursor" onclick="closeModal()">&times;</span>
-	  <div class="modal-content">
-	    {% include Portfolio/GraphicDes/images_modal.md%}   
-	  </div>
-	</div>
-	{% include Scripts/modal.md %}
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Commissions/sgac_greeting2021.png" alt="SGAC Greeting Card 2021" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/echo2012.jpg" alt="Physics society poster" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+  </div>
+  {% include Scripts/simplemodal.html %}
 </div>
+
