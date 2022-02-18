@@ -42,7 +42,8 @@
     “Star Cities/Organised Worlds” was featured by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a> (sector E).
     <br><br>
     <p align="center">
-      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-artspaceship.jpg" style="width: 50%"> </a>
+      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-spaceship.jpg" style="width: 50%"> </a>
+      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-work.jpg" style="width: 50%"> </a>
     </p>
     <br><br>
   </div>
