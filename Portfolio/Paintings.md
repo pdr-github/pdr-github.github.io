@@ -9,14 +9,28 @@ title: Illustrations
 		color: white}
 </style>
 <div>
-	{% include Portfolio/Paintings/images_thumb.md%}
-	<!-- The Modal -->
-	<div id="myModal" class="modal">
-	  <span class="close cursor" onclick="closeModal()">&times;</span>
-	  <div class="modal-content">
-	    {% include Portfolio/Paintings/images_modal.md%}   
-	  </div>
-	</div>
-	{% include Scripts/modal.md %}
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/Paintings/peacock.jpg" alt="Peacock Moon" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Digital/astro.jpg" alt="Astro" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Digital/drown-arise.jpg" alt="Drown Arise" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Paintings/taj.jpg" alt="Taj Mahal" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Sketches/pont.jpg" alt="Pont neuf Toulouse" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Paintings/yosm.jpg" alt="Yosemite" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Sketches/mum.jpg" alt="Mother and Daughter" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Sketches/toul.jpg" alt="Toulouse" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Sketches/vers.jpg" alt="Versailles gardens" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Paintings/adieu.jpg" alt="Yosemite" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Paintings/yasmina-sis.jpg" alt="Portrait of an old lady" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Sketches/face.jpg" alt="Charcoal and face" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/Paintings/anu.jpg" alt="Girl with puppy" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+    </div>
+  </div>
+  {% include Scripts/simplemodal.html %}
 </div>
-
