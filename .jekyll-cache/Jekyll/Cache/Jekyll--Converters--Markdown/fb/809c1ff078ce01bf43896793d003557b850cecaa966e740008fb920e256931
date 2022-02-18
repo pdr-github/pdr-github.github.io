@@ -1,0 +1,66 @@
+I"å<style>
+	#origami {
+		background-color: black;
+		color: white}
+</style>
+
+<div>
+	<div class="row">
+	<div class="column">
+		<img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Origami/butterflygoround.jpg" alt="Butterflies" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" />
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Origami/orchid.jpg" alt="Orchid" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" />		
+	</div>
+	<div class="column">
+		<img src="/Portfolio/Origami/lamp.jpg" alt="Lamp" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" />		
+	</div>
+</div>
+
+	<!-- The Modal -->
+	<div id="myModal" class="modal">
+	  <span class="close cursor" onclick="closeModal()">&times;</span>
+	  <div class="modal-content">
+	    <div class="mySlides">
+	<img src="/Portfolio/Origami/dragon.jpg" alt="Dragon" style="width:100%" />
+</div>
+<div class="mySlides">
+	<img src="/Portfolio/Origami/butterflygoround.jpg" alt="Butterflies" style="width:100%" />
+</div>
+<div class="mySlides">
+	<img src="/Portfolio/Origami/orchid.jpg" alt="Orchid" style="width:100%" />		
+</div>
+<div class="mySlides">
+	<img src="/Portfolio/Origami/lamp.jpg" alt="Lamp" style="width:100%" />		
+</div>   
+	  </div>
+	</div>
+	<script>
+  function openModal() {
+    document.getElementById("myModal").style.display = "block";
+  }
+
+  function closeModal() {
+    document.getElementById("myModal").style.display = "none";
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slides[slideIndex-1].style.display = "block";
+  }
+</script>
+
+</div>
+:ET
