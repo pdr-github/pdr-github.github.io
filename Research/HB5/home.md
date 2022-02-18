@@ -3,6 +3,11 @@ layout: researchpost
 title: Upcoming voyage to Antarctica!
 ---
 
+<style>
+  #hb5 {
+    background-color: black;
+    color: white}
+</style>
 <div align="center">
   <i>Due to the current COVID19 pandemic situation, the voyage has been postponed to 2022.</i>
 </div>
