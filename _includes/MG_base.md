@@ -45,7 +45,7 @@
     <p align="center">
       <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-spaceship.jpg" style="width: 100%"> </a>
     </p>
-    <br><br>
+    <br>
     <i>"The Digital era has transformed the very essence of the way we live, as well as our perception of materiality and space. Art as a reflection of the changes in society gave momentum to a new medium of expression – digital art. Now we are on the verge of a new, space era, where intangible and technological digital art is assonant with the development of humankind. Like the golden disk sent to extraterrestrial civilizations with Voyager in 1977, we will send a new message to the Universe.</i>
     <br><br>
     <i>Ancestors watched the starry sky and created legends, which lived on up to the present. Now we are creating a new symbol of the art of the future – the digital Art Spaceship, that will bring art to new horizons."</i>
