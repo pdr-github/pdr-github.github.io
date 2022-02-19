@@ -21,7 +21,7 @@
       <br><br>
     </p>
   </div>
-  <button class="accordion">Exhibition: Moon Gallery</button>
+  <button class="accordion">About: Moon Gallery</button>
   <div class="panel">
     <p>
       The Moon Gallery, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these (smart) artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
@@ -30,6 +30,9 @@
       <br><br>
       <i>Bhedadīpikā</i> was selected as part of the Moon Gallery in 2019 and is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/"> a visual dialogue</a> based on the artist's own duality - as an artist as well as researcher. For more information on the Moon Gallery Project, please visit their <a href="http://www.moongallery.eu/"> website</a>. You can support the first mission to the ISS by donating <a href="https://www.moongallery.eu/donation/"> here</a>.
     </p>
+  </div>
+  <button class="accordion">Exhibition: International Space Station</button>
+  <div class="panel">
     <p>
       The Moon Gallery is <a href="https://moongallery.eu/wp-content/uploads/2022/02/Moon_Gallery-ISS-press-release.pdf">launching to the ISS</a> on February 19, 2022. Join us for the live launch <a href="https://meet.google.com/xhy-eeyt-rhx?pli=1">here</a>.
     </p>
@@ -37,11 +40,13 @@
   <button class="accordion">Exhibition: V-Art Digital #ArtSpaceship</button>
   <div class="panel">
     <br>
-    “Star Cities/Organised Worlds” was featured by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a> (sector E).
+    “Star Cities/Organised Worlds” was featured, among 21 works chosen over 200+ submissions, by the <a href="https://v-art.digital/artspaceship/"> V-Art Digital #ArtSpaceship Exhibition </a> (sector E).
     <br><br>
+    <i>"The Digital era has transformed the very essence of the way we live, as well as our perception of materiality and space. Art as a reflection of the changes in society gave momentum to a new medium of expression – digital art. Now we are on the verge of a new, space era, where intangible and technological digital art is assonant with the development of humankind. Like the golden disk sent to extraterrestrial civilizations with Voyager in 1977, we will send a new message to the Universe.</i>
+    <br><br>
+    <i>Ancestors watched the starry sky and created legends, which lived on up to the present. Now we are creating a new symbol of the art of the future – the digital Art Spaceship, that will bring art to new horizons."</i>
     <p align="center">
-      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-spaceship.jpg" style="width: 45%"> </a>
-      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-work.jpg" style="width: 45%"> </a>
+      <a href="https://v-art.digital/artspaceship/"> <img src="/Portfolio/MoonGal/v-art-spaceship.jpg" style="width: 100%"> </a>
     </p>
     <br><br>
   </div>
@@ -51,7 +56,6 @@
     <br><br>
   </div>
 </div>
-
 <div align="center">
   <h2>
     Gallery | Discover Bhedadīpikā
