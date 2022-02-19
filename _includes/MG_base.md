@@ -64,10 +64,9 @@
       <img src="/Portfolio/MoonGal/cube.jpg" alt="Cube" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
       <img src="/Portfolio/MoonGal/hand.jpg" alt="Light and Darkness" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
       <img src="/Portfolio/MoonGal/moon.jpg" alt="Moon" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
-      <img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
     </div>
     <div class="column">
-      <img src="/Portfolio/MoonGal/hypo.jpg" alt="Hypo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
+      <img src="/Portfolio/MoonGal/phases.jpg" alt="Phases" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
       <img src="/Portfolio/MoonGal/sup.gif" alt="Supernova" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
       <img src="/Portfolio/MoonGal/glit.gif" alt="NightSky2" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor">
     </div>
