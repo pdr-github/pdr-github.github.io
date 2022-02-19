@@ -36,6 +36,17 @@
     <p>
       The Moon Gallery is <a href="https://moongallery.eu/wp-content/uploads/2022/02/Moon_Gallery-ISS-press-release.pdf">launching to the ISS</a> on February 19, 2022. Join us for the live launch <a href="https://meet.google.com/xhy-eeyt-rhx?pli=1">here</a>.
     </p>
+    <h3>ISS Mission</h3>
+    <p>
+      The Moon Gallery consiting of 64 artworks in total on an 8x8 grid will be installed inside a Nanoracks Nanolab, serving as moving targets for camera observations and performance tests. The gallery offers a diverse range of materials and behaviours for the camera to detect, and in return, the artists will get a chance to learn about the performance of their artworks in microgravity.
+      <br>
+      <br> Launch date: February 19, 2022
+      <br> Spacecraft Mission: NG-17 Cygnus Cargo Resupply Mission
+      <br> Launch Vehicle: NG Antares
+      <br> Liftoff: 12:39 p.m. EST (17:39 GMT / 18:39 CET)
+      <br> ISS Capture: February 21, 2022, 4:35am EST (0935 GMT / 1035 CET)
+      <br> Mission duration: 10 months
+    </p>
   </div>
   <button class="accordion">Exhibition: V-Art Digital #ArtSpaceship</button>
   <div class="panel">
