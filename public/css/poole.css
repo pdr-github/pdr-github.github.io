@@ -517,11 +517,15 @@ a.pagination-item:hover {
 }
 
 .panel {
-  padding: 0 18px;
+  padding: 0 1rem;
   background-color: white;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+
+.panelcontent {
+  padding: 1rem 0;
 }
 
 /* List ol */
