@@ -5,7 +5,7 @@ title: Bio
 
 <style>
   #bio {
-    background-color: black;
+    background-color: var(--sidebarblue);
     color: white}
 </style>
 <div>
