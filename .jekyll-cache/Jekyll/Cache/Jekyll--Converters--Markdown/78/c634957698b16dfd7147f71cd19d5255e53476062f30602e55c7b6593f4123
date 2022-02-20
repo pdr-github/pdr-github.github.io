@@ -1,0 +1,43 @@
+I"=<style>
+	#vegu21 {
+		background-color: black;
+		color: white}
+</style>
+
+<div>
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/Commissions/egu21_mountains.jpg" alt="Mountains" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/egu21_chime.jpg" alt="Chime" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/egu21_aq-india.jpg" alt="AQ India" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/egu21_aq-africa.jpg" alt="AQ Africa" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+  </div>
+  <!-- The Modal -->
+<div id="newModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <img id="thisImage" style="width:100%" />   
+  </div>
+</div>
+
+<script>
+  function onClick(element) {
+    document.getElementById("thisImage").src = element.src;
+    document.getElementById("newModal").style.display = "block";
+  }
+
+  function closeModal() {
+    document.getElementById("newModal").style.display = "none";
+  }
+
+</script>
+</div>
+
+:ET
