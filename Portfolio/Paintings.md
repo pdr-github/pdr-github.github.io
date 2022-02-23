@@ -3,11 +3,7 @@ layout: artpost
 title: Illustrations
 ---
 
-<style>
-	#illustrations {
-		background-color: black;
-		color: white}
-</style>
+<script> actbtn("btnillustrations") </script>
 <div>
   <div class="row">
     <div class="column">

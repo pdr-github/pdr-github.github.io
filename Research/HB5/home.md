@@ -3,11 +3,7 @@ layout: researchpost
 title: Upcoming voyage to Antarctica!
 ---
 
-<style>
-  #hb5 {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btnhb5") </script>
 <div align="center">
   <i>Due to the current COVID19 pandemic situation, the voyage has been postponed until a suitable moment.</i>
 </div>

@@ -1,0 +1,25 @@
+I"Î<div>
+	<img src="/assets/images/contact.jpg" style="width: 100%" />
+	<p align="center">
+		Social media handle: @PriyankaSpace
+		<br />
+		<a href="https://twitter.com/priyankaspace?lang=en"> Twitter </a> |
+		<a href="https://www.instagram.com/priyankaspace/"> Instagram </a> |
+		<a href="https://www.linkedin.com/in/priyankaspace/"> LinkedIn </a>
+		<br /><br />
+		Email:
+		<a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.space</a>
+	</p>
+</div>
+<script>
+  function actbtn(btnid){
+    document.getElementById(btnid).style.backgroundColor = "var(--sidebarbluelight)";
+    document.getElementById("contact").style.color = "white";
+  }
+</script>
+
+<script>
+	const ab = actbtn("contact")
+</script>
+
+:ET

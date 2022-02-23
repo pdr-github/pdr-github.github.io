@@ -3,11 +3,7 @@ layout: researchpost
 title: The Exploration Company
 ---
 
-<style>
-  #tec {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btntec") </script>
 <div align="center">
   For more information, check our <a href="https://exploration.space/"> website</a> and <a href="https://www.linkedin.com/company/exploration-company/"> LinkedIn</a>.
 </div>

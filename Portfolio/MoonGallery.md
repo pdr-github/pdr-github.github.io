@@ -3,11 +3,7 @@ layout: artpost
 title: Moon Gallery Project
 ---
 
-<style>
-	#moongal {
-		background-color: black;
-		color: white}
-</style>
+<script> actbtn("btnmoongal") </script>
 <div>
 	{% include MG_base.md %}
 </div>

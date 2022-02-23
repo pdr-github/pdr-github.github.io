@@ -3,11 +3,7 @@ layout: artpost
 title: Graphic Design
 ---
 
-<style>
-	#graphdes {
-		background-color: black;
-		color: white}
-</style>
+<script> actbtn("btngraphdes") </script>
 <div>
   <div class="row">
     <div class="column">

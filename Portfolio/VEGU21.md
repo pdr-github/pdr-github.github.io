@@ -3,11 +3,7 @@ layout: artpost
 title: vEGU21
 ---
 
-<style>
-	#vegu21 {
-		background-color: black;
-		color: white}
-</style>
+<script> actbtn("btnvegu21") </script>
 <div>
   <div class="row">
     <div class="column">

@@ -3,11 +3,7 @@ layout: researchpost
 title: X-CubeSat
 ---
 
-<style>
-  #xcubesat {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btnxcubesat") </script>
 <div>
   <img src="/Space/Cubesat/x-cubesat.jpg" alt="X-CubeSat">
 

@@ -3,11 +3,7 @@ layout: researchpost
 title: Ph.D. Research (GNSS)
 ---
 
-<style>
-  #phd {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btnphd") </script>
 <div>
   <img src="/assets/images/gnss_art.png" style="width:100%">
 

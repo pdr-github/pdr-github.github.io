@@ -3,11 +3,7 @@ layout: aboutpost
 title: Contact
 ---
 
-<style>
-  #contact {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btncontact") </script>
 <div>
 	<img src="/assets/images/contact.jpg" style="width: 100%">
 	<p align="center">
@@ -17,10 +13,7 @@ title: Contact
 		<a href="https://www.instagram.com/priyankaspace/"> Instagram </a> |
 		<a href="https://www.linkedin.com/in/priyankaspace/"> LinkedIn </a>
 		<br><br>
-		Emails: 
-		<br>
-		Work: <a href="mailto:priyanka@exploration.space">priyanka@exploration.space</a>
-		<br>
-		Personal: <a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.space</a>
+		Email:
+		<a href="mailto:contact@PriyankaRajkakati.Space">contact@PriyankaRajkakati.space</a>
 	</p>
 </div>

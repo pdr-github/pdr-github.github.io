@@ -9,7 +9,11 @@
 		<li> 
 			E. Glukhova, A. Sitnikova, B. H. Foing, <b>P. Rajkakati</b>
 			“Moon Gallery - The best visions for the future Moon Culture”.
-			<i> International Astronautical Congress (IAC CyberSpace edition) (October, 2020) </i>
+			<i> International Astronautical Congress (IAC CyberSpace edition) (October 2020) </i>
+		</li>
+		<li> 
+			<b>P. Rajkakati</b> "Bhedadipika: An illustation of Duality. 
+			<i> European Planetary Science Congress 2019, Geneva, Switzerland (September 2021) </i>
 		</li>
 	</ol>
 	

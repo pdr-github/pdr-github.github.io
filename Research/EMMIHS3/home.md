@@ -3,11 +3,7 @@ layout: researchpost
 title: EMMIHS Analogue-Mission
 ---
 
-<style>
-  #emmihs3 {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btnemmihs3") </script>
 <div>
   <img src="/Space/EMMIHS3/astrofinalEVA.jpg" alt="Priyanka Analogue astronaut">
   <body>

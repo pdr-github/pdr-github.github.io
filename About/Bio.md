@@ -3,11 +3,7 @@ layout: aboutpost
 title: Bio
 ---
 
-<style>
-  #bio {
-    background-color: var(--sidebarblue);
-    color: white}
-</style>
+<script> actbtn("btnbio") </script>
 <div>
 	<div>
 		<img src="/assets/images/bio.jpg">	

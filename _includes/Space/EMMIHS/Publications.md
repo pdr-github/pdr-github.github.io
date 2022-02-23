@@ -2,6 +2,11 @@
 	<h3>Conferences</h3>
 	<ol>
 		<li> 
+			<b>P. Rajkakati</b>, B. H. Foing, M. V. Heemskerk.
+			“Experience and lessons learnt as crew-commander-in-training for EMMIHS-III lunar-analogue simulation”. 
+			<i> 72nd International Astronautical Congress, Dubai (October 2021) </i>
+		</li>
+		<li> 
 			<b>P. Rajkakati</b>, B. H. Foing, M. Musilova, M. V. Heemskerk.
 			“EMMIHS-III: EuroMoonMars, International MoonBase Alliance and HI-SEAS simulation campaign outcomes”. 
 			<i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>

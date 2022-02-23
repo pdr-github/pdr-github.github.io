@@ -1,0 +1,40 @@
+I"Ö<script> actbtn("btngraphdes") </script>
+
+<div>
+  <div class="row">
+    <div class="column">
+      <img src="/Portfolio/Commissions/emm3.jpg" alt="EMMIHS-III logo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/shaurya.jpg" alt="Shaurya Foundation logo" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+      <img src="/Portfolio/Commissions/sgac_greeting2021.png" alt="SGAC Greeting Card 2021" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/echo2012.jpg" alt="Physics society poster" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+    <div class="column">
+      <img src="/Portfolio/Commissions/ogl.jpg" alt="Our Giant Leap poster" style="width:100%" onclick="onClick(this)" class="hover-shadow cursor" />
+    </div>
+  </div>
+  <!-- The Modal -->
+<div id="newModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <img id="thisImage" style="width:100%" />   
+  </div>
+</div>
+
+<script>
+  function onClick(element) {
+    document.getElementById("thisImage").src = element.src;
+    document.getElementById("newModal").style.display = "block";
+  }
+
+  function closeModal() {
+    document.getElementById("newModal").style.display = "none";
+  }
+
+</script>
+</div>
+
+:ET

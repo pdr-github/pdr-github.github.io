@@ -145,6 +145,11 @@ h1, h2, h3, h4, h5, h6 {
   --sidebarbluelight: #333333;
 }
 
+.activebutton {
+    background-color: var(--sidebarbluelight);
+    color: white  
+}
+
 
 /* Style and "hide" the sidebar */
 .sidebar {

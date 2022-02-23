@@ -3,11 +3,7 @@ layout: aboutpost
 title: CV
 ---
 
-<style>
-  #cv {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btncv") </script>
 <div>
   <img src="/assets/images/astrofinalEVA_cut.jpg" style="width: 100%">
 

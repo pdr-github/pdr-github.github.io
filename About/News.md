@@ -3,11 +3,7 @@ layout: aboutpost
 title: Press
 ---
 
-<style>
-  #press {
-    background-color: black;
-    color: white}
-</style>
+<script> actbtn("btnpress") </script>
 <div>
 
   <img src="/assets/images/contact.jpg" style="width: 100%">

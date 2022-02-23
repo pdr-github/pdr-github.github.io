@@ -1,4 +1,4 @@
-I"G<style>
+I"gG<style>
   #cv {
     background-color: black;
     color: white}
@@ -222,7 +222,8 @@
     <button class="accordion"> Publications </button>
     <div class="panel"> <br />
       <div>
-	<a href="https://scholar.google.com/citations?hl=en&amp;user=fdHnyXEAAAAJ">Google Scholar Profile</a>
+	<a href="https://scholar.google.com/citations?hl=en&amp;user=fdHnyXEAAAAJ">Google Scholar</a>
+	| <a href="https://www.researchgate.net/profile/Priyanka-Rajkakati">ResearchGate</a>
 </div>
 <div>
 	<h2> PhD Research </h2>

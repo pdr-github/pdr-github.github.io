@@ -3,11 +3,7 @@ layout: artpost
 title: Origami
 ---
 
-<style>
-	#origami {
-		background-color: black;
-		color: white}
-</style>
+<script> actbtn("btnorigami") </script>
 <div>
   <div class="row">
     <div class="column">
