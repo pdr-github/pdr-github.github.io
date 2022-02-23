@@ -1,5 +1,6 @@
 <div>
-	<a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar Profile</a>
+	<a href="https://scholar.google.com/citations?hl=en&user=fdHnyXEAAAAJ">Google Scholar</a>
+	| <a href="https://www.researchgate.net/profile/Priyanka-Rajkakati">ResearchGate</a>
 </div>
 <div>
 	<h2> PhD Research </h2>
