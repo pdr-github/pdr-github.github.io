@@ -30,6 +30,7 @@
   <div class="panel">
     <div class="panelcontent">
       {% include Space/MoonGal/Publications.md%}
+      <br>
       <p align="center">
         <img src="/Portfolio/MoonGal/presentingesa.jpg" style="width: 100%">
       </p>
