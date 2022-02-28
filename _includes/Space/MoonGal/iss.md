@@ -1,5 +1,5 @@
 <p>
-  The Moon Gallery <a href="https://www.youtube.com/watch?v=Qo6rYN8kxMM"> launched to the ISS </a> on February 19, 2022.
+  The Moon Gallery launched to the ISS </a> on February 19, 2022. Wtach the <a href="https://www.youtube.com/watch?v=JykaTD-iKQ8&t=1686s"> launch recording here. </a>
 </p>
 <h3>Mission</h3>
 <p>
@@ -11,7 +11,7 @@
 <h3>Launch</h3>
 <p>
   <br> <b> Launch date: </b> February 19, 2022
-  <br> <b> Spacecraft Mission: </b> NG-17 Cygnus Cargo Resupply Mission
+  <br> <b> Spacecraft Mission: </b> <a href="https://www.northropgrumman.com/wp-content/uploads/NG-17-Mission-Profile-Handout.pdf"> NG-17 Cygnus Cargo Resupply Mission </a>
   <br> <b> Launch Vehicle: </b> NG Antares
   <br> <b> Liftoff: </b> 12:39 p.m. EST (17:39 GMT / 18:39 CET)
   <br> <b> ISS Capture: </b> February 21, 2022, 4:35am EST (0935 GMT / 1035 CET)
