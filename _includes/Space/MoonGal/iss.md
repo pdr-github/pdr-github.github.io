@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/p/CZkIKlmFY8e/">Source</a>
 </p>
 <p>
-  The Moon Gallery launched to the ISS </a> on February 19, 2022. Wtach the <a href="https://www.youtube.com/watch?v=JykaTD-iKQ8&t=1686s"> launch recording here. </a>
+  The Moon Gallery launched to the ISS on February 19, 2022. Wtach the <a href="https://www.youtube.com/watch?v=JykaTD-iKQ8&t=1686s"> launch recording here. </a>
 </p>
 <h3>Mission</h3>
 <p>
