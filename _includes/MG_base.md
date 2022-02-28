@@ -2,6 +2,9 @@
   <button class="accordion">Artwork: Bhedadīpikā - An Illustration of Duality</button>
   <div class="panel">
     <div class="panelcontent">
+      <p align="center">
+        <img src="/Portfolio/MoonGal/bhedadipika.png" style="width: 100%">
+      </p>
       {% include Space/MoonGal/artwork.md%}      
     </div>
   </div>
@@ -26,13 +29,13 @@
   <button class="accordion">Publications</button>
   <div class="panel">
     <div class="panelcontent">
+      {% include Space/MoonGal/Publications.md%}
       <p align="center">
         <img src="/Portfolio/MoonGal/presentingesa.jpg" style="width: 100%">
       </p>
       <p align="center">
-        <i> Presentation during the ArtMoonMars workshop at ESA ESTEC, 2019 </i>
+        <i> Presentation during the ArtMoonMars workshop at ESA ESTEC, The Netherlands, 2019 </i>
       </p>
-      {% include Space/MoonGal/Publications.md%}
     </div>
   </div>
 </div>
