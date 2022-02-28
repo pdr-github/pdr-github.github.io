@@ -29,6 +29,9 @@
       <p align="center">
         <img src="/Portfolio/MoonGal/presentingesa.jpg" style="width: 100%">
       </p>
+      <p align="center">
+        <i> Presentation during the ArtMoonMars workshop at ESA ESTEC, 2019 </i>
+      </p>
       {% include Space/MoonGal/Publications.md%}
     </div>
   </div>
