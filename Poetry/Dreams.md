@@ -1,21 +1,9 @@
 ---
-layout: default
+layout: poetrypost
 title: Dreams
 ---
 
-<div class="poetrypost" align="center">
-	<h1 class="poetrypost-title">[Poetry]</h1>
-	<p>
-		<a href="/Poetry/Mother"><button class="button">Mother</button></a>
-		<a href="/Poetry/Dreams"><button class="button" style="background-color: black; color: white">Dreams</button></a>
-		<a href="/Poetry/Smile"><button class="button">An Elusive smile</button></a>
-		<a href="/Poetry/Adieu"><button class="button">Adieu</button></a>
-		<a href="/Poetry/Drowning"><button class="button">Drowning</button></a>
-		<hr>
-	</p>
-	<h1>{{ page.title }}</h1>
-	<br>
-</div>
+<script> actbtn("btndreams") </script>
 <div>
 <pre>
 I feel not tired, nothing aches to sleep.
