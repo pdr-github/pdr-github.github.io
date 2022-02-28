@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/Portfolio/MoonGal/presentingesa.jpg" style="width: 100%">
-</p>
-
 <div>
   <button class="accordion">Artwork: Bhedadīpikā - An Illustration of Duality</button>
   <div class="panel">
@@ -30,6 +26,9 @@
   <button class="accordion">Publications</button>
   <div class="panel">
     <div class="panelcontent">
+      <p align="center">
+        <img src="/Portfolio/MoonGal/presentingesa.jpg" style="width: 100%">
+      </p>
       {% include Space/MoonGal/Publications.md%}
     </div>
   </div>
@@ -40,7 +39,6 @@
   </h2>
   {% include Space/MoonGal/thumbs.md%}
 </div>
-
 
 <p align="center" style="font-size:18px">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gQQS857J43g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
