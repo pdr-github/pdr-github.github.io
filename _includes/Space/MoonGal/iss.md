@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/Portfolio/MoonGal/moongallery_final.png" style="width: 45%">
-  <img src="/Portfolio/MoonGal/moongallery_nanolab.png" style="width: 45%">
+  <img src="/Portfolio/MoonGal/moongallery_final.png" style="width: 100%">
+  <img src="/Portfolio/MoonGal/moongallery_nanolab.png" style="width: 100%">
 </p>
 <p align="center">
   <a href="https://www.instagram.com/p/CZkIKlmFY8e/">Source</a>
@@ -23,6 +23,10 @@
   <br> <b> Liftoff: </b> 12:39 p.m. EST (17:39 GMT / 18:39 CET)
   <br> <b> ISS Capture: </b> February 21, 2022, 4:35am EST (0935 GMT / 1035 CET)
   <br> <b> Mission duration: </b> 10 months
+</p>
+<h3>First view from the ISS</h3>
+<p>
+  <img src="/Portfolio/MoonGal/cupola.jpg" style="width: 100%">
 </p>
 <h3>Experiments</h3>
 <p>
