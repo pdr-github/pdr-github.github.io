@@ -11,7 +11,3 @@
   </ul>
   The animated images are part of a series of algorithmic art titled “Star Cities/Organised Worlds”. These images are created by randomly generated points, but which are constrained to appear on a path defined by equations of <b>epitrochoids and hypotrochoids</b> of various parameters. An epitrochoid or hypotrochoid basically describes the path traced by a spirograph, and is one of the fundamental curves depicting movement in Nature: from celestial orbits to rolling objects. They instill a sense of harmony in the spectator, as the form is naturally pleasing to the eye. The artist imagines that if intelligent life were able to manipulate the formation of galaxies, it would exploit the humble hypotrochoid for inspiration for harmonious forms.
 </p>
-<p>
-  <h3>Star Cities / Organised Worlds</h3>
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/688182964?h=c87417cfb5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PriyankaRajkakati_StarCities"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-</p>
