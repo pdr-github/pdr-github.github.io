@@ -5,7 +5,7 @@ title: X-CubeSat
 
 <script> actbtn("btnxcubesat") </script>
 <div>
-  <img src="/Space/Cubesat/x-cubesat.jpg" alt="X-CubeSat">
+  <img src="/images/x-cubesat.jpg" alt="X-CubeSat">
 
   <button class="accordion">X-CubeSat Project</button>
   <div class="panel">
