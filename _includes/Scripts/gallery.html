@@ -1,0 +1,19 @@
+{% include Scripts/modal.html %}
+
+<div id="gal" class="gridphotos">
+</div>
+
+<script>
+  function createGalleryThumb(img_src, heading, text, medium, year){
+    var img = document.createElement('img');
+    img.src = img_src;
+    img.className = "hover-shadow cursor"
+    text = "<b> Description </b> : " + text + "<br><br>" + "<b> Medium </b> : " + medium + "&emsp;&emsp;&emsp;<b> Year </b> : " + year 
+
+    img.onclick = function() {
+          openModel(img_src, heading, text);
+    };
+    document.getElementById('gal').appendChild(img);
+  }
+
+</script>

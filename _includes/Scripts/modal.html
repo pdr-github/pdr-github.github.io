@@ -9,21 +9,14 @@
 </div>
 
 <script>
-  function loadThumb(imgName){
-    var txt = document.getElementById(imgName).src;
-    document.getElementById(imgName+'_thm').src = txt;  
-  }
-</script>
-
-<script>
-  function onClick2(element, imgID) {
-    document.getElementById("modalImg").src = document.getElementById(imgID).src;
-    document.getElementById("modalHeading").innerHTML = document.getElementById(imgID+'_h').innerHTML;
-    document.getElementById("modalTxt").innerHTML = document.getElementById(imgID+'_p').innerHTML;
+  function openModel(img_src, heading, text) {
+    document.getElementById("modalImg").src = img_src;
+    document.getElementById("modalHeading").innerHTML = heading;
+    document.getElementById("modalTxt").innerHTML = text;
     document.getElementById("displayModal").style.display = "block";
-  }
+  };
 
   function closeModal() {
     document.getElementById("displayModal").style.display = "none";
-  }
+  };
 </script>

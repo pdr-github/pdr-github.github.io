@@ -4,6 +4,8 @@ title: Illustrations
 ---
 
 <script> actbtn("btnillustrations") </script>
+{% include Portfolio/images_illustrations.html %}
+
 <div>
   <div class="row">
     <div class="column">
