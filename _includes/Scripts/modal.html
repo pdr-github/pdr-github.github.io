@@ -9,8 +9,9 @@
 </div>
 
 <script>
-  function openModel(img_src, heading, text) {
+  function openModel(img_src, img_alt, heading, text, ) {
     document.getElementById("modalImg").src = img_src;
+    document.getElementById("modalImg").alt = img_alt;
     document.getElementById("modalHeading").innerHTML = heading;
     document.getElementById("modalTxt").innerHTML = text;
     document.getElementById("displayModal").style.display = "block";

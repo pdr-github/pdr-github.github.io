@@ -7,11 +7,12 @@
   function createSpiroThumb(img_src){
     var img = document.createElement('img');
     img.src = img_src;
+    img_alt = "starcities_sample";
     heading = "Moon Gallery Project";
     text = "Click <a href='/Portfolio/MoonGallery/'> here </a> for more info. <p>";
     img.className = "hover-shadow cursor spirothumb"
     img.onclick = function() {
-          openModel(img_src, heading, text);
+          openModel(img_src, img_alt, heading, text);
     };
     document.getElementById('spiroThm').appendChild(img);
   }

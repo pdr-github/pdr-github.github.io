@@ -4,16 +4,22 @@
 </div>
 
 <script>
-  function createGalleryThumb(img_src, heading, text, medium, year){
+  function createGalleryThumb(img_src, img_alt, heading, text){
     var img = document.createElement('img');
     img.src = img_src;
     img.className = "hover-shadow cursor"
-    text = "<b> Description </b> : " + text + "<br><br>" + "<b> Medium </b> : " + medium + "&emsp;&emsp;&emsp;<b> Year </b> : " + year 
-
     img.onclick = function() {
-          openModel(img_src, heading, text);
+          openModel(img_src, img_alt, heading, text);
     };
     document.getElementById('gal').appendChild(img);
   }
 
 </script>
+
+<script>
+  function artThumb(img_src, img_alt, heading, text, medium, year){
+    text = "<b> Description </b> : " + text + "<br><br>" + "<b> Medium </b> : " + medium + "&emsp;&emsp;&emsp;<b> Year </b> : " + year;
+    createGalleryThumb(img_src, img_alt, heading, text);
+  }
+</script>
+
