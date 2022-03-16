@@ -1,10 +1,10 @@
 ---
 layout: researchpost
-title: 
+title:
 ---
 
-{% include Scripts/modal.html %}
+{% include Scripts/spirothumb.html %}
 
-<div class="blurb">
-  <img src="/Portfolio/Spirographs/epi-hypo.gif" style="width: 100%">
-</div>
+<script>
+  createSpiroThumb("/Portfolio/Spirographs/epi-hypo.gif");
+</script>

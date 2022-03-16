@@ -1,11 +1,3 @@
-<script>
-  function loadThumb(imgName){
-    var txt = document.getElementById(imgName).src;
-    document.getElementById(imgName+'_thm').src = txt;  
-  }
-</script>
-
-
 <!-- The Modal -->
 <div id="displayModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
@@ -15,6 +7,13 @@
     <img id="modalImg" style="width:100%">
   </div>
 </div>
+
+<script>
+  function loadThumb(imgName){
+    var txt = document.getElementById(imgName).src;
+    document.getElementById(imgName+'_thm').src = txt;  
+  }
+</script>
 
 <script>
   function onClick2(element, imgID) {

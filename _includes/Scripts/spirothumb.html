@@ -1,0 +1,35 @@
+{% include Scripts/modal.html %}
+
+<div id="spiroThm">
+</div>
+
+<script>
+  function createSpiroThumb(img_src){
+    var img = document.createElement('img');
+    img.src = img_src;
+    heading = "Moon Gallery Project";
+    text = "Click <a href='/Portfolio/MoonGallery/'> here </a> for more info. <p>";
+    img.className = "hover-shadow cursor spirothumb"
+    img.onclick = function() {
+      document.getElementById("modalImg").src = img.src;
+      document.getElementById("modalHeading").innerHTML = heading;
+      document.getElementById("modalTxt").innerHTML = text;
+      document.getElementById("displayModal").style.display = "block";
+    };    
+    document.getElementById('spiroThm').appendChild(img);
+  }
+
+</script>
+
+<script>
+  function onClick2(element, imgID) {
+    document.getElementById("modalImg").src = document.getElementById(imgID).src;
+    document.getElementById("modalHeading").innerHTML = document.getElementById(imgID+'_h').innerHTML;
+    document.getElementById("modalTxt").innerHTML = document.getElementById(imgID+'_p').innerHTML;
+    document.getElementById("displayModal").style.display = "block";
+  }
+
+  function closeModal() {
+    document.getElementById("displayModal").style.display = "none";
+  }
+</script>

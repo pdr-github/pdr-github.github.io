@@ -3,7 +3,8 @@ layout: artpost
 title:
 ---
 
-<img src="/Portfolio/Spirographs/epi_30-100-50.gif" style="width: 100%">
+{% include Scripts/spirothumb.html %}
 
-
-
+<script>
+  createSpiroThumb("/Portfolio/Spirographs/epi_30-100-50.gif");
+</script>

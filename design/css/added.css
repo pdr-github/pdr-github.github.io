@@ -306,3 +306,8 @@ img.hover-shadow {
 .hide {
   display: none;
 }
+
+.spirothumb {
+  max-height: 600px;
+  margin: auto;
+}
