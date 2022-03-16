@@ -1,0 +1,30 @@
+<script>
+  function loadThumb(imgName){
+    var txt = document.getElementById(imgName).src;
+    document.getElementById(imgName+'_thm').src = txt;  
+  }
+</script>
+
+
+<!-- The Modal -->
+<div id="displayModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <p class="h2" id="modalHeading"></p>
+    <p id="modalTxt"></p>
+    <img id="modalImg" style="width:100%">
+  </div>
+</div>
+
+<script>
+  function onClick2(element, imgID) {
+    document.getElementById("modalImg").src = document.getElementById(imgID).src;
+    document.getElementById("modalHeading").innerHTML = document.getElementById(imgID+'_h').innerHTML;
+    document.getElementById("modalTxt").innerHTML = document.getElementById(imgID+'_p').innerHTML;
+    document.getElementById("displayModal").style.display = "block";
+  }
+
+  function closeModal() {
+    document.getElementById("displayModal").style.display = "none";
+  }
+</script>

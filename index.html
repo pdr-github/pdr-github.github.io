@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
-<div class="blurb">
-	<img src="/Portfolio/Spirographs/ns2.gif" style="width: 100%">
-</div>
+{% include Scripts/modal.html %}
+
+<img class="hide" id="img1" src="/Portfolio/Spirographs/ns2.gif">
+<p class="hide" id="img1_h"> This artwork is now inside the ISS! <p>
+<p class="hide" id="img1_p"> Click <a href="/Portfolio/MoonGallery/"> here </a> for more info. <p>
+
+<img id="img1_thm" style="width:100%" onclick="onClick2(this, 'img1')" class="hover-shadow cursor">
+
+<script>
+  loadThumb("img1");
+</script>
+
