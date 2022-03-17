@@ -1,21 +1,59 @@
-<p align="center">
-  <img src="/Portfolio/MoonGal/moongallery_final.png" style="width: 100%">
-  <img src="/Portfolio/MoonGal/moongallery_nanolab.png" style="width: 100%">
-</p>
-<p align="center">
-  <a href="https://www.instagram.com/p/CZkIKlmFY8e/">Source</a>
-</p>
-<p>
-  The Moon Gallery launched to the ISS on February 19, 2022. Watch the <a href="https://www.youtube.com/watch?v=JykaTD-iKQ8&t=1686s"> launch recording here. </a>
-</p>
+<div id="mg_iss_gal" class="gridphotos">
+  {% include Scripts/smallgallery.html %}
+
+  <script>
+
+    smallGalThumb(
+      gal_id = "mg_iss_gal",
+      img_src = "/Portfolio/MoonGal/moongallery_final.png", 
+      heading = "Moon Gallery Layout", 
+      text = "",
+      );
+  </script>
+
+  <script>
+    smallGalThumb(
+      gal_id = "mg_iss_gal",
+      img_src = "/Portfolio/MoonGal/moongallery_nanolab.png", 
+      heading = "Installation on the Nanoracks Nanolab", 
+      text = "<a href='https://www.instagram.com/p/CZkIKlmFY8e/'>Source</a>",
+      );
+  </script>
+
+  <script>
+    smallGalThumb(
+      gal_id = "mg_iss_gal",
+      img_src = "/Portfolio/MoonGal/mg_iss1.jpg", 
+      heading = "View from the ISS Cupola", 
+      text = "",
+      );
+  </script>
+
+  <script>
+    smallGalThumb(
+      gal_id = "mg_iss_gal",
+      img_src = "/Portfolio/MoonGal/mg_iss3.jpg", 
+      heading = "View from the ISS Cupola", 
+      text = "",
+      );
+  </script>
+</div>
+
 <h3>Mission</h3>
 <p>
-  The Moon Gallery consiting of 64 artworks in total on an 8x8 grid is installed inside a Nanoracks Nanolab, serving as moving targets for camera observations and performance tests. The gallery offers a diverse range of materials and behaviours for the camera to detect, and in return, the artists would get a chance to learn about the performance of their artworks in microgravity.
+  The Moon Gallery was successfully launched to the International Space Station (ISS) on February 19, 2022.
+</p>
+<p>
+  Consiting of 65 artworks in total on an 8x8 grid, the gallery is currently orbiting the Earth within the ISS, installed inside a Nanoracks Nanolab and serving as moving targets for camera observations and performance tests. The gallery offers a diverse range of materials and behaviours for the camera to detect, and in return, the artists would get a chance to learn about the performance of their artworks in microgravity.
   <br><br>
-  Read the <a href="https://moongallery.eu/wp-content/uploads/2022/02/Moon_Gallery-ISS-press-release.pdf"> press release. </a>
+  <a href="https://moongallery.eu/wp-content/uploads/2022/02/Moon_Gallery-ISS-press-release.pdf"> Press release. </a>
   <br>
 </p>
+
 <h3>Launch</h3>
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe src="https://www.youtube.com/embed/JykaTD-iKQ8?start=1379&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Antares Launches NG-17 to Resupply the Space Station"></iframe>
+</div>
 <p>
   <br> <b> Launch date: </b> February 19, 2022
   <br> <b> Spacecraft Mission: </b> <a href="https://www.northropgrumman.com/wp-content/uploads/NG-17-Mission-Profile-Handout.pdf"> NG-17 Cygnus Cargo Resupply Mission </a>

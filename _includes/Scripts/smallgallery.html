@@ -1,0 +1,18 @@
+{% include Scripts/modal.html %}
+
+<!-- WRITE CODE FOR A LOCAL GALLERY
+<div id="smallgal" class="gridphotos">
+</div>
+ -->
+<script>
+  function smallGalThumb(gal_id, img_src, heading, text){
+    var img = document.createElement('img');
+    img.src = img_src;
+    img.className = "hover-shadow cursor"
+    img.onclick = function() {
+          openModel(img_src, heading, heading, text);
+    };
+    document.getElementById(gal_id).appendChild(img);
+  }
+
+</script>
