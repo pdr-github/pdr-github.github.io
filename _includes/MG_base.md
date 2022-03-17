@@ -43,6 +43,7 @@
 <div align="center">
   <h2>
     Gallery | Discover Bhedadīpikā
+  <h3> Moon Gallery Cube </h3>
   </h2>
   {% include Portfolio/images_moongallery.html %}
   <h3> Star Cities / Organized Worlds </h3>
