@@ -25,8 +25,11 @@
   <br> 2019 | <b> #TeamHB5 Homeward Bound Projects (Antarctica) </b>
   <br> 2019 | <b> Artist for the Moon Gallery Project </b>
   <br> 2018 | Runner-up (Startup hackathon), <i>Les Doctoriales 2018, Albi,</i> PhD students' meet
-  <br> 2015 | Participation at (NASA JPL) Caltech Space Challenge 2015
+  <br> 2015 | Selection and participation, Caltech Space Challenge (NASA JPL) 2015
   <br> 2014 | Winner (Paris region) #ActInSpace Hackathon 2014
   <br> 2014 | Gold medal (Badminton), <i>Tournoi Sportif des Grandes Écoles de la Défense</i> (TSGED 2014)
-  <br> 2010 | National Institute of Design, Ahmedabad, India    
+  <br> 2013 | All-India Rank 88 (Physics), Joint Admission tests for Masters in IITs /IISc
+  <br> 2013 | All India Rank 80 (Physics), Joint Entrance Screening Test
+  <br> 2010 | Rank 280, SOF International Maths Olympiad    
+  <br> 2010 | Selection, National Institute of Design, Ahmedabad, India    
 </div>
