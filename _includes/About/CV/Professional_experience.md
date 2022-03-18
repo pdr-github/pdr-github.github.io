@@ -1,5 +1,10 @@
 <p>
-  <b> Co-Founder & GNC Engineer </b> | July 2021 - current <i></i>
+  <b> Art & Business Development Advisor </b> | Current <i></i>
+  <br> The Exploration Company (Germany & France)
+</p>
+
+<p>
+  <b> Co-Founder & GNC Engineer </b> | 2021 - 2022 <i></i>
   <br> The Exploration Company (Germany & France)
 </p>
 
