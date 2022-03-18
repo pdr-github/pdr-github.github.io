@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <b> Co-Founder & GNC Engineer </b> | 2021 - 2022 <i></i> (10 months)
+  <b> Co-Founder & GNC Engineer </b> | 2021 - 2022 <i>(10 months)</i> 
   <br> The Exploration Company (Germany & France)
 </p>
 
