@@ -5,8 +5,6 @@ title: CV
 
 <script> actbtn("btncv") </script>
 <div>
-  <img src="/assets/images/astrofinalEVA_cut.jpg" style="width: 100%">
-
   <body>
     <button class="accordion"> Education </button>
     <div class="panel"> <br>

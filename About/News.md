@@ -5,9 +5,6 @@ title: Press
 
 <script> actbtn("btnpress") </script>
 <div>
-
-  <img src="/assets/images/contact.jpg" style="width: 100%">
-
   <h2>Featured</h2>
   <div> <br>
     {% include About/News/Featured.md %}

@@ -5,7 +5,6 @@ title: Contact
 
 <script> actbtn("btncontact") </script>
 <div>
-	<img src="/assets/images/contact.jpg" style="width: 100%">
 	<p align="center">
 		Social media handle: @PriyankaSpace
 		<br>
