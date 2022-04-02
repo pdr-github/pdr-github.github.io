@@ -13,6 +13,11 @@ title: Press
   <br>
   <h2>News archive</h2>
   <body>
+    <button class="accordion">2022</button>
+    <div class="panel"> <br>
+      {% include About/News/2022.md %}
+      <br>
+    </div>
     <button class="accordion">2021</button>
     <div class="panel"> <br>
       {% include About/News/2021.md %}
