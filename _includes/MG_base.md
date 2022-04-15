@@ -43,10 +43,11 @@
 <div align="center">
   <h2>
     Gallery | Discover Bhedadīpikā
-  <h3> Moon Gallery Cube </h3>
   </h2>
-  {% include Portfolio/images_moongallery.html %}
+  <h3> Moon Gallery Cube </h3>
+  {% include Portfolio/moongallery/images_cube.html %}
   <h3> Star Cities / Organized Worlds </h3>
+  {% include Portfolio/moongallery/images_stargifs.html %}
   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/688182964?h=c87417cfb5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PriyankaRajkakati_StarCities"></iframe></div>
   <script src="https://player.vimeo.com/api/player.js"></script>
 </div>

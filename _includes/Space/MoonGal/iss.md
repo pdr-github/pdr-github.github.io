@@ -1,44 +1,4 @@
-<div id="mg_iss_gal" class="gridphotos">
-  {% include Scripts/smallgallery.html %}
-
-  <script>
-
-    smallGalThumb(
-      gal_id = "mg_iss_gal",
-      img_src = "/Portfolio/MoonGal/moongallery_final.png", 
-      heading = "Moon Gallery Layout", 
-      text = "",
-      );
-  </script>
-
-  <script>
-    smallGalThumb(
-      gal_id = "mg_iss_gal",
-      img_src = "/Portfolio/MoonGal/moongallery_nanolab.png", 
-      heading = "Installation on the Nanoracks Nanolab", 
-      text = "<a href='https://www.instagram.com/p/CZkIKlmFY8e/'>Source</a>",
-      );
-  </script>
-
-  <script>
-    smallGalThumb(
-      gal_id = "mg_iss_gal",
-      img_src = "/Portfolio/MoonGal/mg_iss1.jpg", 
-      heading = "View from the ISS Cupola", 
-      text = "",
-      );
-  </script>
-
-  <script>
-    smallGalThumb(
-      gal_id = "mg_iss_gal",
-      img_src = "/Portfolio/MoonGal/mg_iss3.jpg", 
-      heading = "View from the ISS Cupola", 
-      text = "",
-      );
-  </script>
-</div>
-
+{% include Portfolio/moongallery/images_iss.html %}
 <h3>Mission</h3>
 <p>
   The Moon Gallery was successfully launched to the International Space Station (ISS) on February 19, 2022.
