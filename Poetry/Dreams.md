@@ -19,8 +19,8 @@ You to my realm, one of such a different make.
 But until that day, my dove, you must
 Sleep the nights, and let reality rust..."
 
-So I feel I must now go off to bed,
-And watch my mind's show for tonight instead.
+So, slowly, my eyes shut, now heavy as lead,
+To watch my mind's show for tonight instead.
 </pre>
 <p align="center">
 	<img src="/Portfolio/Paintings/yosm.jpg" alt="Yosemite" style="width:50%">
