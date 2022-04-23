@@ -11,7 +11,7 @@ Are like sunshine to me
 To one... drowning in the depths of the sea
 They shine the way to the surface
 
-But what good is that
+But what good could that be
 To one... who cannot swim?
 </pre>
 <p align="center">
