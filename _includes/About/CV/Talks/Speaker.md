@@ -1,9 +1,17 @@
 <p>
+  <b> Panelist </b> | April 2022
+  <br> <a href="https://spacegeneration.org/sgindia-2022-speakers">
+    Benefits and Impact of Space Exploration on the Indian Society.
+  </a>
+  <br> <i> First-ever SG[India] </i>
+</p>
+
+<p>
   <b> Panelist </b> | June 2021
   <br> (in a panel including astronauts) <a href="https://www.iafastro.org/events/global-series-conferences/glex-2021/nextgen/plenary-session-international-collaboration-for-sustainable-space-exploration/">
     Next Gen: Plenary Session - International Collaboration for Sustainable Space Exploration.
   </a>
-  <br> <i> Global Space Exploration Conference (GLEX-2021), St Petersburg (June 2021) </i>
+  <br> <i> Global Space Exploration Conference (GLEX-2021), St Petersburg </i>
 </p>
 
 <p>
