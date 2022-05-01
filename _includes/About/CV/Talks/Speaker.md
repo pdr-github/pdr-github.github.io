@@ -8,9 +8,7 @@
 
 <p>
   <b> Talk </b> | April 2022
-  <br> <a href="">
-    Space and Art.
-  </a>
+  <br> Space and Art.
   <br> <i> Indian Women in Space Conference, Virtual </i>
 </p>
 
