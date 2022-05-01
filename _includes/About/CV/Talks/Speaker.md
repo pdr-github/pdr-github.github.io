@@ -3,7 +3,15 @@
   <br> <a href="https://spacegeneration.org/sgindia-2022-speakers">
     Benefits and Impact of Space Exploration on the Indian Society.
   </a>
-  <br> <i> First-ever SG[India] </i>
+  <br> <i> First SG[India] (SGAC local event in India), Virtual</i>
+</p>
+
+<p>
+  <b> Talk </b> | April 2022
+  <br> <a href="https://spacegeneration.org/sgindia-2022-speakers">
+    Space and Art.
+  </a>
+  <br> <i> Indian Women in Space Conference, Virtual </i>
 </p>
 
 <p>
