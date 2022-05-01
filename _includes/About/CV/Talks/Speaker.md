@@ -8,7 +8,7 @@
 
 <p>
   <b> Talk </b> | April 2022
-  <br> <a href="https://spacegeneration.org/sgindia-2022-speakers">
+  <br> <a href="">
     Space and Art.
   </a>
   <br> <i> Indian Women in Space Conference, Virtual </i>
