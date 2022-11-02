@@ -1,0 +1,43 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/About/">About</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/RiversProject/">Rivers Project</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/MoonGallery/">Moon Gallery</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Antarctica/">Antarctica</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/PhD/">PhD (GNSS)</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/vEGU21/">vEGU21 Residency</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/EMMIHS3/">EMMHIS-III Analogue</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Writings/">Writings</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/Sketchbook/">Sketchbook</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <img src="/design/images/ns2.gif" width="300">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div>
+      <div align="center">
+        <a href="https://twitter.com/priyankaspace?lang=en" class="fa fa-twitter" style="padding: 3px; width: 20px"></a>
+        <a href="mailto:contact@priyankarajkakati.space" class="fa fa-envelope" style="padding: 3px; width: 20px"></a>
+        <a href="https://www.instagram.com/priyankaspace/" class="fa fa-instagram"
+          style="padding: 3px; width: 20px"></a>
+        <a href="https://www.linkedin.com/in/priyankaspace/" class="fa fa-linkedin"
+          style="padding: 3px; width: 20px"></a>
+      </div>
+    </div>
+    <p align="center">
+      <br>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {% comment %} Currently v{{ site.version }} {% endcomment %}
+    </p>
+  </div>
+</div>

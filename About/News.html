@@ -1,0 +1,37 @@
+---
+layout: about_page
+title: Press
+---
+
+<script> actbtn("btnpress") </script>
+<div>
+  <h2>Featured</h2>
+  <div> <br>
+    {% include content/About/News/Featured.html %}
+  </div>
+
+  <br>
+  <h2>News archive</h2>
+  <body>
+    <button class="accordion">2022</button>
+    <div class="panel"> <br>
+      {% include content/About/News/2022.html %}
+      <br>
+    </div>
+    <button class="accordion">2021</button>
+    <div class="panel"> <br>
+      {% include content/About/News/2021.html %}
+      <br>
+    </div>
+    <button class="accordion">2020</button>
+    <div class="panel"> <br>
+      {% include content/About/News/2020.html %}  
+      <br>
+    </div>
+    <button class="accordion">2019 and earlier</button>
+    <div class="panel"> <br>
+      {% include content/About/News/2019-and-before.html %}  
+      <br>
+    </div>
+  </body>
+</div>

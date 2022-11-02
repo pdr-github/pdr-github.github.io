@@ -1,6 +1,0 @@
-<p>
-  It is no longer just science-fiction. Humans are really working on concrete projects today in 2020, not only on the exploration but also colonization of space! We are thinking already of building a functional Moon Village by 2050. The Moon Village is an open concept proposed with the goal of a sustainable human and robotic presence on the lunar surface as an ensemble where multiple users can carry out multiple activities.
-</p>
-<p>
-  Since it is very difficult for humans to live in space for long periods (as it is, it's already complicated here on Planet Earth), a lot of research needs to be on surviving out there and hence space agencies are coming together and collaborating on various analogue missions that simulate space environments - such as lunar/martian villages.
-</p>

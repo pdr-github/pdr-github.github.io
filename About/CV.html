@@ -1,0 +1,45 @@
+---
+layout: about_page
+title: CV
+---
+
+<script> actbtn("btncv") </script>
+<div>
+  <body>
+    <button class="accordion"> Education </button>
+    <div class="panel"> <br>
+      {% include content/About/CV/Education.html %}
+      <br>
+    </div>
+    <button class="accordion"> Honors </button>
+    <div class="panel">
+      {% include content/About/CV/Honors.html %}
+      <br><br>
+    </div>
+    <button class="accordion"> Professional Experience </button>
+    <div class="panel"> <br>
+      {% include content/About/CV/Professional_experience.html %}
+      <br><br><br>
+    </div>
+    <button class="accordion"> Art, Leadership & Volunteering </button>
+    <div class="panel">
+      {% include content/About/CV/Art-Leadership_experience.html %}
+      <br>
+    </div>
+    <button class="accordion"> Publications </button>
+    <div class="panel"> <br>
+      {% include content/About/CV/Publications.html %}
+      <br><br><br>
+    </div>
+    <button class="accordion"> Talks </button>
+    <div class="panel">
+      {% include content/About/CV/Talks.html %}
+      <br>
+    </div>
+    <button class="accordion"> Teaching </button>
+    <div class="panel">
+      {% include content/About/CV/Teaching.html %}
+      <br>
+    </div>
+  </body>
+</div>

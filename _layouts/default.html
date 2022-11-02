@@ -1,78 +1,34 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
-  
-  <body>
+{% include /design/head.html %}
 
-    {% include sidebar.html %}
+<body>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+  {% include /design/sidebar.html %}
+
+  <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
-      </div>
-
-      {% include Scripts/actbtn.md %}
-      <div class="container content">
-        {{ content }}
+  <div class="wrap">
+    <div class="masthead">
+      <div class="container">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <div class="container content">
+      {{ content }}
+    </div>
+  </div>
 
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-        document.addEventListener('click', function(e) {
-          var target = e.target;
+  <!-- SCRIPTS -->
+  <script src="{{ site.baseurl }}/design/js/accordion.js"></script>
 
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
+</body>
 
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
-
-    <!-- Slideshow -->
-    <script>
-      // Get the elements with class="column"
-      var elements = document.getElementsByClassName("column");
-
-      // Declare a "loop" variable
-      var i;
-
-      // Full-width images
-      function one() {
-        for (i = 0; i < elements.length; i++) {
-          elements[i].style.flex = "100%";
-        }
-      }
-
-      // Two images side by side
-      function two() {
-        for (i = 0; i < elements.length; i++) {
-          elements[i].style.flex = "50%";
-        }
-      }
-
-      // Four images side by side
-      function four() {
-        for (i = 0; i < elements.length; i++) {
-          elements[i].style.flex = "25%";
-        }
-      }
-    </script> 
-  </body>
 </html>

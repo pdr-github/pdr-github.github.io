@@ -1,0 +1,110 @@
+<div>
+	<h3> Title </h3>
+	<p>
+		Synchronization Performance Limits of GNSS Receivers
+	</p>
+	<h3> Advisors </h3>
+	<p>
+		Dr. Eric Chaumette (<i>ISAE-Supaéro</i>) <br>
+		Dr. Silvère Bonnabel (<i>Mines ParisTech</i>) <br>
+		Dr. Jordi Vilà-Valls (<i>ISAE-Supaéro</i>)
+	</p>
+	<h3> Laboratory and Funding </h3>
+	<p>
+		ISAE-ONERA SCANR (Signal, Communication, Antennae, Navigation & Radar) <br>
+		CIFRE contract with Safran <br>
+	</p>
+</div>
+<div>
+	<h3>Abstract</h3>
+	<p>
+		The advent of Global Navigation Satellite Systems (GNSS) has revolutionized today's world, with applications in
+		positioning, timing and remote sensing. The principle of GNSS is based on multilateration, which first involves
+		the estimation of both signal propagation time-delay and Doppler effect for each visible satellite. In fact,
+		delay-Doppler synchronization is an active research topic of significant practical importance in many fields,
+		with applications in radar, sonar, ultrasonics, communications and navigation. Now, when designing and assessing
+		estimation techniques, it is of fundamental importance to know the ultimate achievable performance in the mean
+		square error (MSE) sense, information which is brought by the computation of performance lower bounds (LBs) on
+		the MSE.
+	</p>
+	<p>
+		Compared to other LBs, Cramér-Rao Bounds (CRB) are simple to calculate and give an accurate estimation of the
+		MSE of the maximum likelihood estimator (MLE) in the asymptotic region of operation under certain conditions.
+		Indeed, GNSS receiver architectures rely on a scalar acquisition and tracking approach, which can be seen as
+		particular instances of a MLE solution. However, even if the delay-Doppler CRB literature is abundant, most of
+		these CRB expressions are unnecessarily restrictive and only address the standard narrowband signal model,
+		without considering the impact of the Doppler effect on the baseband signal. Most importantly, a sufficiently
+		generalized and easy-to-use compact CRB for generic band-limited signals is not available, being an important
+		missing point of practical interest.
+	</p>
+	<p>
+		The primary objective of the present thesis is the characterization of the asymptotic performance of GNSS
+		time-delay and Doppler estimation, i.e., synchronization, within a coherent integration time. The first
+		contribution is the derivation of a new compact closed-form CRB expression for time-delay estimation,
+		considering a generic band-limited transmitted signal and constant transmitter-to-receiver propagation delay,
+		completed with insights on an optimal signal design as well as a performance loss metric. This CRB derivation is
+		then extended to include the joint time-delay and phase estimation, which is of interest for standard precise
+		positioning approaches exploiting the carrier phase, such as PPP and RTK. A complimentary problem is then
+		addressed: the lack of a comprehensive performance analysis of GNSS signals in literature, from an optimal
+		estimation point of view. The work further provides the performance thresholds that require a need for carrier
+		phase-based positioning techniques. Finally, we extend the derivation of the generic compact closed-form CRB
+		expression to include the joint time-delay and Doppler stretch estimation, first for narrowband signals and then
+		for their wideband counterpart, followed by the introduction of a general compact closed-form CRB expression for
+		the amplitude and phase. Such results set the theoretical basis for the full GNSS receiver chain
+		characterization.
+	</p>
+	<p>
+		<b>Keywords:</b> GNSS signals, GNSS synchronization, Cramér-Rao Bounds, maximum likelihood, parameter
+		estimation, delay-Doppler-phase estimation, GNSS positioning.
+	</p>
+</div>
+<div>
+	<h2>[En français]</h2>
+	<h3> Titre </h3>
+	<p>
+		Limites des performances de synchronisation des récepteurs GNSS
+	</p>
+	<h3>Résumé</h3>
+	<p>
+		L'avènement des Système de Positionnement par Satellites, également désigné sous le sigle GNSS, a révolutionné
+		le monde d'aujourd'hui avec des applications diverses, de la localisation à la télédétection. Le principe du
+		GNSS est basé sur la trilatération, qui dépend de l'estimation du retard de propagation et de l'effet Doppler.
+		En effet, la synchronisation retard-Doppler est un sujet de recherche important pour de nombreux domaines, avec
+		des applications pratiques telles que le radar, le sonar, l'ultrason, la télécommunication et la navigation. Or,
+		pour la conception et l'évaluation des techniques d'estimation, il est important de connaître la meilleure
+		performance accessible au sens de l'erreur quadratique moyenne (EQM), ce qui est fourni par le calcul des bornes
+		inférieures (BI) sur l'EQM.
+	</p>
+	<p>
+		Par rapport aux autres BI, les bornes de Cramér-Rao (BCR) sont plus simples à calculer et fournissent une
+		estimation précise de l'EQM de l'estimateur au sens du Maximum de Vraisemblance
+		(EMV) dans la région d'opération asymptotique, sous certaines conditions. Aussi, les architectures des
+		récepteurs GNSS reposent sur des approches d'acquisition et de suivi, effectuée de manière scalaire, qui peuvent
+		être considérées comme des instances particulières de l'EMV. Cependant, malgré une littérature fournie sur les
+		BCR relatives à l'estimation retard-Doppler, la plupart de ces expressions de la BCR sont trop restrictives et
+		ne concernent que le modèle de signal à bande étroite, sans tenir compte de l'impact de l'effet du Doppler sur
+		le signal en bande de base. En effet, une expression analytique de BCR, suffisamment générale et facile à
+		utiliser, pour n'importe quel signal à bande limitée, n'était pas disponible au début de cette thèse.
+	</p>
+	<p>
+		L'objectif principal de la présente thèse porte sur la caractérisation des performances asymptotiques de
+		l'estimation du retard et du Doppler par un EMV cohérent. La première contribution est l'obtention d'une
+		nouvelle expression analytique de la BCR pour l'estimation du retard, en considérant un signal générique à bande
+		limitée et un retard de propagation constant, cette expression offrant de nouvelles possibilités pour la
+		conception d'un signal optimal. Cette expression de la BCR est ensuite utilisée pour caractériser l'estimation
+		conjointe du retard et de la phase du signal. Cette approche est pertinente pour la localisation précise,
+		exploitant la phase de la porteuse, telles que PPP et RTK. Par ailleurs, ces travaux de recherche ont permis de
+		mettre en évidence l'absence d'une analyse complète des performances des signaux GNSS dans la littérature
+		scientifique, d'un point de vue de l'estimation optimale. L'analyse présentée ici vise à combler cette lacune et
+		fournit également les limites de performance du positionnement standard. Pour franchir cette limite, il devient
+		alors nécessaire de recourir aux techniques de positionnement basées sur la phase de la porteuse. Enfin, nous
+		étendons la formulation analytique de la BCR générique pour inclure l'estimation conjointe du retard et du
+		Doppler, d'abord pour les signaux à bande étroite, puis pour leurs homologues à large bande, incluant également
+		l'amplitude et la phase.
+	</p>
+	<p>
+		<b>Mots clés:</b> Signaux GNSS, Bornes de Cramer-Rao, Synchronisation GNSS, Maximum de Vraisemblance, Estimation
+		de Retard-Doppler-Phase, Positionnement GNSS, Localisation par satellites, Bornes de Cramér-Rao (mathématique),
+		Synchronisation.
+	</p>
+</div>

@@ -1,7 +1,0 @@
-<p>
-  The Moon Gallery, is an international collaborative artwork and a gallery of ideas worth sending to the Moon. Moon Gallery intends to launch 100 artifacts to the Moon within the compact format of a 10 x 10 x 1 cm plate on a lunar lander exterior panelling as early as 2022. As it costs 1 million euros/kg to send something to the Moon, these (smart) artists proposed to hence miniaturise the gallery. The idea is to develop culture for a future interplanetary society in this Petri dish-like gallery.
-  <br><br>
-  The main team involves Anna Sitnikova (curator, exhibition designer), Elizaveta Glukhova (curator, graphic designer), Bernard Foing (space sector expert and visionary), and Alexander Zaklynsky (gallery founder).
-  <br><br>
-  <i>Bhedadīpikā</i> was selected as part of the Moon Gallery in 2019 and is <a href="http://www.moongallery.eu/artist/priyanka-das-rajkakati/"> a visual dialogue</a> based on the artist's own duality - as an artist as well as researcher. For more information on the Moon Gallery Project, please visit their <a href="http://www.moongallery.eu/"> website</a>. You can support the first mission to the ISS by donating <a href="https://www.moongallery.eu/donation/"> here</a>.
-</p>
