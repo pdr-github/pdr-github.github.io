@@ -25,3 +25,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+
+# Incremental Build (for faster builds)
+incremental:          true
