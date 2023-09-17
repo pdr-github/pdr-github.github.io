@@ -35,6 +35,6 @@ title: X-CubeSat
     </p>
   </div>
 
-  {% include Scripts/accordion.md %}
+  {% include scripts/accordion.md %}
 
 </div>
